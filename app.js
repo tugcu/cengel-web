@@ -357,9 +357,6 @@
     setStatus('Çözüm gösterildi.');
   }
 
-  function showWelcome() { els.welcome.classList.add('show'); }
-  function hideWelcome() { els.welcome.classList.remove('show'); }
-
   function wireKeyboard() {
     els.kb.addEventListener('input', function (e) {
       if (e.isComposing) return;
@@ -382,15 +379,13 @@
 
   async function init() {
     ['topic', 'remaining', 'newBtn', 'revealBtn', 'status', 'board', 'across', 'down',
-      'kb', 'welcome', 'startBtn', 'appVersion'].forEach(function (id) { els[id] = $(id); });
+      'kb', 'appVersion'].forEach(function (id) { els[id] = $(id); });
 
     els.appVersion.textContent = 'Sürüm ' + APP_VERSION;
     els.newBtn.addEventListener('click', newGame);
     els.revealBtn.addEventListener('click', revealSolution);
-    els.startBtn.addEventListener('click', hideWelcome);
     window.addEventListener('resize', function () { if (state.puzzle) sizeBoard(); });
     wireKeyboard();
-    showWelcome();
 
     try {
       var bank = await loadBank();
