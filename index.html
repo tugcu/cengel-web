@@ -16,37 +16,46 @@
 </head>
 <body>
   <main class="app">
-    <header class="top">
-      <h1 id="topic">Yükleniyor...</h1>
-      <p id="remaining" class="remaining"></p>
-    </header>
-
-    <div class="buttons">
-      <button id="newBtn" type="button" disabled>Yeni Oyun</button>
-      <button id="revealBtn" type="button">Çözümü Göster</button>
-    </div>
-
-    <p id="status" class="status" aria-live="polite"></p>
-
     <div id="boardWrap" class="board-wrap">
       <div id="board" class="board" aria-label="Bulmaca ızgarası"></div>
     </div>
 
-    <h2>Yatay</h2>
-    <div id="across" class="clues"></div>
+    <section class="clue-area" aria-label="Sorular">
+      <div class="clue-cols">
+        <div>
+          <h2>Yatay</h2>
+          <div id="across" class="clues"></div>
+        </div>
+        <div>
+          <h2>Dikey</h2>
+          <div id="down" class="clues"></div>
+        </div>
+      </div>
+    </section>
 
-    <h2>Dikey</h2>
-    <div id="down" class="clues"></div>
+    <div class="bottom">
+      <header class="top">
+        <h1 id="topic">Yükleniyor...</h1>
+        <p id="remaining" class="remaining"></p>
+      </header>
+
+      <div class="buttons">
+        <button id="newBtn" type="button" disabled>Yeni Oyun</button>
+        <button id="revealBtn" type="button">Çözümü Göster</button>
+      </div>
+
+      <p id="status" class="status" aria-live="polite"></p>
+    </div>
   </main>
 
   <input id="kb" class="kb" type="text" inputmode="text" autocomplete="off" autocorrect="off"
          autocapitalize="characters" spellcheck="false" aria-hidden="true" tabindex="-1">
 
-   <footer class="footer">
-     <p class="gift">Bu Çengel Bulmaca oyunu annem Hacer Tuğcu'ya hediyemdir.</p>
-     <p class="copy">© 2026 Tuna Tuğcu. Tüm hakları saklıdır.</p>
-     <p class="copy" id="appVersion"></p>
-   </footer>
+  <footer class="footer">
+    <p class="gift">Bu Çengel Bulmaca oyunu annem Hacer Tuğcu'ya hediyemdir.</p>
+    <p class="copy">© 2026 Tuna Tuğcu. Tüm hakları saklıdır.</p>
+    <p class="copy" id="appVersion"></p>
+  </footer>
 
   <script src="engine.js"></script>
   <script src="app.js"></script>

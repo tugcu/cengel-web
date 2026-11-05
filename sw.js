@@ -1,5 +1,5 @@
 /* Çevrimdışı önbellek (ağ öncelikli). Copyright (c) 2026 Tuna Tuğcu. */
-const CACHE = 'cengel-1.7';
+const CACHE = 'cengel-1.8';
 const SHELL = ['./', 'index.html', 'style.css', 'engine.js', 'app.js', 'puzzles.json',
   'manifest.webmanifest', 'icon-180.png', 'icon-192.png', 'icon-512.png'];
 

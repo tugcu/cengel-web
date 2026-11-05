@@ -6,7 +6,7 @@
   'use strict';
 
   var E = window.CrosswordEngine;
-  var APP_VERSION = '1.7';
+  var APP_VERSION = '1.8';
   var REMOTE_URL = 'https://raw.githubusercontent.com/tugcu/cengel-bulmaca/main/puzzles.json';
   var BUNDLED_URL = 'puzzles.json';
   var KEY_PLAYED = 'cb_played';
@@ -166,13 +166,15 @@
     els.topic.textContent = picked.item.topic;
     renderClues();
     renderBoard();
-    setStatus('Bir kutucuğa dokun ve harf yaz.');
+    setStatus('');
   }
 
   function sizeBoard() {
     var p = state.puzzle;
     var avail = els.board.parentElement.clientWidth;
-    var cell = Math.max(24, Math.min(48, Math.floor(avail / p.cols)));
+    var byWidth = Math.floor(avail / p.cols);
+    var byHeight = Math.floor((window.innerHeight * 0.5) / p.rows);
+    var cell = Math.max(18, Math.min(48, byWidth, byHeight));
     document.documentElement.style.setProperty('--cell', cell + 'px');
   }
 
