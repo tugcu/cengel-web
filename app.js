@@ -6,7 +6,7 @@
   'use strict';
 
   var E = window.CrosswordEngine;
-  var APP_VERSION = '1.6';
+  var APP_VERSION = '1.7';
   var REMOTE_URL = 'https://raw.githubusercontent.com/tugcu/cengel-bulmaca/main/puzzles.json';
   var BUNDLED_URL = 'puzzles.json';
   var KEY_PLAYED = 'cb_played';
