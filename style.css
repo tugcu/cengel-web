@@ -174,3 +174,12 @@ button:disabled { opacity: 0.5; }
 }
 
 .card button { margin-top: 14px; width: 100%; }
+
+.footer {
+  margin-top: 28px;
+  padding: 16px 0 calc(16px + env(safe-area-inset-bottom));
+  border-top: 1px solid #ccc;
+  text-align: center;
+}
+.footer .gift { font-weight: 600; margin: 0 0 6px; }
+.footer .copy { font-size: 14px; color: #555; margin: 4px 0; }
