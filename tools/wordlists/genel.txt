@@ -1,0 +1,126 @@
+ATOM|Maddenin en küçük yapı taşı
+MOLEKÜL|Atomların bir araya gelmesiyle oluşan parçacık
+ELEKTRON|Negatif yüklü atom parçacığı
+PROTON|Pozitif yüklü çekirdek parçacığı
+ENERJİ|İş yapabilme kapasitesi
+SÜRTÜNME|İki yüzeyin birbirine gösterdiği direnç
+MIKNATIS|Demiri çeken cisim
+BUHAR|Suyun gaz hâli
+ERİME|Katının sıvıya dönüşmesi
+DONMA|Sıvının katılaşması
+FOTOSENTEZ|Bitkilerin güneş ışığıyla besin üretmesi
+HÜCRE|Canlının en küçük yapı birimi
+BAKTERİ|Tek hücreli mikroskobik canlı
+VİRÜS|Hücre dışında çoğalamayan mikroskobik etken
+MİKROP|Hastalık yapabilen küçük canlı
+ANTİBİYOTİK|Bakterilere karşı kullanılan ilaç
+AKCİĞER|Solunum organı
+BÖBREK|Kanı süzen organ
+GENETİK|Kalıtımı inceleyen bilim dalı
+MİNERAL|Doğada doğal olarak bulunan katı madde
+VOLKAN|Yerkabuğundaki lav çıkış yeri
+DEPREM|Yer kabuğunun sarsılması
+ATMOSFER|Dünyayı çevreleyen hava tabakası
+OKSİJEN|Solunum için gerekli gaz
+HİDROJEN|Suyun yapısında bulunan en hafif element
+KARBON|Elmas ve grafit yapısında bulunan element
+ASİT|pH değeri düşük, aşındırıcı madde
+MERCEK|Işığı kıran saydam cisim
+TELESKOP|Uzak gök cisimlerini gözleyen alet
+PUSULA|Yön gösteren manyetik alet
+KALDIRAÇ|Destek noktası etrafında dönen çubuk
+ELEKTRİK|Yüklü parçacıkların hareketiyle oluşan enerji
+BİLGİSAYAR|Verileri işleyen elektronik makine
+YAZILIM|Bilgisayarı çalıştıran programlar
+İNTERNET|Dünya çapında bağlı ağlar
+ŞİFRE|Hesaba girmek için gizli kod
+KLAVYE|Yazı yazmaya yarayan tuş takımı
+FARE|Ekran imlecini kontrol eden aygıt
+EKRAN|Görüntünün gösterildiği yüzey
+YAZICI|Çıktı alan aygıt
+TARAYICI|İnternette gezinmeyi sağlayan yazılım
+ROBOT|Programlanabilen otomatik makine
+UYDU|Yörüngede dönen gök cismi
+RADYO|Ses yayını yapan ve alan aygıt
+TELEFON|Uzaktaki kişiyle konuşmayı sağlayan cihaz
+FUTBOL|Ayakla oynanan takım sporu
+BASKETBOL|Potaya top atılan takım sporu
+VOLEYBOL|Filenin üzerinden oynanan takım sporu
+HENTBOL|Elle oynanan, kale atılan takım sporu
+TENİS|Raketle oynanan bireysel ya da çiftler sporu
+YÜZME|Suda yapılan spor
+GÜREŞ|Rakibi yere yatırmaya çalışılan spor
+BOKS|Eldivenle yapılan dövüş sporu
+ATLETİZM|Koşu ve atlama branşlarını içeren spor
+KAYAK|Karda, iki tahta üzerinde kayma sporu
+BİSİKLET|İki tekerlekli taşıt
+ŞAMPİYON|Yarışmanın birincisi
+MAÇ|İki takımın karşılaştığı müsabaka
+GOL|Topun kaleye girmesiyle kazanılan sayı
+KALECİ|Kalede duran oyuncu
+HAKEM|Maçı yöneten kişi
+OFSAYT|Hücum oyuncusunun geçersiz konumu
+PENALTI|Ceza vuruşu
+KORNER|Köşe vuruşu
+ANTRENÖR|Takımı çalıştıran kişi
+MADALYA|Derece alanlara verilen ödül
+DOKTOR|Hastalara tedavi uygulayan hekim
+HEMŞİRE|Hastaya bakım veren sağlık personeli
+ECZACI|İlaç hazırlayıp satan kişi
+AVUKAT|Hukuki danışmanlık yapan kişi
+HAKİM|Davalara bakan yargıç
+POLİS|Güvenliği sağlayan görevli
+İTFAİYECİ|Yangına müdahale eden kişi
+AŞÇI|Yemek hazırlayan kişi
+BERBER|Saç kesen kişi
+KUAFÖR|Güzellik hizmeti veren kişi
+ÇİFTÇİ|Toprağı ekip biçen kişi
+BALIKÇI|Balık tutan kişi
+MARANGOZ|Ahşap eşya yapan usta
+ŞOFÖR|Araç süren kişi
+PİLOT|Uçağı kullanan kişi
+GARSON|Müşteriye sipariş getiren kişi
+TERZİ|Dikiş dikip giysi yapan kişi
+DİŞÇİ|Diş tedavisi yapan hekim
+KOLTUK|Oturmaya yarayan kişilik mobilya
+DOLAP|Giysi ve eşya konulan kapaklı mobilya
+PENCERE|Odaya ışık alan açıklık
+TABAK|Yemek konan yassı kap
+ÇATAL|Yemek yemek için kullanılan sivri uçlu alet
+KAŞIK|Çorba içmek için kullanılan kepçeli alet
+BIÇAK|Kesmeye yarayan keskin alet
+TENCERE|Yemek pişirilen metal kap
+TAVA|Yağda kızartma için yassı kap
+BUZDOLABI|Gıdaları soğuk tutan alet
+SÜPÜRGE|Yerleri temizlemeye yarayan alet
+SABUN|Eli yıkamakta kullanılan köpüklü madde
+HAVLU|Yıkandıktan sonra kurulanmak için kullanılan bez
+YASTIK|Başın altına konan yumuşak dolgu
+ÇARŞAF|Yatağı örten kumaş
+ÇİVİ|Duvara çakılan sivri metal
+ÇEKİÇ|Çivi çakmaya yarayan alet
+MERDİVEN|Yükseğe çıkmak için basamaklı araç
+ÇANTA|Eşya taşımak için kullanılan torba
+SAAT|Zamanı gösteren alet
+LAMBA|Işık veren aydınlatma aracı
+KİLİT|Kapıyı kapatan, anahtarla açılan düzen
+ARKADAŞ|Yakın dost
+KOMŞU|Yan evde oturan kişi
+KARDEŞ|Aynı anne babadan olan
+MİSAFİR|Ağırlanan konuk
+DAKİKA|Altmış saniyelik zaman birimi
+SANİYE|Dakikanın altmışta biri
+KIŞ|Yılın en soğuk mevsimi
+DENİZ|Tuzlu sularla dolu geniş su kütlesi
+NEHİR|Akan sularla dolu büyük akarsu
+ORMAN|Ağaçlarla kaplı geniş alan
+BULUT|Havada asılı su buharı kümesi
+KAR|Gökten inen beyaz, donmuş su taneleri
+KARANLIK|Işığın olmadığı durum
+KÖPRÜ|Nehri ya da yolu geçmeyi sağlayan yapı
+OTOBÜS|Çok yolcu taşıyan kara taşıtı
+EKMEK|Undan yapılan temel besin
+BİSKÜVİ|Çayla yenen kuru pasta
+PORTAKAL|Turuncu kabuklu narenciye
+ÇİLEK|Kırmızı, tohumlu yaz meyvesi
+AYRAN|Yoğurt ve sudan yapılan içecek

@@ -1,0 +1,124 @@
+MATEMATİK|Sayılar ve işlemlerin öğretildiği ders
+FİZİK|Madde ve enerjiyi inceleyen bilim dalı
+KİMYA|Maddelerin yapısını ve tepkimelerini inceler
+BİYOLOJİ|Canlıları konu alan bilim dalı
+COĞRAFYA|Yeryüzünü ve iklimleri inceleyen bilim
+FELSEFE|Varlık ve bilgi üzerine düşünen bilim
+MANTIK|Doğru düşünmenin kurallarını inceleyen bilim
+GEOMETRİ|Şekillerin özelliklerini inceleyen matematik dalı
+JEOLOJİ|Yerkürenin yapısını inceleyen bilim
+SOSYOLOJİ|Toplumu ve toplumsal ilişkileri inceleyen bilim
+PSİKOLOJİ|İnsan davranışını inceleyen bilim dalı
+PEDAGOJİ|Eğitimin kuram ve yöntemlerini inceleyen bilim
+BİLGİSAYAR|Veri işleyen elektronik cihaz
+ALMANCA|Almanya'da konuşulan yabancı dil
+FRANSIZCA|Fransa'da konuşulan yabancı dil
+İNGİLİZCE|Ana dili İngiltere ve ABD olan dil
+LATİNCE|Eski Roma'nın dili
+TÜRKÇE|Ana dil dersi
+RESİM|Boyayla yapılan görsel sanat dersi
+MÜZİK|Notaların ve seslerin işlendiği ders
+TARİH|Geçmişi konu alan ders
+SINIF|Öğrencilerin birlikte ders gördüğü topluluk
+DERSLİK|Derslerin yapıldığı oda
+OKUL|Eğitim ve öğretim yapılan kurum
+ÜNİVERSİTE|Lisans ve lisansüstü eğitim veren kurum
+FAKÜLTE|Üniversitenin ana bölümlerinden biri
+YÜKSEKOKUL|Önlisans düzeyinde eğitim veren kurum
+REKTÖR|Üniversitenin başındaki yönetici
+DEKAN|Fakülteyi yöneten kişi
+PROFESÖR|Üniversitedeki en üst akademik unvan
+DOÇENT|Profesörün altındaki akademik unvan
+ASİSTAN|Öğretim üyesine yardımcı olan akademik görevli
+AKADEMİSYEN|Üniversitede bilimsel çalışma yapan kişi
+AKADEMİ|Yüksek bilim ve sanat kurumu
+DOKTORA|Lisansüstü eğitimin en üst basamağı
+LİSANS|Üniversitenin ilk derecesi
+MEZUN|Okulunu bitirmiş kişi
+DİPLOMA|Okulu bitirenlere verilen belge
+KAYIT|Okula öğrenci olarak yazılma işlemi
+BURS|Başarılı öğrencilere verilen mali destek
+HARÇ|Kayıt sırasında ödenen eğitim ücreti
+YURT|Öğrencilerin kaldığı konaklama yeri
+KANTİN|Okulda yiyecek içecek satılan yer
+SIRA|Sınıfta öğrencinin oturduğu masa
+KÜRSÜ|Öğretmenin durduğu yüksek yer
+TAHTA|Derslikte yazı yazılan yüzey
+ÇANTA|Okul gereçlerini taşımaya yarayan kap
+KİTAP|Sayfalardan oluşan basılı yapıt
+SÖZLÜK|Kelimelerin anlamlarının verildiği kitap
+ATLAS|Haritaların toplandığı kitap
+ANSİKLOPEDİ|Bilgileri alfabetik sıralayan başvuru kitabı
+HARİTA|Yeryüzünün çizim ile gösterimi
+GLOBUS|Dünyanın küresel maketi
+PANO|Duvara asılan bilgi tahtası
+DOSYA|Belgelerin konulduğu klasör
+MAKAS|Kağıt kesmeye yarayan alet
+YAPIŞTIRICI|Kağıtları birleştiren yapışkanlı madde
+KALEMTIRAŞ|Kalemin ucunu açmaya yarayan araç
+DOLMAKALEM|Mürekkepli, içi doldurulan kalem
+TÜKENMEZ|Bilyalı uçlu kalem
+MARKÖR|Beyaz tahtaya yazılan keçeli kalem
+BOYAKALEMİ|Renkli çizim için kullanılan kalem
+PERGEL|Daire çizmeye yarayan araç
+TRANSPORTÖR|Açı ölçmeye yarayan yarım daire biçimli cetvel
+KAĞIT|Üzerine yazı yazılan ince malzeme
+NOT|Öğrencinin başarısını gösteren değer
+PUAN|Başarıyı sayıyla gösteren değer
+SINAV|Bilgiyi ölçmek için yapılan değerlendirme
+YAZILI|Kağıt üzerinde yapılan sınav
+SÖZLÜ|Soruların sözle yanıtlandığı sınav
+TEST|Çoktan seçmeli sınav
+DENEME|Sınav provası niteliğinde çözülen sorular
+YOKLAMA|Derste öğrencilerin tek tek sayıldığı işlem
+NÖBETÇİ|Gün boyunca sınıfı gözetleyen görevli
+ÖNLÜK|Okul kıyafetinin üstüne giyilen giysi
+ÖĞRENİM|Okulda ders görerek bilgi edinme
+EĞİTİM|Bilgi ve beceri kazandırma süreci
+ÖĞRETİM|Bilgi aktarma süreci
+BİLGİ|Öğrenmeyle edinilen şey
+BECERİ|Bir işi yapabilme yeteneği
+MEKTEP|Eski dilde okul
+DERSANE|Sınava hazırlık veren özel kurum
+KURS|Belli bir konuda verilen kısa eğitim
+DÖNEM|Eğitim yılının bölümlerinden biri
+ÜNİTE|Kitapta bölümlere ayrılmış ana kısım
+KONU|Dersin işlendiği başlık
+KAZANIM|Öğrencinin edinmesi beklenen bilgi ya da beceri
+ÇİZELGE|Satır ve sütunlardan oluşan tablo
+ÖZET|Metnin kısa anlatımı
+SİNONİM|Anlamdaş sözcük
+ANTONİM|Anlamca karşıt sözcük
+EŞSESLİ|Sesleri aynı, anlamları farklı sözcük
+FİİL|Cümlede iş ya da oluş bildiren sözcük
+SIFAT|Varlığın niteliğini bildiren sözcük
+ZARF|Fiilin durumunu belirten sözcük
+ZAMİR|Ad yerine kullanılan sözcük
+EDAT|Sözcükler arasında ilgi kuran söz türü
+BAĞLAÇ|Sözcük ya da cümleleri bağlayan sözcük
+ÜNLEM|Sevinç, şaşkınlık gibi duyguları anlatan söz türü
+ÜNSÜZ|Ağızda hava engeliyle çıkan ses
+ÜNLÜ|Ağızda hava engeline uğramadan çıkan ses
+SONEK|Sözcüğün sonuna gelen ek
+ÖNEK|Sözcüğün başına gelen ek
+KÖK|Sözcüğün anlamını taşıyan temel kısım
+NESNE|Eylemden etkilenen cümle öğesi
+TÜMLEÇ|Cümlede eksik bilgiyi tamamlayan öğe
+TEKİL|Sayı bakımından tek olanı anlatan
+ÇOĞUL|Birden çok varlığı gösteren sayı
+HARF|Sesi gösteren yazı işareti
+YAZIM|Kelimelerin doğru yazılış kuralları
+DİL|İletişimde kullanılan sözcük ve kurallar sistemi
+ETKİNLİK|Ders dışı yapılan uygulamalı çalışma
+PROJE|Belli bir hedef için yapılan çalışma
+SUNUM|Konunun sınıfa anlatılması
+OYUN|Teneffüste oynanan eğlence
+TÖREN|Açılış ya da mezuniyet gibi resmi kutlama
+GÖRÜŞME|Veli ile öğretmenin yaptığı konuşma
+VELİ|Öğrencinin yasal sorumlusu
+ARŞİV|Belgelerin saklandığı yer
+EKONOMİ|Kaynakların kullanımını inceleyen bilim
+DİKSİYON|Sesi doğru ve güzel söyleme sanatı
+KOMPOZİSYON|Okulda yazılan uzun yazılı anlatım
+MASAL|Olağanüstü olayları anlatan halk öyküsü
+SESBİLGİSİ|Seslerin yapısını inceleyen dilbilim dalı

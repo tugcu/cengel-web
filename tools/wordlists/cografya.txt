@@ -1,0 +1,121 @@
+DİCLE|Diyarbakır'dan geçen güneydoğu nehri
+KÖPRÜÇAY|Köprülü Kanyon'dan akan Antalya nehri
+YEŞİLIRMAK|Amasya'dan geçen, Karadeniz'e dökülen nehir
+MENDERES|Aydın'dan geçip Ege'ye ulaşan ünlü nehir
+GEDİZ|Kütahya'dan doğup Ege'ye akan nehir
+SEYHAN|Adana'dan geçip Akdeniz'e dökülen nehir
+CEYHAN|Seyhan'ın komşusu, Akdeniz'e dökülen nehir
+ÇORUH|Artvin'den geçip Gürcistan'a akan nehir
+ARAS|Iğdır'da Ermenistan sınırını çizen nehir
+MERİÇ|Edirne'de Yunanistan sınırını oluşturan nehir
+NİL|Kahire'den geçen, Mısır'ın ana nehri
+AMAZON|Güney Amerika'da en fazla su taşıyan nehir
+TİGRİS|Dicle'nin yabancı dildeki adı
+VOLGA|Avrupa'nın en uzun nehri, Hazar'a dökülür
+MİSİSİPİ|Meksika Körfezi'ne dökülen Amerikan nehri
+GANG|Hindistan'da kutsal sayılan, Bengal Körfezi'ne akan nehir
+KONGO|Ekvator'u kesip Atlas Okyanusu'na dökülen nehir
+KAZDAĞI|Troya'nın yakınındaki, İda adıyla bilinen dağ
+BOLKAR|Niğde çevresinde Toroslar'ın bir dağ sırası
+TOROS|Güney Anadolu'da uzanan büyük dağ kuşağı
+TAHTALI|Antalya'da teleferikle çıkılan dağ
+ALPLER|Mont Blanc'ın bulunduğu Avrupa dağ kuşağı
+HİMALAYA|Nepal ve Hindistan'a uzanan dünyanın en yüksek sırası
+ANDLAR|Güney Amerika'nın batısında uzanan dağ sırası
+KILIMANJARO|Tanzanya'daki Afrika'nın en yüksek dağı
+ELBRUS|Kafkasların en yüksek zirvesi, Rusya'da
+EVEREST|Nepal ile Çin sınırındaki dünyanın en yüksek zirvesi
+PİRENELER|İspanya ile Fransa arasındaki dağ sırası
+VAN|Türkiye'nin en büyük gölü, soda gölü
+BEYŞEHİR|Konya'daki, Türkiye'nin en büyük tatlı su gölü
+İZNİK|Bursa'da, aynı adlı ilçenin yanındaki göl
+ULUABAT|Bursa'da, Ramsar listesinde yer alan kuş cenneti gölü
+MANYAS|Balıkesir'de kuş cenneti olan göl
+ERÇEK|Van'da, Erciş yakınındaki soda gölü
+BAYKAL|Sibirya'da, dünyanın en derin tatlı su gölü
+ONTARİO|Büyük Göller'in yüzölçümü en küçük olanı
+EGE|Yunanistan ile Anadolu arasındaki deniz
+AKDENİZ|Antalya'nın kıyısını yalayan deniz
+KARADENİZ|Türkiye'nin kuzeyinde, Boğaz'la Marmara'ya bağlı deniz
+AZAK|Kerç Boğazı'yla Karadeniz'e bağlanan sığ deniz
+HAZAR|Volga'nın döküldüğü, dünyanın en büyük kapalı su kütlesi
+KIZILDENİZ|Süveyş Kanalı'nın ulaştığı, Afrika ile Arabistan arası deniz
+ADRİYATİK|İtalya ile Balkan kıyıları arasındaki deniz
+BALTIK|İskandinavya ile Almanya arasındaki deniz
+İYON|Güney İtalya ile Yunanistan arasındaki deniz
+KARAYİP|Antiller'in çevrelediği, Amerika'nın tropik denizi
+TRAKYA|Türkiye'nin Avrupa kıtasındaki toprakları
+ÇUKUROVA|Adana ve Mersin'in ovası, pamuk ve narenciye
+LİKYA|Fethiye ve Kaş çevresindeki antik bölge
+KİLİKYA|Mersin ve Tarsus çevresindeki antik bölge
+MEZOPOTAMYA|Dicle ve Fırat arasında kalan tarihi bölge
+İSKANDİNAVYA|Norveç ve İsveç'in bulunduğu kuzey Avrupa yarımadası
+YUNANİSTAN|Ege'nin karşı kıyısındaki komşu ülke
+ALMANYA|Başkenti Berlin olan Orta Avrupa ülkesi
+FRANSA|Başkenti Paris olan, Eyfel Kulesi'nin ülkesi
+İSPANYA|Madrid'in bulunduğu Iberya Yarımadası ülkesi
+POLONYA|Başkenti Varşova olan Orta Avrupa ülkesi
+BULGARİSTAN|Türkiye'nin kuzeybatı komşusu, başkenti Sofya
+AZERBAYCAN|Başkenti Bakü olan, Hazar kıyısındaki ülke
+GÜRCİSTAN|Türkiye'nin kuzeydoğu komşusu, başkenti Tiflis
+MISIR|Piramitleriyle bilinen, Nil kıyısındaki Afrika ülkesi
+LÜBNAN|Başkenti Beyrut olan Akdeniz kıyısı ülkesi
+İRAN|Türkiye'nin doğu komşusu, başkenti Tahran
+BREZİLYA|Amazon'un büyük bölümünü barındıran Güney Amerika ülkesi
+HİNDİSTAN|Başkenti Yeni Delhi olan güney Asya ülkesi
+JAPONYA|Başkenti Tokyo olan, adalardan oluşan ülke
+AVUSTRALYA|Hem kıta hem ülke olan, Canberra'lı ülke
+NORVEÇ|Fiyortlarıyla ünlü, İskandinav Yarımadası'nda ülke
+ŞİLİ|And Dağları'nın batısında, dar ve uzun Güney Amerika ülkesi
+KENYA|Ekvator'un üzerinden geçen, Nairobi'li Afrika ülkesi
+PARİS|Fransa'nın başkenti, Seine kıyısında
+ROMA|İtalya'nın başkenti, yedi tepeli antik kent
+BERLİN|Almanya'nın başkenti, Spree nehri kıyısında
+MADRİT|İspanya'nın başkenti, ülkenin ortasında
+ATİNA|Akropolis'in bulunduğu Yunanistan başkenti
+BAĞDAT|Irak'ın başkenti, Dicle kıyısında
+TAHRAN|İran'ın başkenti, Elburz eteklerinde
+KAHİRE|Mısır'ın başkenti, Nil kıyısındaki dev kent
+RİYAD|Suudi Arabistan'ın başkenti, ülkenin orta kesiminde
+PEKİN|Çin'in başkenti, Yasak Şehir'in bulunduğu kent
+TOKYO|Japonya'nın başkenti, Kanto Ovası'nda
+SEUL|Güney Kore'nin başkenti, Han Nehri kıyısında
+LİMA|Peru'nun başkenti, Pasifik kıyısında
+BAKÜ|Azerbaycan'ın başkenti, Hazar kıyısında
+LEFKOŞA|KKTC'nin başkenti, Kıbrıs'ın ortasında
+TAŞKENT|Özbekistan'ın başkenti, Orta Asya'nın büyük kenti
+KAYSERİ|Erciyes Dağı'nın eteğindeki Orta Anadolu ili
+KONYA|Çatalhöyük'ün bulunduğu Orta Anadolu ili
+ISPARTA|Gül yağıyla ünlü, Eğirdir'in bağlı olduğu il
+BİTLİS|Tatvan'ın bağlı olduğu, Van Gölü kıyısındaki il
+AMASYA|Yeşilırmak kıyısında, Pontus kral mezarlarıyla bilinen il
+IĞDIR|Aras kıyısında, Ağrı Dağı'na komşu doğu ili
+BOZCAADA|Çanakkale'ye bağlı, Ege'deki ada ilçesi
+GÖKÇEADA|Türkiye'nin en büyük adası, Çanakkale'ye bağlı
+DATÇA|Muğla'da, iki körfezi ayıran yarımada ilçesi
+SİNOP|Türkiye'nin en kuzey noktasının bulunduğu Karadeniz ili
+RİZE|Çay üretiminin merkezi Doğu Karadeniz ili
+PLATO|Çevresine göre yüksek, düz ve geniş arazi
+YAYLA|Yüksek rakımlı, otlak olarak kullanılan düzlük
+VADİ|İki yamaç arasında uzanan çukur, akarsu yatağı
+DELTA|Nehir ağzında biriken alüvyonlardan oluşan üçgen ova
+KANYON|Dik yamaçlı, derin ve dar vadi
+MAĞARA|Kayaların içinde oluşan doğal boşluk
+KÖRFEZ|Karanın denize doğru girintisi
+YARIMADA|Üç yanı denizle çevrili kara parçası
+ŞELALE|Yüksekten dökülen su akışı
+VOLKAN|Yerin altındaki magmanın dışarı çıktığı dağ
+FİYORD|Buzul oyması, derin ve dar deniz girintisi
+ÇÖL|Yağışın çok az olduğu, bitki örtüsü seyrek bölge
+VAHA|Çölde su bulunan yeşil alan
+BUZUL|Karların sıkışarak oluşturduğu, yavaş hareket eden buz kütlesi
+İKLİM|Uzun yıllar boyunca bir yerdeki ortalama hava durumu
+MUSON|Mevsimlere göre yön değiştiren rüzgâr sistemi
+TAYFUN|Batı Pasifik'te oluşan şiddetli tropikal fırtına
+KASIRGA|Güçlü, dönerek ilerleyen hava fırtınası
+KURAKLIK|Uzun süre yağışın azlığından doğan su eksikliği
+BASINÇ|Birim alana düşen hava ağırlığı
+EKVATOR|Dünyayı kuzey ve güney yarıkürelere ayıran çember
+ENLEM|Ekvatora göre kuzey-güney konumunu gösteren açı
+BOYLAM|Başlangıç meridyenine göre doğu-batı konumunu gösteren açı
+TROPİK|Yengeç ve Oğlak dönenceleri arasındaki sıcak kuşak

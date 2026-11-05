@@ -1,0 +1,120 @@
+KEDİ|Evcil, miyavlayan ve fareyi kovalayan hayvan
+KÖPEK|Havlayarak bekçilik yapan, insanın en eski dostu
+İNEK|Süt veren büyükbaş hayvan
+KOYUN|Yünü için beslenen hayvan
+KEÇİ|Boynuzlu, dağlarda da rahat eden evcil hayvan
+TAVUK|Yumurtlayan ve etinden yararlanılan kanatlı
+HOROZ|Sabahları ötmesiyle bilinen erkek tavuk
+ÖRDEK|Göllerde yüzen, suda beslenen kuş
+KAZ|Gaklayarak öten büyük su kuşu
+GÜVERCİN|Mektup taşımasıyla da tanınan şehir kuşu
+SERÇE|Şehirde sık görülen küçük, gri kuş
+KUMRU|Gugu diye ötmesiyle bilinen kuş
+BAYKUŞ|Geceleri avlanan, büyük gözlü kuş
+KARGA|Zeki ve siyah tüylü kuş
+ATMACA|Güvercin avlayan yırtıcı kuş
+DOMUZ|Burnu yassı, kulağı sarkık çiftlik hayvanı
+ZÜRAFA|Uzun boynuyla bilinen Afrika hayvanı
+FİL|Hortumlu, iri yapılı memeli
+AYI|Kışın uyuyan, iri yapılı memeli
+KUNDUZ|Suda baraj gibi yapılar kuran kemirgen
+TAVŞAN|Uzun kulaklı, kısa kuyruklu küçük memeli
+YILAN|Ayaksız, pullu sürüngen
+TİMSAH|Nehirlerde yaşayan, iri ağızlı sürüngen
+KOBRA|Başını şişiren, zehirli yılan
+BUKALEMUN|Rengini çevresine göre değiştirebilen sürüngen
+SİVRİSİNEK|Kan emen küçük uçan böcek
+KARINCA|Kolonilerde yaşayan küçük böcek
+ARI|Bal yapan, iğneli böcek
+SİNEK|Evlerde dolaşan, vızıldayan böcek
+HAMAMBÖCEĞİ|Karanlık ve nemli yerleri seven böcek
+PİRE|Kedi ve köpeklerde yaşayan zıplayan parazit
+ARSLAN|Yelesiyle tanınan büyük yırtıcı kedi
+PANTER|Siyah benekli, çevik yırtıcı kedi
+VAŞAK|Kulakları püsküllü yabani kedi
+GEYİK|Her yıl boynuzlarını döken orman hayvanı
+KARACA|Küçük, zarif yabani geyik
+ZEBRA|Siyah beyaz çizgileriyle bilinen at benzeri hayvan
+DEVE|Hörgüçlü çöl hayvanı
+GERGEDAN|Boynuzlu, zırhlı görünümlü Afrika memelisi
+KANGURU|Yavrusunu kesesinde taşıyan Avustralya hayvanı
+KOALA|Okaliptüs yapraklarıyla beslenen ağaç hayvanı
+PANDA|Bambu yapraklarıyla beslenen siyah beyaz ayı
+PORSUK|Yeraltında yaşayan, siyah beyaz yüzlü memeli
+SAMUR|Değerli kürkü için avlanan küçük memeli
+FARE|Küçük, uzun kuyruklu kemirgen
+KÖSTEBEK|Yeraltında tüneller kazan küçük memeli
+SALYANGOZ|Kabuğunu sırtında taşıyan yavaş yumuşakça
+İSTİRİDYE|Kabuklu ve iki kapaklı yumuşakça
+YENGEÇ|Kıskaçlı, yanlara yürüyen deniz canlısı
+KALAMAR|Mürekkep püskürtebilen deniz canlısı
+DENİZYILDIZI|Beş kollu deniz canlısı
+MEDUZA|Şeffaf gövdeli, jelatinimsi deniz canlısı
+MERCAN|Kolonilerde yaşayan, iskeleti takı olan deniz canlısı
+ORKİNOS|Büyük, hızlı yüzen deniz balığı
+HAMSİ|Karadeniz'de bol bulunan küçük balık
+LEVREK|Beyaz etli, avcı deniz balığı
+ÇİPURA|Alnında altın renkli bir çizgi taşıyan balık
+SARDALYA|Konserve yapılan küçük, sürü halinde balık
+ALABALIK|Temiz akarsularda yaşayan benekli balık
+BALİNA|Dev boyutlu deniz memelisi
+FOK|Kutup ve kıyı sularında yaşayan memeli
+KÖPEKBALIĞI|Dişli, avcı deniz balığı
+KIRLANGIÇ|Bahar gelince dönen göçmen kuş
+PENÇE|Kedi ve kaplanın tırnaklı ayak ucu
+TOYNAK|Atın ayağının sert ucu
+YELE|Atın boynunda uzayan uzun kıllar
+KANAT|Kuşların uçmasını sağlayan organ
+TÜY|Kuşların vücudunu örten hafif yapı
+PUL|Balığın ve yılanın derisini örten sert plaka
+SOLUNGAÇ|Balığın suyla solunum yaptığı organ
+KABUK|Kaplumbağayı koruyan sert örtü
+BOYNUZ|Geyik ve koç gibi hayvanların başındaki sert çıkıntı
+KUYRUK|Hayvanın arkasında uzanan uzantı
+SÜRÜ|Birlikte hareket eden hayvan topluluğu
+AHIR|Sığırların barındığı kapalı yer
+AĞIL|Küçükbaş hayvanların barındığı yer
+KÜMES|Tavukların barındığı yer
+YUVA|Kuşların yumurtladığı, yavrularını büyüttüğü yer
+TAY|Yavru at
+BUZAĞI|Yavru inek
+KUZU|Yavru koyun
+OĞLAK|Yavru keçi
+LAMA|Güney Amerika'da yük taşıyan uzun boyunlu hayvan
+ALPAKA|Yünü değerli, Andlar'daki evcil hayvan
+AYGIR|Damızlık erkek at
+KISRAK|Dişi at
+BOĞA|Erkek sığır
+KOÇ|Boynuzlu erkek koyun
+TEKE|Erkek keçi
+ÖKÜZ|Tarlada sürülen, iğdiş edilmiş erkek sığır
+DANA|Genç sığır
+TAZI|Hızlı koşan, avcılıkta kullanılan köpek
+KANARYA|Sarı tüylü, güzel ötüşlü kafes kuşu
+ÇAVUŞKUŞU|Tepesinde ibik gibi tüy taşıyan kuş
+GUGUK|Yuvasını yapmayıp yumurtasını başkasına bırakan kuş
+DOĞAN|Eğitilerek avcılıkta kullanılan yırtıcı kuş
+BILDIRCIN|Kısa uçuşlu, küçük av kuşu
+TURNA|Göçmen, uzun boyunlu kuş
+PELİKAN|Gagasının altında torbası olan kuş
+PENGUEN|Kutupta yaşayan, uçamayan kuş
+DEVEKUŞU|Uçamayan, en büyük kuş
+TUKAN|Gagası büyük, renkli Güney Amerika kuşu
+KONDOR|Dev yapılı, leş yiyen Güney Amerika kuşu
+TIRTIL|Kelebeğin larva dönemi
+SOLUCAN|Toprakta yaşayan, halkalı yapılı canlı
+CEYLAN|Zarif bakışlı, hızlı koşan antilop
+İPEK|Böcek kozasından elde edilen parlak lif
+MANDA|Çamurda yatmayı seven, sığıra benzeyen büyük hayvan
+BABUN|Afrika'da yaşayan, uzun burunlu maymun
+MAYMUN|Ağaç dallarında yaşayan, insana benzeyen primat
+TAVUS|Kuyruğunu yelpaze gibi açan kuş
+ISTAKOZ|Kabuklu, büyük kıskaçlı deniz canlısı
+KARİDES|Kabuklu, küçük yapılı deniz canlısı
+LÜFER|Ege'de sık avlanan, mavi sırtlı balık
+PALAMUT|Küçük yapılı ton balığı cinsi
+KELAYNAK|Otlaklarda yaşayan, iri yapılı nadir kuş
+KUZGUN|Tüyleri simsiyah, büyük gövdeli kuş
+HİPOPOTAM|Suda çok vakit geçiren büyük Afrika memelisi
+ORANGUTAN|Asya'da yaşayan, turuncu kürklü maymun
+PİTON|Boğarak avlayan büyük yılan

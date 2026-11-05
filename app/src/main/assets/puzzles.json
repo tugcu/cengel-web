@@ -1,0 +1,6211 @@
+{
+ "version": "1.6",
+ "puzzles": [
+  {
+   "id": "tek-ataturk-001",
+   "topic": "Atatürk ve Cumhuriyet",
+   "words": [
+    {
+     "answer": "ETİBANK",
+     "clue": "1935'te kurulan devlet bankası"
+    },
+    {
+     "answer": "ARIBURNU",
+     "clue": "1915'te Anzakların çıkarma yaptığı Çanakkale sahili"
+    },
+    {
+     "answer": "ANAFARTALAR",
+     "clue": "1915'te Gelibolu'da Mustafa Kemal'in kazandığı muharebe"
+    },
+    {
+     "answer": "HARBİYE",
+     "clue": "Mustafa Kemal'in mezun olduğu askerî okul"
+    },
+    {
+     "answer": "CUMHURİYETÇİLİK",
+     "clue": "Atatürk ilkelerinden biri: yönetimin halkın seçimine dayanması"
+    },
+    {
+     "answer": "SERBESTFIRKA",
+     "clue": "1930'da kurulup kısa sürede kapatılan muhalefet partisi"
+    },
+    {
+     "answer": "SÜMERBANK",
+     "clue": "1933'te kurulan ve tekstil sanayiini yöneten devlet kuruluşu"
+    },
+    {
+     "answer": "AFYON",
+     "clue": "Kocatepe Muharebesi'nin yapıldığı il"
+    },
+    {
+     "answer": "ŞEYHSAİD",
+     "clue": "1925'te doğuda çıkan isyanın lideri"
+    }
+   ]
+  },
+  {
+   "id": "tek-ataturk-002",
+   "topic": "Atatürk ve Cumhuriyet",
+   "words": [
+    {
+     "answer": "AMASYA",
+     "clue": "Ulusal egemenliğin ilk kez ilan edildiği 1919 genelgesinin kenti"
+    },
+    {
+     "answer": "KUVAYIMİLLİYE",
+     "clue": "Milli Mücadele'de kurulan gönüllü birlikler"
+    },
+    {
+     "answer": "RUMELİ",
+     "clue": "Balkanlardaki Osmanlı topraklarının eski adı"
+    },
+    {
+     "answer": "MUDANYA",
+     "clue": "1922'de ateşkesin imzalandığı Marmara kenti"
+    },
+    {
+     "answer": "AYASOFYA",
+     "clue": "1934'te müzeye çevrilme kararı alınan İstanbul'daki yapı"
+    },
+    {
+     "answer": "TEVHİD",
+     "clue": "1924'te eğitimi tek çatı altında toplayan kanunun adı"
+    },
+    {
+     "answer": "SALTANAT",
+     "clue": "1922'de kaldırılan hükümdarlık düzeni"
+    },
+    {
+     "answer": "SULH",
+     "clue": "Atatürk'ün 'yurtta ..., cihanda ...' sözündeki barış kelimesi"
+    },
+    {
+     "answer": "HİLAFET",
+     "clue": "1924'te kaldırılan dinî-siyasi makam"
+    }
+   ]
+  },
+  {
+   "id": "tek-ataturk-003",
+   "topic": "Atatürk ve Cumhuriyet",
+   "words": [
+    {
+     "answer": "İKTİSAT",
+     "clue": "1923'te İzmir'de toplanan kongrenin adındaki kelime"
+    },
+    {
+     "answer": "HALKEVLERİ",
+     "clue": "1932'de kurulan kültür ve eğitim merkezleri"
+    },
+    {
+     "answer": "İNÖNÜ",
+     "clue": "Lozan'da Türk heyetine başkanlık eden paşa"
+    },
+    {
+     "answer": "KIYAFET",
+     "clue": "1934 tarihli, giyim tarzını düzenleyen kanunun adı"
+    },
+    {
+     "answer": "DUMLUPINAR",
+     "clue": "1922'de yapılan son büyük meydan savaşı"
+    },
+    {
+     "answer": "HİTABE",
+     "clue": "Atatürk'ün 1927'de gençlere seslendiği konuşmanın adı"
+    },
+    {
+     "answer": "ANKARA",
+     "clue": "TBMM'nin toplandığı ve Cumhuriyet'in başkenti olan kent"
+    },
+    {
+     "answer": "KOÇGİRİ",
+     "clue": "1920'de Sivas yöresinde çıkan ayaklanma"
+    },
+    {
+     "answer": "DEVLETÇİLİK",
+     "clue": "Ekonomide devletin rolünü öngören ilke"
+    },
+    {
+     "answer": "MİLLİYETÇİLİK",
+     "clue": "Atatürk ilkelerinden biri: ulusal birlik ve bağımsızlık"
+    }
+   ]
+  },
+  {
+   "id": "tek-ataturk-004",
+   "topic": "Atatürk ve Cumhuriyet",
+   "words": [
+    {
+     "answer": "YUNANİSTAN",
+     "clue": "Milli Mücadele'de karşı savaşılan devlet"
+    },
+    {
+     "answer": "İZMİR",
+     "clue": "1922'de kurtarılan Ege kenti"
+    },
+    {
+     "answer": "DİLDEVRİMİ",
+     "clue": "Alfabe değişikliğiyle birlikte yürütülen köklü reform"
+    },
+    {
+     "answer": "TEKALİF",
+     "clue": "Milli Mücadele'de ordunun ihtiyaçları için çıkarılan emirler"
+    },
+    {
+     "answer": "MECLİS",
+     "clue": "Milletvekillerinin toplandığı kurum"
+    },
+    {
+     "answer": "MAREŞAL",
+     "clue": "Sakarya'dan sonra Mustafa Kemal'e verilen rütbe"
+    },
+    {
+     "answer": "ÇANKAYA",
+     "clue": "Atatürk'ün Ankara'daki köşkünün bulunduğu semt"
+    },
+    {
+     "answer": "SADABAT",
+     "clue": "1937'de dört ülkenin imzaladığı bölgesel güvenlik paktı"
+    },
+    {
+     "answer": "MEDENİKANUN",
+     "clue": "1926'da kabul edilen, aile hukukunu da düzenleyen kanun"
+    },
+    {
+     "answer": "MONTRÖ",
+     "clue": "Boğazların statüsünün 1936'da yeniden düzenlendiği İsviçre kenti"
+    }
+   ]
+  },
+  {
+   "id": "tek-ataturk-005",
+   "topic": "Atatürk ve Cumhuriyet",
+   "words": [
+    {
+     "answer": "HALKFIRKASI",
+     "clue": "Cumhuriyet Halk Partisi'nin 1923'teki ilk adı"
+    },
+    {
+     "answer": "GENÇLİK",
+     "clue": "Cumhuriyeti koruyacak yeni kuşak"
+    },
+    {
+     "answer": "LAİKLİK",
+     "clue": "Devletin dinden bağımsız olduğu ilke"
+    },
+    {
+     "answer": "ZİYAGÖKALP",
+     "clue": "Türkçülük akımının önemli düşünürü"
+    },
+    {
+     "answer": "DİLKURUMU",
+     "clue": "1932'de kurulan, Türkçeyi inceleyen kuruluş"
+    },
+    {
+     "answer": "MONDROS",
+     "clue": "1918'de imzalanan ateşkes antlaşmasının adı"
+    },
+    {
+     "answer": "BALKANPAKTI",
+     "clue": "1934'te Türkiye'nin de imzaladığı bölgesel pakt"
+    },
+    {
+     "answer": "TEKKE",
+     "clue": "1925'te kapatılan dinî toplanma yeri"
+    },
+    {
+     "answer": "MİSAKIMİLLİ",
+     "clue": "1920'de Son Osmanlı Meclisi'nin kabul ettiği sınır kararı"
+    },
+    {
+     "answer": "MUSTAFA",
+     "clue": "Selanik'te doğan kurucunun doğumdaki adı"
+    }
+   ]
+  },
+  {
+   "id": "tek-ataturk-006",
+   "topic": "Atatürk ve Cumhuriyet",
+   "words": [
+    {
+     "answer": "BOZKURT",
+     "clue": "Türkçülüğün efsanevi kurt simgesi"
+    },
+    {
+     "answer": "TARİHKURUMU",
+     "clue": "1931'de kurulan, geçmişi araştıran kuruluş"
+    },
+    {
+     "answer": "KOCATEPE",
+     "clue": "Afyon'da 1922'de kazanılan ünlü muharebenin adı"
+    },
+    {
+     "answer": "KARABEKİR",
+     "clue": "Doğu cephesinde görev yapan Milli Mücadele komutanı"
+    },
+    {
+     "answer": "BAŞÖĞRETMEN",
+     "clue": "Atatürk'ün unvanlarından biri: milletin eğitim önderi"
+    },
+    {
+     "answer": "GELİBOLU",
+     "clue": "Çanakkale cephesinin ana sahnesi olan yarımada"
+    },
+    {
+     "answer": "CELALBAYAR",
+     "clue": "İnönü'den sonra Cumhurbaşkanlığına seçilen devlet adamı"
+    },
+    {
+     "answer": "DOLMABAHÇE",
+     "clue": "Atatürk'ün 1938'de vefat ettiği İstanbul sarayı"
+    },
+    {
+     "answer": "SABİHAGÖKÇEN",
+     "clue": "Atatürk'ün manevi kızı, ilk Türk kadın savaş pilotu"
+    }
+   ]
+  },
+  {
+   "id": "tek-ataturk-007",
+   "topic": "Atatürk ve Cumhuriyet",
+   "words": [
+    {
+     "answer": "HALKÇILIK",
+     "clue": "Atatürk ilkelerinden biri: toplumun eşitliğini savunan ilke"
+    },
+    {
+     "answer": "İNKILAP",
+     "clue": "Köklü değişim anlamına gelen kelime"
+    },
+    {
+     "answer": "MOSKOVA",
+     "clue": "1921'de Sovyetlerle imzalanan dostluk antlaşmasının adındaki kent"
+    },
+    {
+     "answer": "MÜTAREKE",
+     "clue": "Ateşkes anlamına gelen, 1918 tarihli anlaşma türü"
+    },
+    {
+     "answer": "TÜRKOCAĞI",
+     "clue": "1931'de kapatılan milliyetçi kültür derneği"
+    },
+    {
+     "answer": "LOZAN",
+     "clue": "1923'te imzalanan barış antlaşması"
+    },
+    {
+     "answer": "GÜMRÜ",
+     "clue": "1920'de Ermenistan ile imzalanan antlaşmanın kenti"
+    },
+    {
+     "answer": "SİVAS",
+     "clue": "1919'da ikinci kongrenin yapıldığı kent"
+    },
+    {
+     "answer": "BÜYÜKTAARRUZ",
+     "clue": "Mustafa Kemal'in başkomutanlığında 1922'de başlayan saldırı"
+    }
+   ]
+  },
+  {
+   "id": "tek-ataturk-008",
+   "topic": "Atatürk ve Cumhuriyet",
+   "words": [
+    {
+     "answer": "SAMSUN",
+     "clue": "Atatürk'ün 19 Mayıs 1919'da çıktığı Karadeniz kenti"
+    },
+    {
+     "answer": "KARDEMİR",
+     "clue": "1937'de Karabük'te açılan demir-çelik tesisi"
+    },
+    {
+     "answer": "SEVRES",
+     "clue": "1920'de imzalanan ve Türk halkınca kabul edilmeyen antlaşma"
+    },
+    {
+     "answer": "SELANİK",
+     "clue": "Atatürk'ün doğduğu Rumeli şehri"
+    },
+    {
+     "answer": "ŞAPKA",
+     "clue": "Hat Kanunu ile yaygınlaştırılan başlık"
+    },
+    {
+     "answer": "TARİKAT",
+     "clue": "1925'te yasaklanan dinî birlik"
+    },
+    {
+     "answer": "KARS",
+     "clue": "Sovyetlerle 1921'de antlaşma imzalanan doğu kenti"
+    },
+    {
+     "answer": "GAZİ",
+     "clue": "Atatürk'ün aldığı unvanlardan biri"
+    },
+    {
+     "answer": "KEMAL",
+     "clue": "Mustafa'nın yanında kullanılan ikinci adı"
+    }
+   ]
+  },
+  {
+   "id": "tek-ataturk-009",
+   "topic": "Atatürk ve Cumhuriyet",
+   "words": [
+    {
+     "answer": "GAZİANTEP",
+     "clue": "Fransız işgaline direnip 'Gazi' unvanını alan kent"
+    },
+    {
+     "answer": "ALFABE",
+     "clue": "1928'de kabul edilen yeni yazı sistemi"
+    },
+    {
+     "answer": "İNKILAPÇILIK",
+     "clue": "Atatürk ilkelerinden biri: sürekli yenileşmeyi savunan ilke"
+    },
+    {
+     "answer": "MEDRESE",
+     "clue": "1924'te Tevhid-i Tedrisat ile kapatılan dinî okul"
+    },
+    {
+     "answer": "SAKARYA",
+     "clue": "1921'de Yunan ordusunun durdurulduğu savaş"
+    },
+    {
+     "answer": "KURULTAY",
+     "clue": "1932'de Türk dili üzerine yapılan büyük toplantının adı"
+    },
+    {
+     "answer": "KAPİTÜLASYON",
+     "clue": "Lozan'da kaldırılan yabancı ayrıcalıklar"
+    },
+    {
+     "answer": "MANASTIR",
+     "clue": "Mustafa Kemal'in askerî eğitim gördüğü Rumeli kenti"
+    },
+    {
+     "answer": "ALTIOK",
+     "clue": "Cumhuriyet Halk Partisi'nin altı ilkesini simgeleyen amblem"
+    }
+   ]
+  },
+  {
+   "id": "tek-ataturk-010",
+   "topic": "Atatürk ve Cumhuriyet",
+   "words": [
+    {
+     "answer": "BANDIRMA",
+     "clue": "Atatürk'ü 1919'da Samsun'a götüren gemi"
+    },
+    {
+     "answer": "İSTİKLAL",
+     "clue": "Milli marşın adındaki, bağımsızlık anlamına gelen kelime"
+    },
+    {
+     "answer": "EGEMENLİK",
+     "clue": "Milletin kendi kendini yönetme hakkı"
+    },
+    {
+     "answer": "MİLLİHAKİMİYET",
+     "clue": "Egemenliğin millete ait olduğunu belirten ilke"
+    },
+    {
+     "answer": "ÇANAKKALE",
+     "clue": "1915'te Atatürk'ün de savaştığı cephe"
+    },
+    {
+     "answer": "İSVİÇRE",
+     "clue": "Yeni Medeni Kanun'un esas alındığı Avrupa ülkesi"
+    },
+    {
+     "answer": "FEVZİÇAKMAK",
+     "clue": "Kurtuluş Savaşı'nda Genelkurmay Başkanlığı yapan komutan"
+    },
+    {
+     "answer": "SOYADI",
+     "clue": "1934'te zorunlu hâle gelen ikinci ad"
+    },
+    {
+     "answer": "DARÜLFÜNUN",
+     "clue": "1933'te reformla kapatılan Osmanlı üniversitesi"
+    },
+    {
+     "answer": "TÜRKİYE",
+     "clue": "Cumhuriyetle birlikte kurulan devletin adı"
+    },
+    {
+     "answer": "TBMM",
+     "clue": "Egemenliğin kullanıldığı kurum"
+    }
+   ]
+  },
+  {
+   "id": "tek-ataturk-011",
+   "topic": "Atatürk ve Cumhuriyet",
+   "words": [
+    {
+     "answer": "KONGRE",
+     "clue": "1919'da Erzurum ve Sivas'ta yapılan toplantı"
+    },
+    {
+     "answer": "MEBUSAN",
+     "clue": "Osmanlı'nın alt meclisinin eski adı"
+    },
+    {
+     "answer": "İTİLAF",
+     "clue": "Birinci Dünya Savaşı'nda Osmanlı'yı işgal eden devletler birliği"
+    },
+    {
+     "answer": "BAŞKOMUTAN",
+     "clue": "1921'de Mustafa Kemal'e verilen komutanlık unvanı"
+    },
+    {
+     "answer": "ATATÜRK",
+     "clue": "Cumhuriyetin kurucusu ve ilk Cumhurbaşkanı"
+    },
+    {
+     "answer": "ÇOCUKBAYRAMI",
+     "clue": "23 Nisan'da kutlanan, Atatürk'ün armağanı olan bayram"
+    },
+    {
+     "answer": "NUTUK",
+     "clue": "Atatürk'ün 1927'de okuduğu büyük söylev"
+    },
+    {
+     "answer": "ERZURUM",
+     "clue": "1919'da ilk kongrenin yapıldığı doğu kenti"
+    },
+    {
+     "answer": "CUMHURİYET",
+     "clue": "29 Ekim 1923'te ilan edilen devlet biçimi"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-001",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "DİVAN",
+     "clue": "Eski şairlerin toplu eserleri"
+    },
+    {
+     "answer": "YUNUS",
+     "clue": "Anadolu'nun büyük halk şairi"
+    },
+    {
+     "answer": "OĞUZATAY",
+     "clue": "Saatleri Ayarlama Enstitüsü romanının yazarı"
+    },
+    {
+     "answer": "VURUNKAHPEYE",
+     "clue": "Halide Edib'in Milli Mücadele dönemini anlatan romanı"
+    },
+    {
+     "answer": "BATILILAŞMA",
+     "clue": "Batı'yı örnek alan modernleşme yönü"
+    },
+    {
+     "answer": "BEYAZKALE",
+     "clue": "Orhan Pamuk'un 17. yüzyılı anlatan romanı"
+    },
+    {
+     "answer": "MECAZ",
+     "clue": "Sözün gerçek anlamı dışında kullanılması"
+    },
+    {
+     "answer": "ŞİİR",
+     "clue": "Ölçülü ve uyaklı söz sanatı"
+    },
+    {
+     "answer": "CEMALSÜREYA",
+     "clue": "Sevda Sözleri adlı şiir kitabının yazarı"
+    },
+    {
+     "answer": "SEMBOLİZM",
+     "clue": "Duyguları simgelerle anlatmayı öne çıkaran akım"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-002",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "DERGİ",
+     "clue": "Düzenli aralıklarla çıkan yayın"
+    },
+    {
+     "answer": "ARUZ",
+     "clue": "Uzun-kısa ölçüye dayanan vezin sistemi"
+    },
+    {
+     "answer": "SİNEKLİBAKKAL",
+     "clue": "Halide Edib Adıvar'ın 1936'da yayımlanan romanı"
+    },
+    {
+     "answer": "NEFİ",
+     "clue": "Hicviyle tanınan ve idam edilen divan şairi"
+    },
+    {
+     "answer": "ASIKVEYSEL",
+     "clue": "Sivrialan köyünde doğan ünlü âşık"
+    },
+    {
+     "answer": "SİYASETNAME",
+     "clue": "Nizamülmülk'ün yazdığı hükümdarlık öğütleri kitabı"
+    },
+    {
+     "answer": "DENEME",
+     "clue": "Konuyu kişisel bir bakışla ele alan düzyazı"
+    },
+    {
+     "answer": "SERVETIFÜNUN",
+     "clue": "1896-1901 arasında yenilikçi bir dergiyle öne çıkan akım"
+    },
+    {
+     "answer": "SADELEŞME",
+     "clue": "Yazıda ağdalı söz yerine yalın dili savunan akım"
+    },
+    {
+     "answer": "GAZEL",
+     "clue": "Aşk ve güzellik konulu klasik şiir biçimi"
+    },
+    {
+     "answer": "İNCEMEMED",
+     "clue": "Yaşar Kemal'in romanındaki ünlü kahraman"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-003",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "HALİDEEDİB",
+     "clue": "Ateşten Gömlek'i yazan, Türk romancı kadın"
+    },
+    {
+     "answer": "FATİHHARBİYE",
+     "clue": "Doğu-Batı çatışmasını anlatan Peyami Safa romanı"
+    },
+    {
+     "answer": "ŞİNASİ",
+     "clue": "İlk Türk tiyatro eserini yazan Tanzimat sanatçısı"
+    },
+    {
+     "answer": "AŞIK",
+     "clue": "Saz eşliğinde halk şiiri söyleyen ozan"
+    },
+    {
+     "answer": "UYAK",
+     "clue": "Şiirde dizeleri bağlayan ses eşleşmesi"
+    },
+    {
+     "answer": "FUZULİ",
+     "clue": "Leyla ile Mecnun'u yazan şair"
+    },
+    {
+     "answer": "HUZUR",
+     "clue": "Ahmet Hamdi Tanpınar'ın İstanbul'da geçen romanı"
+    },
+    {
+     "answer": "FIKRA",
+     "clue": "Gazetelerde kısa, görüş bildiren yazı türü"
+    },
+    {
+     "answer": "NASREDDİN",
+     "clue": "Fıkralarıyla bilinen, Akşehir'li ünlü hoca"
+    },
+    {
+     "answer": "MECMUA",
+     "clue": "Birkaç yazarın yazılarını bir araya getiren yayın"
+    },
+    {
+     "answer": "RUBAİ",
+     "clue": "Dört dizeli, AABA kafiyeli şiir biçimi"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-004",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "FARUKNAFİZ",
+     "clue": "Han Duvarları şiirinin yazarı"
+    },
+    {
+     "answer": "ROMAN",
+     "clue": "Uzun anlatılı kurmaca eser"
+    },
+    {
+     "answer": "TÜRKÜ",
+     "clue": "Ezgiyle söylenen, halkın dilinden düşmeyen şiir"
+    },
+    {
+     "answer": "DADALOĞLU",
+     "clue": "Toros yörüklerinin ünlü ozanı"
+    },
+    {
+     "answer": "DESTAN",
+     "clue": "Kahramanlık olaylarını anlatan uzun manzum eser"
+    },
+    {
+     "answer": "MÜNACAT",
+     "clue": "Allah'a yalvarış biçiminde yazılan şiir"
+    },
+    {
+     "answer": "RECAİZADE",
+     "clue": "Araba Sevdası romanının yazarı"
+    },
+    {
+     "answer": "ŞEHRENGİZ",
+     "clue": "Bir şehri ve güzelliklerini anlatan nazım türü"
+    },
+    {
+     "answer": "PEYAMİSAFA",
+     "clue": "Cingöz Recai serisiyle tanınan romancı"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-005",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "TEKERLEME",
+     "clue": "Ritmik ve kafiyeli, hızlı söylenen halk sözü"
+    },
+    {
+     "answer": "HALDUNTANER",
+     "clue": "Keşanlı Ali Destanı'nın yazarı"
+    },
+    {
+     "answer": "MASAL",
+     "clue": "Çocuklara anlatılan olağanüstü olaylı halk hikâyesi"
+    },
+    {
+     "answer": "KAFİYE",
+     "clue": "Dize sonlarındaki ses benzerliği"
+    },
+    {
+     "answer": "CAHİTSITKI",
+     "clue": "Otuz Beş Yaş şiirinin yazarı"
+    },
+    {
+     "answer": "YENİLEŞME",
+     "clue": "Tanzimat'ta başlayan batılılaşma hareketi"
+    },
+    {
+     "answer": "HACİVAT",
+     "clue": "Karagöz'ün karşısında yer alan gölge oyunu kahramanı"
+    },
+    {
+     "answer": "KİNAYE",
+     "clue": "Asıl anlamı dışında başka anlam kastetme sanatı"
+    },
+    {
+     "answer": "ZİYAPAŞA",
+     "clue": "Tanzimat dönemi şairi ve devlet adamı"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-006",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "SAFAHAT",
+     "clue": "Mehmet Akif'in şiirlerini topladığı kitap"
+    },
+    {
+     "answer": "TEVRİYE",
+     "clue": "Bir sözcüğün iki anlamını birlikte kullanma sanatı"
+    },
+    {
+     "answer": "MESNEVİ",
+     "clue": "Uzun, manzum hikâye biçimi"
+    },
+    {
+     "answer": "MUHAMMES",
+     "clue": "Her bendi beş dizeden oluşan nazım biçimi"
+    },
+    {
+     "answer": "AZİZNESİN",
+     "clue": "Toplumsal mizahıyla tanınan hikâye ve oyun yazarı"
+    },
+    {
+     "answer": "ÇALIKUŞU",
+     "clue": "Reşat Nuri Güntekin'in ünlü romanı"
+    },
+    {
+     "answer": "HİKMET",
+     "clue": "Yunus Emre'nin şiirlerinde öne çıkan öğüt türü"
+    },
+    {
+     "answer": "SECİ",
+     "clue": "Kafiyeli ve ahenkli düzyazı biçimi"
+    },
+    {
+     "answer": "NECİPFAZIL",
+     "clue": "Büyük Doğu dergisini çıkaran şair ve düşünür"
+    },
+    {
+     "answer": "LİRİK",
+     "clue": "Duygu ve düşünceyi öznel dille anlatan şiir türü"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-007",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "AĞIT",
+     "clue": "Acıyı ve yası dile getiren halk türü"
+    },
+    {
+     "answer": "TİYATRO",
+     "clue": "Oyunların sahnelendiği sanat"
+    },
+    {
+     "answer": "VEZİN",
+     "clue": "Şiirde dizelerin ölçü düzeni"
+    },
+    {
+     "answer": "GARİP",
+     "clue": "Orhan Veli ve arkadaşlarının başlattığı şiir akımı"
+    },
+    {
+     "answer": "BEYİT",
+     "clue": "İki dizeden oluşan, kafiyeli nazım birimi"
+    },
+    {
+     "answer": "NEDİM",
+     "clue": "Lale Devri'nin ünlü şairi"
+    },
+    {
+     "answer": "KASİDE",
+     "clue": "Övgü amaçlı klasik nazım biçimi"
+    },
+    {
+     "answer": "ATASÖZÜ",
+     "clue": "Halkın deneyimini kısa ve özlü anlatan söz"
+    },
+    {
+     "answer": "KUYUCAKLIYUSUF",
+     "clue": "Sabahattin Ali'nin 1937'de yayımlanan romanı"
+    },
+    {
+     "answer": "MEHMETAKİF",
+     "clue": "İstiklal Marşı'nın şairi, Safahat'ın yazarı"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-008",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "ROMANTİZM",
+     "clue": "Duygu ve hayal ağırlıklı, bireyi öne çıkaran akım"
+    },
+    {
+     "answer": "İLAHİ",
+     "clue": "Dinî duyguları dile getiren şiir"
+    },
+    {
+     "answer": "MANİ",
+     "clue": "Halk şiirinin dört dizelik kısa türü"
+    },
+    {
+     "answer": "ABASIYANIK",
+     "clue": "Burgaz'da yaşayan ünlü öykücü"
+    },
+    {
+     "answer": "TEZKİRE",
+     "clue": "Şairlerin hayatını ve şiirlerini anlatan kitap"
+    },
+    {
+     "answer": "ORTAOYUNU",
+     "clue": "Meydanda oynanan halk tiyatrosu türü"
+    },
+    {
+     "answer": "NEŞATİ",
+     "clue": "Şah ü Gedâ adlı mesnevinin yazarı"
+    },
+    {
+     "answer": "HÜSNÜAŞK",
+     "clue": "Şeyh Galip'in ünlü mesnevisi"
+    },
+    {
+     "answer": "BİLMECE",
+     "clue": "Kapalı bir sözle bir şeyi tanıtmaya çalışan halk sözü"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-009",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "GÜNTEKİN",
+     "clue": "Feride'nin öyküsünü anlatan romanın yazarı"
+    },
+    {
+     "answer": "GENÇKALEMLER",
+     "clue": "Ömer Seyfettin'in de yazdığı 1910 Selanik dergisi"
+    },
+    {
+     "answer": "NAMIKKEMAL",
+     "clue": "Silistre adlı tiyatro eserinin yazarı"
+    },
+    {
+     "answer": "KOŞMA",
+     "clue": "Halk şiirinde dörtlüklerle söylenen yaygın nazım biçimi"
+    },
+    {
+     "answer": "NAT",
+     "clue": "Hz. Muhammed'e övgü şiiri"
+    },
+    {
+     "answer": "İSTİARE",
+     "clue": "Benzetmenin yalnızca bir yanını söyleme sanatı"
+    },
+    {
+     "answer": "BAKİ",
+     "clue": "Kanuni döneminde 'şairlerin sultanı' unvanı alan şair"
+    },
+    {
+     "answer": "NESİMİ",
+     "clue": "Hurufilikle ilişkilendirilen ünlü divan şairi"
+    },
+    {
+     "answer": "MİZAH",
+     "clue": "Güldürü yoluyla eleştiri yapan yazın türü"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-010",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "AHMEDHAŞİM",
+     "clue": "Göl Saatleri adlı şiir kitabının yazarı"
+    },
+    {
+     "answer": "TEŞBİH",
+     "clue": "Bir varlığı başka bir varlığa benzetme sanatı"
+    },
+    {
+     "answer": "SAKİNAME",
+     "clue": "Sâkiye seslenerek yazılan içki şiiri"
+    },
+    {
+     "answer": "TAHMİS",
+     "clue": "Başka bir şairin beytini beşe tamamlayan nazım türü"
+    },
+    {
+     "answer": "MÜSTEZAT",
+     "clue": "Nakaratlı, bentlerden oluşan divan nazım türü"
+    },
+    {
+     "answer": "KISSA",
+     "clue": "Peygamberlerin hayatını anlatan dinî hikâye"
+    },
+    {
+     "answer": "KARACAOĞLAN",
+     "clue": "17. yüzyılda yaşamış ünlü halk ozanı"
+    },
+    {
+     "answer": "GERÇEKÇİLİK",
+     "clue": "Hayatı olduğu gibi yansıtmayı amaçlayan edebî akım"
+    },
+    {
+     "answer": "MERSİYE",
+     "clue": "Ölüm ve kayıp üzerine yazılan ağıtsal şiir"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-011",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "AŞKIMEMNU",
+     "clue": "Halit Ziya Uşaklıgil'in 1900'de yayımlanan romanı"
+    },
+    {
+     "answer": "YAHYAKEMAL",
+     "clue": "Aruz vezniyle yazdığı şiirleriyle bilinen şair"
+    },
+    {
+     "answer": "MEDHİYE",
+     "clue": "Bir kişiyi övmek amacıyla yazılan şiir"
+    },
+    {
+     "answer": "NABİ",
+     "clue": "Hayriye adlı öğütler mesnevisinin yazarı"
+    },
+    {
+     "answer": "DEYİM",
+     "clue": "Gerçek anlamı dışında kullanılan kalıp söz"
+    },
+    {
+     "answer": "SEYAHATNAME",
+     "clue": "Gezilen yerleri anlatan eski yazı türü"
+    },
+    {
+     "answer": "MEDDAH",
+     "clue": "Meydanlarda hikâye anlatan halk sanatçısı"
+    },
+    {
+     "answer": "TRAJEDİ",
+     "clue": "Kahramanın yıkımını anlatan oyun türü"
+    },
+    {
+     "answer": "KÜRKMANTOLU",
+     "clue": "Sabahattin Ali'nin 1943'te yayımlanan romanı"
+    },
+    {
+     "answer": "KABUSNAME",
+     "clue": "Keykavus'un öğütlerini içeren ünlü nasihatname"
+    },
+    {
+     "answer": "HARABAT",
+     "clue": "Ziya Paşa'nın tanınmış şiir kitabı"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-012",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "TEVFİKFİKRET",
+     "clue": "'Sis' şiirinin yazarı"
+    },
+    {
+     "answer": "MENKIBE",
+     "clue": "Evliyaların olağanüstü hallerini anlatan kısa anlatı"
+    },
+    {
+     "answer": "ŞEYHİ",
+     "clue": "Harnâme adlı mesnevinin yazarı"
+    },
+    {
+     "answer": "NAZIMHİKMET",
+     "clue": "Ferhat ile Şirin'i yazan, serbest şiirin öncülerinden"
+    },
+    {
+     "answer": "TUTUNAMAYANLAR",
+     "clue": "Oğuz Atay'ın 1972'de yayımlanan romanı"
+    },
+    {
+     "answer": "DEDEKORKUT",
+     "clue": "Oğuz destanlarını toplayan efsanevi ozan"
+    },
+    {
+     "answer": "EDEBİYATICEDİDE",
+     "clue": "Servet-i Fünun'un da bağlı olduğu yenilikçi akım"
+    },
+    {
+     "answer": "VATAN",
+     "clue": "Namık Kemal'in 1873'te sahnelenen oyunu"
+    },
+    {
+     "answer": "HİKAYE",
+     "clue": "Kısa anlatılı kurmaca eser"
+    },
+    {
+     "answer": "HİCİV",
+     "clue": "Alaycı dille kişi veya toplumu yeren şiir"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-013",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "TERCÜME",
+     "clue": "Başka dilden yapılan çeviri"
+    },
+    {
+     "answer": "SERGÜZEŞT",
+     "clue": "Maceralı olayların bağlandığı anlatı türü"
+    },
+    {
+     "answer": "EFSANE",
+     "clue": "Olağanüstü olayları anlatan halk anlatısı"
+    },
+    {
+     "answer": "NAZİRE",
+     "clue": "Başka bir şairin şiirine benzer şiir yazma geleneği"
+    },
+    {
+     "answer": "NAZIM",
+     "clue": "Memleketimden İnsan Manzaraları'nı yazan şair"
+    },
+    {
+     "answer": "DÜZYAZI",
+     "clue": "Ölçü ve uyak kullanılmadan yazılan metin türü"
+    },
+    {
+     "answer": "TANZİMAT",
+     "clue": "1839'da başlayan yenileşme dönemi"
+    },
+    {
+     "answer": "ORHANVELİ",
+     "clue": "Garip akımının kurucularından biri"
+    },
+    {
+     "answer": "EDEBİYAT",
+     "clue": "Yazılı sanat eserlerinin genel adı"
+    },
+    {
+     "answer": "KOMEDİ",
+     "clue": "Güldürü amaçlı oyun türü"
+    }
+   ]
+  },
+  {
+   "id": "tek-edebiyat-014",
+   "topic": "Türk edebiyatı",
+   "words": [
+    {
+     "answer": "AHMEDİ",
+     "clue": "İskendername adlı mesnevinin yazarı"
+    },
+    {
+     "answer": "YAŞARKEMAL",
+     "clue": "Yer Demir Gök Bakır'ın yazarı"
+    },
+    {
+     "answer": "ŞEYHGALİP",
+     "clue": "Hüsn ü Aşk'ı yazan divan şairi"
+    },
+    {
+     "answer": "DEYİŞ",
+     "clue": "Alevi ozanlarının söylediği tasavvufi halk şiiri"
+    },
+    {
+     "answer": "LEYLİMECNUN",
+     "clue": "Fuzuli'nin aşk anlatan ünlü mesnevisi"
+    },
+    {
+     "answer": "REDİF",
+     "clue": "Kafiyeden sonra her beyitte tekrarlanan kelime öbeği"
+    },
+    {
+     "answer": "KARAGÖZ",
+     "clue": "Hacivat'la birlikte oynanan gölge oyunu kahramanı"
+    },
+    {
+     "answer": "KÖROĞLU",
+     "clue": "Bolu dağlarında geçen halk destanının kahramanı"
+    },
+    {
+     "answer": "ANI",
+     "clue": "Yaşanmış olayları kişisel bakışla anlatan yazı"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-001",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "BOZCAADA",
+     "clue": "Çanakkale'ye bağlı, Ege'deki ada ilçesi"
+    },
+    {
+     "answer": "GANG",
+     "clue": "Hindistan'da kutsal sayılan, Bengal Körfezi'ne akan nehir"
+    },
+    {
+     "answer": "GÖBEKLİTEPE",
+     "clue": "Şanlıurfa'daki çok eski tapınak merkezi"
+    },
+    {
+     "answer": "KARAYİP",
+     "clue": "Antiller'in çevrelediği, Amerika'nın tropik denizi"
+    },
+    {
+     "answer": "GÖKÇEADA",
+     "clue": "Türkiye'nin en büyük adası, Çanakkale'ye bağlı"
+    },
+    {
+     "answer": "ANTALYA",
+     "clue": "Akdeniz kıyısındaki turizm kenti"
+    },
+    {
+     "answer": "BUZUL",
+     "clue": "Karların sıkışarak oluşturduğu, yavaş hareket eden buz kütlesi"
+    },
+    {
+     "answer": "TAYFUN",
+     "clue": "Batı Pasifik'te oluşan şiddetli tropikal fırtına"
+    },
+    {
+     "answer": "TAHTALI",
+     "clue": "Antalya'da teleferikle çıkılan dağ"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-002",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "MENDERES",
+     "clue": "Aydın'dan geçip Ege'ye ulaşan ünlü nehir"
+    },
+    {
+     "answer": "İRAN",
+     "clue": "Türkiye'nin doğu komşusu, başkenti Tahran"
+    },
+    {
+     "answer": "SARDES",
+     "clue": "Manisa'daki antik Lidya kenti"
+    },
+    {
+     "answer": "BOLKAR",
+     "clue": "Niğde çevresinde Toroslar'ın bir dağ sırası"
+    },
+    {
+     "answer": "TAŞKENT",
+     "clue": "Özbekistan'ın başkenti, Orta Asya'nın büyük kenti"
+    },
+    {
+     "answer": "İZNİK",
+     "clue": "Bursa'da, aynı adlı ilçenin yanındaki göl"
+    },
+    {
+     "answer": "HİMALAYA",
+     "clue": "Nepal ve Hindistan'a uzanan dünyanın en yüksek sırası"
+    },
+    {
+     "answer": "KASIRGA",
+     "clue": "Güçlü, dönerek ilerleyen hava fırtınası"
+    },
+    {
+     "answer": "ANDLAR",
+     "clue": "Güney Amerika'nın batısında uzanan dağ sırası"
+    },
+    {
+     "answer": "KANYON",
+     "clue": "Dik yamaçlı, derin ve dar vadi"
+    },
+    {
+     "answer": "EFES",
+     "clue": "İzmir yakınındaki antik kent"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-003",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "PİRENELER",
+     "clue": "İspanya ile Fransa arasındaki dağ sırası"
+    },
+    {
+     "answer": "BASINÇ",
+     "clue": "Birim alana düşen hava ağırlığı"
+    },
+    {
+     "answer": "SEUL",
+     "clue": "Güney Kore'nin başkenti, Han Nehri kıyısında"
+    },
+    {
+     "answer": "GÜRCİSTAN",
+     "clue": "Türkiye'nin kuzeydoğu komşusu, başkenti Tiflis"
+    },
+    {
+     "answer": "KURAKLIK",
+     "clue": "Uzun süre yağışın azlığından doğan su eksikliği"
+    },
+    {
+     "answer": "ALPLER",
+     "clue": "Mont Blanc'ın bulunduğu Avrupa dağ kuşağı"
+    },
+    {
+     "answer": "EKVATOR",
+     "clue": "Dünyayı kuzey ve güney yarıkürelere ayıran çember"
+    },
+    {
+     "answer": "ELBRUS",
+     "clue": "Kafkasların en yüksek zirvesi, Rusya'da"
+    },
+    {
+     "answer": "PLATO",
+     "clue": "Çevresine göre yüksek, düz ve geniş arazi"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-004",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "BAKÜ",
+     "clue": "Azerbaycan'ın başkenti, Hazar kıyısında"
+    },
+    {
+     "answer": "KIZILDENİZ",
+     "clue": "Süveyş Kanalı'nın ulaştığı, Afrika ile Arabistan arası deniz"
+    },
+    {
+     "answer": "HATTUŞA",
+     "clue": "Hitit başkenti"
+    },
+    {
+     "answer": "BULGARİSTAN",
+     "clue": "Türkiye'nin kuzeybatı komşusu, başkenti Sofya"
+    },
+    {
+     "answer": "MİSİSİPİ",
+     "clue": "Meksika Körfezi'ne dökülen Amerikan nehri"
+    },
+    {
+     "answer": "MEZOPOTAMYA",
+     "clue": "Dicle ve Fırat arasında kalan tarihi bölge"
+    },
+    {
+     "answer": "SİNOP",
+     "clue": "Türkiye'nin en kuzey noktasının bulunduğu Karadeniz ili"
+    },
+    {
+     "answer": "NORVEÇ",
+     "clue": "Fiyortlarıyla ünlü, İskandinav Yarımadası'nda ülke"
+    },
+    {
+     "answer": "TRABZON",
+     "clue": "Karadeniz kıyısındaki kent"
+    },
+    {
+     "answer": "SAPANCA",
+     "clue": "Sakarya'daki tatlı su gölü"
+    },
+    {
+     "answer": "LÜBNAN",
+     "clue": "Başkenti Beyrut olan Akdeniz kıyısı ülkesi"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-005",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "İSPANYA",
+     "clue": "Madrid'in bulunduğu Iberya Yarımadası ülkesi"
+    },
+    {
+     "answer": "NİL",
+     "clue": "Kahire'den geçen, Mısır'ın ana nehri"
+    },
+    {
+     "answer": "TAHRAN",
+     "clue": "İran'ın başkenti, Elburz eteklerinde"
+    },
+    {
+     "answer": "ONTARİO",
+     "clue": "Büyük Göller'in yüzölçümü en küçük olanı"
+    },
+    {
+     "answer": "MISIR",
+     "clue": "Piramitleriyle bilinen, Nil kıyısındaki Afrika ülkesi"
+    },
+    {
+     "answer": "ROMA",
+     "clue": "İtalya'nın başkenti, yedi tepeli antik kent"
+    },
+    {
+     "answer": "OVA",
+     "clue": "Düz ve geniş tarım alanı"
+    },
+    {
+     "answer": "TROYA",
+     "clue": "Çanakkale'deki antik kent"
+    },
+    {
+     "answer": "ADRİYATİK",
+     "clue": "İtalya ile Balkan kıyıları arasındaki deniz"
+    },
+    {
+     "answer": "BALTIK",
+     "clue": "İskandinavya ile Almanya arasındaki deniz"
+    },
+    {
+     "answer": "KARADENİZ",
+     "clue": "Türkiye'nin kuzeyinde, Boğaz'la Marmara'ya bağlı deniz"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-006",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "İKLİM",
+     "clue": "Uzun yıllar boyunca bir yerdeki ortalama hava durumu"
+    },
+    {
+     "answer": "PARİS",
+     "clue": "Fransa'nın başkenti, Seine kıyısında"
+    },
+    {
+     "answer": "ERÇEK",
+     "clue": "Van'da, Erciş yakınındaki soda gölü"
+    },
+    {
+     "answer": "TRAKYA",
+     "clue": "Türkiye'nin Avrupa kıtasındaki toprakları"
+    },
+    {
+     "answer": "YEŞİLIRMAK",
+     "clue": "Amasya'dan geçen, Karadeniz'e dökülen nehir"
+    },
+    {
+     "answer": "VAHA",
+     "clue": "Çölde su bulunan yeşil alan"
+    },
+    {
+     "answer": "PEKİN",
+     "clue": "Çin'in başkenti, Yasak Şehir'in bulunduğu kent"
+    },
+    {
+     "answer": "BREZİLYA",
+     "clue": "Amazon'un büyük bölümünü barındıran Güney Amerika ülkesi"
+    },
+    {
+     "answer": "VOLKAN",
+     "clue": "Yerin altındaki magmanın dışarı çıktığı dağ"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-007",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "VADİ",
+     "clue": "İki yamaç arasında uzanan çukur, akarsu yatağı"
+    },
+    {
+     "answer": "EGE",
+     "clue": "Yunanistan ile Anadolu arasındaki deniz"
+    },
+    {
+     "answer": "ERCİYES",
+     "clue": "Kayseri'deki yüksek volkanik dağ"
+    },
+    {
+     "answer": "KONYA",
+     "clue": "Çatalhöyük'ün bulunduğu Orta Anadolu ili"
+    },
+    {
+     "answer": "LİKYA",
+     "clue": "Fethiye ve Kaş çevresindeki antik bölge"
+    },
+    {
+     "answer": "HİNDİSTAN",
+     "clue": "Başkenti Yeni Delhi olan güney Asya ülkesi"
+    },
+    {
+     "answer": "KONGO",
+     "clue": "Ekvator'u kesip Atlas Okyanusu'na dökülen nehir"
+    },
+    {
+     "answer": "ISPARTA",
+     "clue": "Gül yağıyla ünlü, Eğirdir'in bağlı olduğu il"
+    },
+    {
+     "answer": "DATÇA",
+     "clue": "Muğla'da, iki körfezi ayıran yarımada ilçesi"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-008",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "GEDİZ",
+     "clue": "Kütahya'dan doğup Ege'ye akan nehir"
+    },
+    {
+     "answer": "LİMA",
+     "clue": "Peru'nun başkenti, Pasifik kıyısında"
+    },
+    {
+     "answer": "KÖRFEZ",
+     "clue": "Karanın denize doğru girintisi"
+    },
+    {
+     "answer": "ÇUKUROVA",
+     "clue": "Adana ve Mersin'in ovası, pamuk ve narenciye"
+    },
+    {
+     "answer": "ŞELALE",
+     "clue": "Yüksekten dökülen su akışı"
+    },
+    {
+     "answer": "BOĞAZ",
+     "clue": "İki denizi birbirine bağlayan dar su yolu"
+    },
+    {
+     "answer": "AZERBAYCAN",
+     "clue": "Başkenti Bakü olan, Hazar kıyısındaki ülke"
+    },
+    {
+     "answer": "ŞİLİ",
+     "clue": "And Dağları'nın batısında, dar ve uzun Güney Amerika ülkesi"
+    },
+    {
+     "answer": "TİGRİS",
+     "clue": "Dicle'nin yabancı dildeki adı"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-009",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "IĞDIR",
+     "clue": "Aras kıyısında, Ağrı Dağı'na komşu doğu ili"
+    },
+    {
+     "answer": "FİYORD",
+     "clue": "Buzul oyması, derin ve dar deniz girintisi"
+    },
+    {
+     "answer": "TUZGÖLÜ",
+     "clue": "Orta Anadolu'daki büyük tuzlu göl"
+    },
+    {
+     "answer": "ULUDAĞ",
+     "clue": "Bursa'daki ünlü kayak merkezi olan dağ"
+    },
+    {
+     "answer": "FIRAT",
+     "clue": "Doğu'dan güneye akan uzun nehir"
+    },
+    {
+     "answer": "İYON",
+     "clue": "Güney İtalya ile Yunanistan arasındaki deniz"
+    },
+    {
+     "answer": "BEYŞEHİR",
+     "clue": "Konya'daki, Türkiye'nin en büyük tatlı su gölü"
+    },
+    {
+     "answer": "FRANSA",
+     "clue": "Başkenti Paris olan, Eyfel Kulesi'nin ülkesi"
+    },
+    {
+     "answer": "AVUSTRALYA",
+     "clue": "Hem kıta hem ülke olan, Canberra'lı ülke"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-010",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "MUSON",
+     "clue": "Mevsimlere göre yön değiştiren rüzgâr sistemi"
+    },
+    {
+     "answer": "PERGAMON",
+     "clue": "Bergama'daki antik kent"
+    },
+    {
+     "answer": "CEYHAN",
+     "clue": "Seyhan'ın komşusu, Akdeniz'e dökülen nehir"
+    },
+    {
+     "answer": "TROPİK",
+     "clue": "Yengeç ve Oğlak dönenceleri arasındaki sıcak kuşak"
+    },
+    {
+     "answer": "MARMARA",
+     "clue": "İstanbul'un bulunduğu iç deniz"
+    },
+    {
+     "answer": "MANYAS",
+     "clue": "Balıkesir'de kuş cenneti olan göl"
+    },
+    {
+     "answer": "KILIMANJARO",
+     "clue": "Tanzanya'daki Afrika'nın en yüksek dağı"
+    },
+    {
+     "answer": "RİZE",
+     "clue": "Çay üretiminin merkezi Doğu Karadeniz ili"
+    },
+    {
+     "answer": "TOROS",
+     "clue": "Güney Anadolu'da uzanan büyük dağ kuşağı"
+    },
+    {
+     "answer": "JAPONYA",
+     "clue": "Başkenti Tokyo olan, adalardan oluşan ülke"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-011",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "MERİÇ",
+     "clue": "Edirne'de Yunanistan sınırını oluşturan nehir"
+    },
+    {
+     "answer": "DAĞ",
+     "clue": "Yüksek ve sarp kara parçası"
+    },
+    {
+     "answer": "KAÇKARDAĞLARI",
+     "clue": "Karadeniz'in yüksek dağ sıralarından biri"
+    },
+    {
+     "answer": "KÖPRÜÇAY",
+     "clue": "Köprülü Kanyon'dan akan Antalya nehri"
+    },
+    {
+     "answer": "KİLİKYA",
+     "clue": "Mersin ve Tarsus çevresindeki antik bölge"
+    },
+    {
+     "answer": "KIZILIRMAK",
+     "clue": "Tamamen Türkiye'den akan en uzun nehir"
+    },
+    {
+     "answer": "YAYLA",
+     "clue": "Yüksek rakımlı, otlak olarak kullanılan düzlük"
+    },
+    {
+     "answer": "İSKANDİNAVYA",
+     "clue": "Norveç ve İsveç'in bulunduğu kuzey Avrupa yarımadası"
+    },
+    {
+     "answer": "RİYAD",
+     "clue": "Suudi Arabistan'ın başkenti, ülkenin orta kesiminde"
+    },
+    {
+     "answer": "ARARAT",
+     "clue": "Doğu Anadolu'daki en yüksek dağ"
+    },
+    {
+     "answer": "TOKYO",
+     "clue": "Japonya'nın başkenti, Kanto Ovası'nda"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-012",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "ÇORUH",
+     "clue": "Artvin'den geçip Gürcistan'a akan nehir"
+    },
+    {
+     "answer": "KAHİRE",
+     "clue": "Mısır'ın başkenti, Nil kıyısındaki dev kent"
+    },
+    {
+     "answer": "VAN",
+     "clue": "Türkiye'nin en büyük gölü, soda gölü"
+    },
+    {
+     "answer": "BERLİN",
+     "clue": "Almanya'nın başkenti, Spree nehri kıyısında"
+    },
+    {
+     "answer": "ALMANYA",
+     "clue": "Başkenti Berlin olan Orta Avrupa ülkesi"
+    },
+    {
+     "answer": "ÇATALHÖYÜK",
+     "clue": "Konya'daki Neolitik yerleşim"
+    },
+    {
+     "answer": "HAZAR",
+     "clue": "Volga'nın döküldüğü, dünyanın en büyük kapalı su kütlesi"
+    },
+    {
+     "answer": "SÜPHAN",
+     "clue": "Van Gölü'nün yakınındaki volkanik dağ"
+    },
+    {
+     "answer": "ENLEM",
+     "clue": "Ekvatora göre kuzey-güney konumunu gösteren açı"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-013",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "EVEREST",
+     "clue": "Nepal ile Çin sınırındaki dünyanın en yüksek zirvesi"
+    },
+    {
+     "answer": "KAPADOKYA",
+     "clue": "Peri bacalarıyla ünlü bölge"
+    },
+    {
+     "answer": "DELTA",
+     "clue": "Nehir ağzında biriken alüvyonlardan oluşan üçgen ova"
+    },
+    {
+     "answer": "AMAZON",
+     "clue": "Güney Amerika'da en fazla su taşıyan nehir"
+    },
+    {
+     "answer": "SALDA",
+     "clue": "Burdur'daki beyaz kumsallı göl"
+    },
+    {
+     "answer": "BAĞDAT",
+     "clue": "Irak'ın başkenti, Dicle kıyısında"
+    },
+    {
+     "answer": "KENYA",
+     "clue": "Ekvator'un üzerinden geçen, Nairobi'li Afrika ülkesi"
+    },
+    {
+     "answer": "VOLGA",
+     "clue": "Avrupa'nın en uzun nehri, Hazar'a dökülür"
+    },
+    {
+     "answer": "KAYSERİ",
+     "clue": "Erciyes Dağı'nın eteğindeki Orta Anadolu ili"
+    },
+    {
+     "answer": "ÇÖL",
+     "clue": "Yağışın çok az olduğu, bitki örtüsü seyrek bölge"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-014",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "MUĞLA",
+     "clue": "Fethiye'nin bağlı olduğu Ege ili"
+    },
+    {
+     "answer": "SEYHAN",
+     "clue": "Adana'dan geçip Akdeniz'e dökülen nehir"
+    },
+    {
+     "answer": "BOYLAM",
+     "clue": "Başlangıç meridyenine göre doğu-batı konumunu gösteren açı"
+    },
+    {
+     "answer": "NEMRUT",
+     "clue": "Adıyaman'daki dev heykelleriyle ünlü dağ"
+    },
+    {
+     "answer": "ATİNA",
+     "clue": "Akropolis'in bulunduğu Yunanistan başkenti"
+    },
+    {
+     "answer": "LEFKOŞA",
+     "clue": "KKTC'nin başkenti, Kıbrıs'ın ortasında"
+    },
+    {
+     "answer": "ANADOLU",
+     "clue": "Asya'nın batısındaki geniş yarımada"
+    },
+    {
+     "answer": "POLONYA",
+     "clue": "Başkenti Varşova olan Orta Avrupa ülkesi"
+    },
+    {
+     "answer": "AZAK",
+     "clue": "Kerç Boğazı'yla Karadeniz'e bağlanan sığ deniz"
+    }
+   ]
+  },
+  {
+   "id": "tek-cografya-015",
+   "topic": "Anadolu ve coğrafya",
+   "words": [
+    {
+     "answer": "MAĞARA",
+     "clue": "Kayaların içinde oluşan doğal boşluk"
+    },
+    {
+     "answer": "DİCLE",
+     "clue": "Diyarbakır'dan geçen güneydoğu nehri"
+    },
+    {
+     "answer": "BİTLİS",
+     "clue": "Tatvan'ın bağlı olduğu, Van Gölü kıyısındaki il"
+    },
+    {
+     "answer": "MADRİT",
+     "clue": "İspanya'nın başkenti, ülkenin ortasında"
+    },
+    {
+     "answer": "EĞİRDİR",
+     "clue": "Isparta'daki tatlı su gölü"
+    },
+    {
+     "answer": "ARAS",
+     "clue": "Iğdır'da Ermenistan sınırını çizen nehir"
+    },
+    {
+     "answer": "YARIMADA",
+     "clue": "Üç yanı denizle çevrili kara parçası"
+    },
+    {
+     "answer": "KAZDAĞI",
+     "clue": "Troya'nın yakınındaki, İda adıyla bilinen dağ"
+    },
+    {
+     "answer": "ULUABAT",
+     "clue": "Bursa'da, Ramsar listesinde yer alan kuş cenneti gölü"
+    },
+    {
+     "answer": "AKDENİZ",
+     "clue": "Antalya'nın kıyısını yalayan deniz"
+    },
+    {
+     "answer": "BAYKAL",
+     "clue": "Sibirya'da, dünyanın en derin tatlı su gölü"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-001",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "ISIRGAN",
+     "clue": "Dokunulduğunda yakan tüylü yapraklı bitki"
+    },
+    {
+     "answer": "BEGONYA",
+     "clue": "Gölgeli balkon ve saksılarda yetişen süs bitkisi"
+    },
+    {
+     "answer": "ÇİĞDEM",
+     "clue": "Kış sonunda açan, mor, sarı ya da beyaz küçük çiçek"
+    },
+    {
+     "answer": "KÖKLENME",
+     "clue": "Dal ya da gövdenin toprakta kök salması"
+    },
+    {
+     "answer": "ÇALI",
+     "clue": "Odunsu, birkaç gövdeli küçük bitki"
+    },
+    {
+     "answer": "KIZILÇAM",
+     "clue": "Akdeniz kıyılarında yaygın, kırmızımsı kabuklu çam"
+    },
+    {
+     "answer": "GEVEN",
+     "clue": "Sakız veren, dikenli dağ bitkisi"
+    },
+    {
+     "answer": "HANIMELİ",
+     "clue": "Kokusu güçlü, sarmaşık gibi uzayan çiçekli bitki"
+    },
+    {
+     "answer": "GÜL",
+     "clue": "Dikenli dalları ve kokusuyla bilinen çiçek"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-002",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "SUKULENT",
+     "clue": "Su depolayan, etli yapraklı bitki"
+    },
+    {
+     "answer": "SERA",
+     "clue": "Bitkilerin ısı ve ışıkla korunduğu cam yapı"
+    },
+    {
+     "answer": "SÜMBÜL",
+     "clue": "Kokusu güçlü, soğanlı çiçek"
+    },
+    {
+     "answer": "YABANİGÜL",
+     "clue": "Kırlarda kendiliğinden açan, dikenli gül türü"
+    },
+    {
+     "answer": "YAPRAKDÖKER",
+     "clue": "Sonbaharda yapraklarını döken ağaç türü"
+    },
+    {
+     "answer": "BADEM",
+     "clue": "İlkbaharda çiçek açan, kabuklu yemiş veren ağaç"
+    },
+    {
+     "answer": "KUŞBURNU",
+     "clue": "Kırmızı meyveli, dikenli gül türü"
+    },
+    {
+     "answer": "FOTOSENTEZ",
+     "clue": "Bitkilerin ışık enerjisiyle besin üretmesi"
+    },
+    {
+     "answer": "ISPANAK",
+     "clue": "Yeşil yapraklı sebze"
+    },
+    {
+     "answer": "AZALYA",
+     "clue": "Bahar aylarında açan, renkli çiçekli çalı"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-003",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "FİLİZ",
+     "clue": "Tohumdan çıkan ilk yeşil uç"
+    },
+    {
+     "answer": "MAKİ",
+     "clue": "Akdeniz'de çalı ve bodur ağaçlardan oluşan bitki örtüsü"
+    },
+    {
+     "answer": "ZEYTİN",
+     "clue": "Ege'de yetişen, yağı bilinen ağaç"
+    },
+    {
+     "answer": "MEŞE",
+     "clue": "Palamut veren geniş yapraklı ağaç"
+    },
+    {
+     "answer": "YASEMİN",
+     "clue": "Kokusu güçlü, beyaz ya da sarı çiçekli çalı"
+    },
+    {
+     "answer": "KUZUKULAĞI",
+     "clue": "Ekşi yapraklı, çayırlarda yetişen kır bitkisi"
+    },
+    {
+     "answer": "ANEMON",
+     "clue": "Adı rüzgâr anlamına gelen, renkli kır çiçeği"
+    },
+    {
+     "answer": "PAPATYA",
+     "clue": "Beyaz yapraklı, sarı merkezli kır çiçeği"
+    },
+    {
+     "answer": "BAMBU",
+     "clue": "Hızlı büyüyen, içi boş gövdeli bitki"
+    },
+    {
+     "answer": "FISTIKÇAMI",
+     "clue": "Yenilebilir tohumları olan şemsiye biçimli çam"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-004",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "YILLIK",
+     "clue": "Tohumdan çıkıp bir yılda ömrünü tamamlayan bitki"
+    },
+    {
+     "answer": "ADAÇAYI",
+     "clue": "Şifalı, kokulu bitki; çayı içilir"
+    },
+    {
+     "answer": "SULAMA",
+     "clue": "Bitkilere su verme işi"
+    },
+    {
+     "answer": "ÇANAKYAPRAK",
+     "clue": "Taç yaprakların altındaki dış yapraklar"
+    },
+    {
+     "answer": "SAKSI",
+     "clue": "Çiçek ve bitki yetiştirilen kap"
+    },
+    {
+     "answer": "DAİMİYEŞİL",
+     "clue": "Yıl boyunca yeşil kalan bitki"
+    },
+    {
+     "answer": "EPİFİT",
+     "clue": "Başka bitki üzerinde yaşayan, toprağa bağlı olmayan bitki"
+    },
+    {
+     "answer": "KAKTÜS",
+     "clue": "Diken taşıyan, çöl bitkisi"
+    },
+    {
+     "answer": "SAKIZAĞACI",
+     "clue": "Sakızı Sakız Adası'nda toplanan çalı"
+    },
+    {
+     "answer": "GLADYOL",
+     "clue": "Uzun sapında sıralı açan çiçekleriyle bilinen bitki"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-005",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "NİLÜFER",
+     "clue": "Göllerde yüzen, beyaz ya da pembe su bitkisi"
+    },
+    {
+     "answer": "DÖLLENME",
+     "clue": "Erkek ve dişi üreme hücrelerinin birleşmesi"
+    },
+    {
+     "answer": "PALMİYE",
+     "clue": "Gövdesi çıplak, yaprakları tepede toplanan ağaç"
+    },
+    {
+     "answer": "KOMPOST",
+     "clue": "Bitki ve mutfak artıklarından elde edilen gübre"
+    },
+    {
+     "answer": "LOTUS",
+     "clue": "Antik Mısır'da kutsal sayılan, su yüzeyinde açan çiçek"
+    },
+    {
+     "answer": "KSİLEM",
+     "clue": "Kökten yaprağa su taşıyan damar dokusu"
+    },
+    {
+     "answer": "ALG",
+     "clue": "Suda yaşayan, klorofilli basit canlı"
+    },
+    {
+     "answer": "KIZILAĞAÇ",
+     "clue": "Nemli yerleri seven, toprağa azot bağlayan ağaç"
+    },
+    {
+     "answer": "ŞAKAYIK",
+     "clue": "Büyük, yuvarlak çiçekli, bahar açan bitki"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-006",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "AKÇAAĞAÇ",
+     "clue": "Sonbaharda yaprakları kızaran, Kanada bayrağındaki ağaç"
+    },
+    {
+     "answer": "SÖĞÜT",
+     "clue": "Su kenarında sarkan dallı, dar yapraklı ağaç"
+    },
+    {
+     "answer": "LİKEN",
+     "clue": "Mantar ve alglerin birlikte yaşamasından oluşan canlı"
+    },
+    {
+     "answer": "YAPRAKSAPI",
+     "clue": "Yaprağı gövdeye bağlayan sap"
+    },
+    {
+     "answer": "LAVANTA",
+     "clue": "Kokulu, mor başaklı, kurutulan bitki"
+    },
+    {
+     "answer": "KAYIN",
+     "clue": "Serin ormanlarda yetişen, geniş yapraklı ağaç"
+    },
+    {
+     "answer": "ÇOKYILLIK",
+     "clue": "Birkaç yıl yaşayan, her yıl yeniden çiçeklenen bitki"
+    },
+    {
+     "answer": "REZENE",
+     "clue": "Tohumu çay olarak içilen, anason kokulu bitki"
+    },
+    {
+     "answer": "KÖKNAR",
+     "clue": "Dağlarda yetişen, kozalağı dik duran iğne yapraklı ağaç"
+    },
+    {
+     "answer": "PİSTİL",
+     "clue": "Çiçeğin dişi üreme organı"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-007",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "KAVAK",
+     "clue": "Su kenarlarında yetişen uzun ağaç"
+    },
+    {
+     "answer": "KAMBİYUM",
+     "clue": "Gövdede kalınlaşmayı sağlayan dokunun adı"
+    },
+    {
+     "answer": "ORTANCA",
+     "clue": "Toprağın asitliğine göre rengi değişen çalı"
+    },
+    {
+     "answer": "KASIMPATI",
+     "clue": "Sonbaharda açan, çok renkli süs bitkisi"
+    },
+    {
+     "answer": "YUMURTALIK",
+     "clue": "Pistilin tabanında tohum taslaklarını taşıyan kısım"
+    },
+    {
+     "answer": "YUMRU",
+     "clue": "Patates gibi besin depolayan şişkin gövde"
+    },
+    {
+     "answer": "SOĞAN",
+     "clue": "Katmanlı yapısıyla besin depolayan yer altı organı"
+    },
+    {
+     "answer": "YONCA",
+     "clue": "Hayvan yemi olarak ekilen, üç yapraklı bitki"
+    },
+    {
+     "answer": "AYÇİÇEĞİ",
+     "clue": "Sarı taçlı, tohumu kavrulan bitki"
+    },
+    {
+     "answer": "KİRAZ",
+     "clue": "Erken yazda olgunlaşan kırmızı meyve"
+    },
+    {
+     "answer": "ORKİDE",
+     "clue": "Saksıda yetişen egzotik çiçek"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-008",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "ÇINAR",
+     "clue": "Gölgesi geniş, yapraklı ağaç"
+    },
+    {
+     "answer": "PATLICAN",
+     "clue": "Mor kabuklu sebze"
+    },
+    {
+     "answer": "GONCA",
+     "clue": "Açmak üzere olan gül tomurcuğu"
+    },
+    {
+     "answer": "KINA",
+     "clue": "Yaprakları kurutulup saç boyası yapılan çalı"
+    },
+    {
+     "answer": "AMARİLİS",
+     "clue": "Kırmızı ya da beyaz borulu çiçekli, soğanlı süs bitkisi"
+    },
+    {
+     "answer": "DEREOTU",
+     "clue": "Yaprakları salatalara konan, kokulu bitki"
+    },
+    {
+     "answer": "TAÇYAPRAK",
+     "clue": "Çiçeğin renkli, göze çarpan yaprakları"
+    },
+    {
+     "answer": "ŞİMŞİR",
+     "clue": "Bahçe çitlerinde şekil verilen, sık yapraklı çalı"
+    },
+    {
+     "answer": "DUT",
+     "clue": "İpek böceğinin yaprağıyla beslendiği ağaç"
+    },
+    {
+     "answer": "LÜPEN",
+     "clue": "Dik salkımlı, rengârenk kır bitkisi"
+    },
+    {
+     "answer": "PAPİRÜS",
+     "clue": "Eski Mısır'da kağıt yapımında kullanılan sazlık bitki"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-009",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "HUMUS",
+     "clue": "Bitki artıklarından oluşan verimli toprak tabakası"
+    },
+    {
+     "answer": "TOMURCUK",
+     "clue": "Çiçek ya da yaprağın henüz açmamış hali"
+    },
+    {
+     "answer": "GELİNCİK",
+     "clue": "Kırmızı taçyapraklı, kır çiçeği"
+    },
+    {
+     "answer": "ÇİÇEKSAPI",
+     "clue": "Çiçeği gövdeye bağlayan ince sap"
+    },
+    {
+     "answer": "KARAHİNDİBA",
+     "clue": "Sarı çiçekli, tohumları rüzgârla uçan kır bitkisi"
+    },
+    {
+     "answer": "ZAKKUM",
+     "clue": "Zehirli, kırmızı-pembe çiçekli Akdeniz çalısı"
+    },
+    {
+     "answer": "KIZILCIK",
+     "clue": "İlkbaharda sarı çiçek açan, kırmızı meyveli çalı"
+    },
+    {
+     "answer": "LADİN",
+     "clue": "Noel ağacı olarak sıkça kullanılan iğne yapraklı ağaç"
+    },
+    {
+     "answer": "FREZYA",
+     "clue": "Kokusu güçlü, kesme çiçek olarak sevilen bitki"
+    },
+    {
+     "answer": "FISTIK",
+     "clue": "Gaziantep'in ünlü kabuklu yemişi"
+    },
+    {
+     "answer": "GÜBRE",
+     "clue": "Toprağın besin değerini artıran madde"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-010",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "YOSUN",
+     "clue": "Nemli yerlerde yetişen, gerçek kökü olmayan bitki"
+    },
+    {
+     "answer": "BUGENVİL",
+     "clue": "Sıcak iklimde renkli brakteli tırmanıcı süs bitkisi"
+    },
+    {
+     "answer": "ÇİÇEKLİK",
+     "clue": "Bahçede çiçeklerin yetiştirildiği bakımlı alan"
+    },
+    {
+     "answer": "STOMA",
+     "clue": "Yaprakta gaz alışverişini sağlayan küçük gözenek"
+    },
+    {
+     "answer": "AŞILAMA",
+     "clue": "Bir bitkinin dalını başka bitkiye ekleme işlemi"
+    },
+    {
+     "answer": "ERGUVAN",
+     "clue": "İlkbaharda dalları mor-pembe çiçeklerle örtülen ağaç"
+    },
+    {
+     "answer": "MENEKŞE",
+     "clue": "Mor ya da beyaz, kokulu küçük kır çiçeği"
+    },
+    {
+     "answer": "BUDAMA",
+     "clue": "Ağaç ve çalıların fazla dallarının kesilmesi"
+    },
+    {
+     "answer": "AGAVE",
+     "clue": "Büyük, dikenli yapraklı, çöl kökenli süs bitkisi"
+    },
+    {
+     "answer": "TOZLUK",
+     "clue": "Erkek organın polen taşıyan ucu"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-011",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "YUKKA",
+     "clue": "Kılıç gibi yapraklı, Amerika kökenli süs bitkisi"
+    },
+    {
+     "answer": "YAPRAKÇIK",
+     "clue": "Bileşik yaprağın küçük parçası"
+    },
+    {
+     "answer": "İKİYILLIK",
+     "clue": "İlk yıl yaprak, ikinci yıl çiçek açan bitki"
+    },
+    {
+     "answer": "KEÇİBOYNUZU",
+     "clue": "Kurutulup un yapılan sert kabuklu meyve"
+    },
+    {
+     "answer": "GÖVDE",
+     "clue": "Kök ile yaprak arasındaki, bitkiyi ayakta tutan kısım"
+    },
+    {
+     "answer": "KARANFİL",
+     "clue": "Kesme çiçek olarak yaygın, baharatlı kokulu bitki"
+    },
+    {
+     "answer": "ZAMBAK",
+     "clue": "Büyük ve beyaz çan biçimli çiçek"
+    },
+    {
+     "answer": "FLOEM",
+     "clue": "Yapraktaki besinleri bitkinin her yerine taşıyan doku"
+    },
+    {
+     "answer": "SARDUNYA",
+     "clue": "Balkonlarda sıkça yetiştirilen, kırmızı çiçekli bitki"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-012",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "KARAÇAM",
+     "clue": "Türkiye'de yaygın bir çam türü"
+    },
+    {
+     "answer": "SARMAŞIK",
+     "clue": "Duvarlara tırmanan bitki"
+    },
+    {
+     "answer": "KEKİK",
+     "clue": "Kır yerlerinde yetişen baharatlık bitki"
+    },
+    {
+     "answer": "SÜRGÜN",
+     "clue": "Gövdenin yeni çıkan genç dalı"
+    },
+    {
+     "answer": "FESLEĞEN",
+     "clue": "Yaprakları pesto yapımında kullanılan kokulu bitki"
+    },
+    {
+     "answer": "CEVİZ",
+     "clue": "Kabuklu yemişi olan, geniş gölgeli ağaç"
+    },
+    {
+     "answer": "SERVİ",
+     "clue": "Mezarlıklarda sık dikilen, dik ve sivri ağaç"
+    },
+    {
+     "answer": "DEFNE",
+     "clue": "Yaprakları yemeklerde kullanılan, hep yeşil ağaç"
+    },
+    {
+     "answer": "KESTANE",
+     "clue": "Dikenli kabuğu içinde kahverengi meyve veren ağaç"
+    },
+    {
+     "answer": "NERGİS",
+     "clue": "Kış sonunda açan beyaz çiçek"
+    },
+    {
+     "answer": "TOHUM",
+     "clue": "Yeni bitkiyi oluşturan embriyo içeren yapı"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-013",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "PETUNYA",
+     "clue": "Balkon saksılarında yaygın, huni biçimli çiçek"
+    },
+    {
+     "answer": "ÇAM",
+     "clue": "İğne yapraklı, hep yeşil ağaç"
+    },
+    {
+     "answer": "LALE",
+     "clue": "1718-1730 yılları arasında Osmanlı'da moda olan çiçek"
+    },
+    {
+     "answer": "SEDİR",
+     "clue": "Toroslar'da yetişen, reçineli iğne yapraklı ağaç"
+    },
+    {
+     "answer": "EĞRELTİ",
+     "clue": "Spor ile üreyen, yapraklı damarlı bitki"
+    },
+    {
+     "answer": "FINDIK",
+     "clue": "Karadeniz'de çok yetişen kabuklu yemiş"
+    },
+    {
+     "answer": "IHLAMUR",
+     "clue": "Çiçekleri çay olarak demlenen, kokulu ağaç"
+    },
+    {
+     "answer": "SARIÇAM",
+     "clue": "Kabuğu kızılımsı, iğne yapraklı çam türü"
+    },
+    {
+     "answer": "ARDIÇ",
+     "clue": "Meyvesi kokulu, dağlarda yetişen iğne yapraklı ağaç"
+    },
+    {
+     "answer": "OKALİPTÜS",
+     "clue": "Yaprakları uçucu yağ içeren Avustralya kökenli ağaç"
+    }
+   ]
+  },
+  {
+   "id": "tek-cicekler-014",
+   "topic": "Çiçekler ve ağaçlar",
+   "words": [
+    {
+     "answer": "KAMELYA",
+     "clue": "Kış aylarında açan, parlak yapraklı çiçek"
+    },
+    {
+     "answer": "NANE",
+     "clue": "Yaprakları çay ve sakızlara aroma veren bitki"
+    },
+    {
+     "answer": "ÇİÇEKLENME",
+     "clue": "Bitkinin çiçek açma dönemi"
+    },
+    {
+     "answer": "FİDE",
+     "clue": "Tohumdan yeni çıkmış genç bitki"
+    },
+    {
+     "answer": "LEYLAK",
+     "clue": "Mayısta açan, kokulu mor çalı"
+    },
+    {
+     "answer": "STİGMA",
+     "clue": "Pistilin üst ucunda polenin tutunduğu yüzey"
+    },
+    {
+     "answer": "POLEN",
+     "clue": "Çiçeğin erkek üreme hücresini taşıyan toz"
+    },
+    {
+     "answer": "ÇİMLENME",
+     "clue": "Tohumun filizlenmeye başlaması"
+    },
+    {
+     "answer": "MANOLYA",
+     "clue": "Büyük, kokulu beyaz çiçek"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-001",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "KARTAL",
+     "clue": "Yüksekte uçan, güçlü yırtıcı kuş"
+    },
+    {
+     "answer": "KANARYA",
+     "clue": "Sarı tüylü, güzel ötüşlü kafes kuşu"
+    },
+    {
+     "answer": "KOÇ",
+     "clue": "Boynuzlu erkek koyun"
+    },
+    {
+     "answer": "KUNDUZ",
+     "clue": "Suda baraj gibi yapılar kuran kemirgen"
+    },
+    {
+     "answer": "ÇAVUŞKUŞU",
+     "clue": "Tepesinde ibik gibi tüy taşıyan kuş"
+    },
+    {
+     "answer": "TAZI",
+     "clue": "Hızlı koşan, avcılıkta kullanılan köpek"
+    },
+    {
+     "answer": "TIRTIL",
+     "clue": "Kelebeğin larva dönemi"
+    },
+    {
+     "answer": "YARASA",
+     "clue": "Gece uçan memeli"
+    },
+    {
+     "answer": "YUNUSBALIĞI",
+     "clue": "Akıllı ve oyunbaz deniz memelisi"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-002",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "DEVE",
+     "clue": "Hörgüçlü çöl hayvanı"
+    },
+    {
+     "answer": "TİLKİ",
+     "clue": "Kızıl kürklü, kurnaz hayvan"
+    },
+    {
+     "answer": "SOLUNGAÇ",
+     "clue": "Balığın suyla solunum yaptığı organ"
+    },
+    {
+     "answer": "TAVŞAN",
+     "clue": "Uzun kulaklı, kısa kuyruklu küçük memeli"
+    },
+    {
+     "answer": "BALİNA",
+     "clue": "Dev boyutlu deniz memelisi"
+    },
+    {
+     "answer": "BÜLBÜL",
+     "clue": "Güzel ötüşüyle bilinen küçük kuş"
+    },
+    {
+     "answer": "AYI",
+     "clue": "Kışın uyuyan, iri yapılı memeli"
+    },
+    {
+     "answer": "KEDİ",
+     "clue": "Evcil, miyavlayan ve fareyi kovalayan hayvan"
+    },
+    {
+     "answer": "YELE",
+     "clue": "Atın boynunda uzayan uzun kıllar"
+    },
+    {
+     "answer": "İNEK",
+     "clue": "Süt veren büyükbaş hayvan"
+    },
+    {
+     "answer": "FARE",
+     "clue": "Küçük, uzun kuyruklu kemirgen"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-003",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "TURNA",
+     "clue": "Göçmen, uzun boyunlu kuş"
+    },
+    {
+     "answer": "SARDALYA",
+     "clue": "Konserve yapılan küçük, sürü halinde balık"
+    },
+    {
+     "answer": "ZÜRAFA",
+     "clue": "Uzun boynuyla bilinen Afrika hayvanı"
+    },
+    {
+     "answer": "HOROZ",
+     "clue": "Sabahları ötmesiyle bilinen erkek tavuk"
+    },
+    {
+     "answer": "KÜMES",
+     "clue": "Tavukların barındığı yer"
+    },
+    {
+     "answer": "DOMUZ",
+     "clue": "Burnu yassı, kulağı sarkık çiftlik hayvanı"
+    },
+    {
+     "answer": "İSTİRİDYE",
+     "clue": "Kabuklu ve iki kapaklı yumuşakça"
+    },
+    {
+     "answer": "KELEBEK",
+     "clue": "Renkli kanatlı, çiçeklerde gezen böcek"
+    },
+    {
+     "answer": "SİVRİSİNEK",
+     "clue": "Kan emen küçük uçan böcek"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-004",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "MARTI",
+     "clue": "Deniz kıyısında yaşayan, denizde uçan kuş"
+    },
+    {
+     "answer": "BILDIRCIN",
+     "clue": "Kısa uçuşlu, küçük av kuşu"
+    },
+    {
+     "answer": "BOYNUZ",
+     "clue": "Geyik ve koç gibi hayvanların başındaki sert çıkıntı"
+    },
+    {
+     "answer": "DOĞAN",
+     "clue": "Eğitilerek avcılıkta kullanılan yırtıcı kuş"
+    },
+    {
+     "answer": "KİRPİ",
+     "clue": "Dikenli, topaklanabilen küçük memeli"
+    },
+    {
+     "answer": "KUZGUN",
+     "clue": "Tüyleri simsiyah, büyük gövdeli kuş"
+    },
+    {
+     "answer": "PANTER",
+     "clue": "Siyah benekli, çevik yırtıcı kedi"
+    },
+    {
+     "answer": "KIRLANGIÇ",
+     "clue": "Bahar gelince dönen göçmen kuş"
+    },
+    {
+     "answer": "PUL",
+     "clue": "Balığın ve yılanın derisini örten sert plaka"
+    },
+    {
+     "answer": "DANA",
+     "clue": "Genç sığır"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-005",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "ÖRÜMCEK",
+     "clue": "Ağ örüp avını yakalayan"
+    },
+    {
+     "answer": "PALAMUT",
+     "clue": "Küçük yapılı ton balığı cinsi"
+    },
+    {
+     "answer": "GÜVERCİN",
+     "clue": "Mektup taşımasıyla da tanınan şehir kuşu"
+    },
+    {
+     "answer": "AYGIR",
+     "clue": "Damızlık erkek at"
+    },
+    {
+     "answer": "KUMRU",
+     "clue": "Gugu diye ötmesiyle bilinen kuş"
+    },
+    {
+     "answer": "KANAT",
+     "clue": "Kuşların uçmasını sağlayan organ"
+    },
+    {
+     "answer": "ORANGUTAN",
+     "clue": "Asya'da yaşayan, turuncu kürklü maymun"
+    },
+    {
+     "answer": "ÖKÜZ",
+     "clue": "Tarlada sürülen, iğdiş edilmiş erkek sığır"
+    },
+    {
+     "answer": "AHTAPOT",
+     "clue": "Sekiz kollu deniz canlısı"
+    },
+    {
+     "answer": "ZEBRA",
+     "clue": "Siyah beyaz çizgileriyle bilinen at benzeri hayvan"
+    },
+    {
+     "answer": "KISRAK",
+     "clue": "Dişi at"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-006",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "DEVEKUŞU",
+     "clue": "Uçamayan, en büyük kuş"
+    },
+    {
+     "answer": "KARINCA",
+     "clue": "Kolonilerde yaşayan küçük böcek"
+    },
+    {
+     "answer": "ARI",
+     "clue": "Bal yapan, iğneli böcek"
+    },
+    {
+     "answer": "LAMA",
+     "clue": "Güney Amerika'da yük taşıyan uzun boyunlu hayvan"
+    },
+    {
+     "answer": "AKBABA",
+     "clue": "Leş yiyen büyük kuş"
+    },
+    {
+     "answer": "KABUK",
+     "clue": "Kaplumbağayı koruyan sert örtü"
+    },
+    {
+     "answer": "ÇEKİRGE",
+     "clue": "Sıçrayarak hareket eden ot böceği"
+    },
+    {
+     "answer": "SÜRÜ",
+     "clue": "Birlikte hareket eden hayvan topluluğu"
+    },
+    {
+     "answer": "FLAMİNGO",
+     "clue": "Pembe tüylü, tek ayağı üzerinde duran kuş"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-007",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "BABUN",
+     "clue": "Afrika'da yaşayan, uzun burunlu maymun"
+    },
+    {
+     "answer": "ISTAKOZ",
+     "clue": "Kabuklu, büyük kıskaçlı deniz canlısı"
+    },
+    {
+     "answer": "TUKAN",
+     "clue": "Gagası büyük, renkli Güney Amerika kuşu"
+    },
+    {
+     "answer": "YUVA",
+     "clue": "Kuşların yumurtladığı, yavrularını büyüttüğü yer"
+    },
+    {
+     "answer": "CEYLAN",
+     "clue": "Zarif bakışlı, hızlı koşan antilop"
+    },
+    {
+     "answer": "FİL",
+     "clue": "Hortumlu, iri yapılı memeli"
+    },
+    {
+     "answer": "KAPLUMBAĞA",
+     "clue": "Sert kabuklu, yavaş sürüngen"
+    },
+    {
+     "answer": "KONDOR",
+     "clue": "Dev yapılı, leş yiyen Güney Amerika kuşu"
+    },
+    {
+     "answer": "GERGEDAN",
+     "clue": "Boynuzlu, zırhlı görünümlü Afrika memelisi"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-008",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "ARSLAN",
+     "clue": "Yelesiyle tanınan büyük yırtıcı kedi"
+    },
+    {
+     "answer": "SERÇE",
+     "clue": "Şehirde sık görülen küçük, gri kuş"
+    },
+    {
+     "answer": "KUYRUK",
+     "clue": "Hayvanın arkasında uzanan uzantı"
+    },
+    {
+     "answer": "PELİKAN",
+     "clue": "Gagasının altında torbası olan kuş"
+    },
+    {
+     "answer": "KARGA",
+     "clue": "Zeki ve siyah tüylü kuş"
+    },
+    {
+     "answer": "GUGUK",
+     "clue": "Yuvasını yapmayıp yumurtasını başkasına bırakan kuş"
+    },
+    {
+     "answer": "TAVUS",
+     "clue": "Kuyruğunu yelpaze gibi açan kuş"
+    },
+    {
+     "answer": "AKREP",
+     "clue": "Kuyruğunda zehirli iğnesi olan"
+    },
+    {
+     "answer": "ORKİNOS",
+     "clue": "Büyük, hızlı yüzen deniz balığı"
+    },
+    {
+     "answer": "KAZ",
+     "clue": "Gaklayarak öten büyük su kuşu"
+    },
+    {
+     "answer": "KOBRA",
+     "clue": "Başını şişiren, zehirli yılan"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-009",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "ŞAHİN",
+     "clue": "Hızlı avlanan yırtıcı kuş"
+    },
+    {
+     "answer": "ALPAKA",
+     "clue": "Yünü değerli, Andlar'daki evcil hayvan"
+    },
+    {
+     "answer": "SİNEK",
+     "clue": "Evlerde dolaşan, vızıldayan böcek"
+    },
+    {
+     "answer": "VAŞAK",
+     "clue": "Kulakları püsküllü yabani kedi"
+    },
+    {
+     "answer": "YENGEÇ",
+     "clue": "Kıskaçlı, yanlara yürüyen deniz canlısı"
+    },
+    {
+     "answer": "ALABALIK",
+     "clue": "Temiz akarsularda yaşayan benekli balık"
+    },
+    {
+     "answer": "TAVUK",
+     "clue": "Yumurtlayan ve etinden yararlanılan kanatlı"
+    },
+    {
+     "answer": "LEVREK",
+     "clue": "Beyaz etli, avcı deniz balığı"
+    },
+    {
+     "answer": "TOYNAK",
+     "clue": "Atın ayağının sert ucu"
+    },
+    {
+     "answer": "TAY",
+     "clue": "Yavru at"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-010",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "HAMSİ",
+     "clue": "Karadeniz'de bol bulunan küçük balık"
+    },
+    {
+     "answer": "ÇİPURA",
+     "clue": "Alnında altın renkli bir çizgi taşıyan balık"
+    },
+    {
+     "answer": "KANGURU",
+     "clue": "Yavrusunu kesesinde taşıyan Avustralya hayvanı"
+    },
+    {
+     "answer": "PORSUK",
+     "clue": "Yeraltında yaşayan, siyah beyaz yüzlü memeli"
+    },
+    {
+     "answer": "MEDUZA",
+     "clue": "Şeffaf gövdeli, jelatinimsi deniz canlısı"
+    },
+    {
+     "answer": "ATMACA",
+     "clue": "Güvercin avlayan yırtıcı kuş"
+    },
+    {
+     "answer": "KOALA",
+     "clue": "Okaliptüs yapraklarıyla beslenen ağaç hayvanı"
+    },
+    {
+     "answer": "MERCAN",
+     "clue": "Kolonilerde yaşayan, iskeleti takı olan deniz canlısı"
+    },
+    {
+     "answer": "KEÇİ",
+     "clue": "Boynuzlu, dağlarda da rahat eden evcil hayvan"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-011",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "YILAN",
+     "clue": "Ayaksız, pullu sürüngen"
+    },
+    {
+     "answer": "KUZU",
+     "clue": "Yavru koyun"
+    },
+    {
+     "answer": "KÖSTEBEK",
+     "clue": "Yeraltında tüneller kazan küçük memeli"
+    },
+    {
+     "answer": "BUZAĞI",
+     "clue": "Yavru inek"
+    },
+    {
+     "answer": "KOYUN",
+     "clue": "Yünü için beslenen hayvan"
+    },
+    {
+     "answer": "OĞLAK",
+     "clue": "Yavru keçi"
+    },
+    {
+     "answer": "KURT",
+     "clue": "Sürü halinde yaşayan yabani köpek"
+    },
+    {
+     "answer": "İPEK",
+     "clue": "Böcek kozasından elde edilen parlak lif"
+    },
+    {
+     "answer": "LÜFER",
+     "clue": "Ege'de sık avlanan, mavi sırtlı balık"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-012",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "AHIR",
+     "clue": "Sığırların barındığı kapalı yer"
+    },
+    {
+     "answer": "HAMAMBÖCEĞİ",
+     "clue": "Karanlık ve nemli yerleri seven böcek"
+    },
+    {
+     "answer": "ÇAKAL",
+     "clue": "Tilkiye benzeyen yabani hayvan"
+    },
+    {
+     "answer": "PAPAĞAN",
+     "clue": "Renkli tüylü, konuşabilen kuş"
+    },
+    {
+     "answer": "KALAMAR",
+     "clue": "Mürekkep püskürtebilen deniz canlısı"
+    },
+    {
+     "answer": "TÜY",
+     "clue": "Kuşların vücudunu örten hafif yapı"
+    },
+    {
+     "answer": "MANDA",
+     "clue": "Çamurda yatmayı seven, sığıra benzeyen büyük hayvan"
+    },
+    {
+     "answer": "KÖPEK",
+     "clue": "Havlayarak bekçilik yapan, insanın en eski dostu"
+    },
+    {
+     "answer": "TİMSAH",
+     "clue": "Nehirlerde yaşayan, iri ağızlı sürüngen"
+    },
+    {
+     "answer": "SOLUCAN",
+     "clue": "Toprakta yaşayan, halkalı yapılı canlı"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-013",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "PENGUEN",
+     "clue": "Kutupta yaşayan, uçamayan kuş"
+    },
+    {
+     "answer": "AĞIL",
+     "clue": "Küçükbaş hayvanların barındığı yer"
+    },
+    {
+     "answer": "BALIK",
+     "clue": "Suda yaşayan, solungaçlı hayvan"
+    },
+    {
+     "answer": "KARİDES",
+     "clue": "Kabuklu, küçük yapılı deniz canlısı"
+    },
+    {
+     "answer": "ÖRDEK",
+     "clue": "Göllerde yüzen, suda beslenen kuş"
+    },
+    {
+     "answer": "PENÇE",
+     "clue": "Kedi ve kaplanın tırnaklı ayak ucu"
+    },
+    {
+     "answer": "HİPOPOTAM",
+     "clue": "Suda çok vakit geçiren büyük Afrika memelisi"
+    },
+    {
+     "answer": "LEYLEK",
+     "clue": "Göç eden, uzun bacaklı kuş"
+    },
+    {
+     "answer": "KARACA",
+     "clue": "Küçük, zarif yabani geyik"
+    },
+    {
+     "answer": "GEYİK",
+     "clue": "Her yıl boynuzlarını döken orman hayvanı"
+    },
+    {
+     "answer": "DENİZATI",
+     "clue": "Dik duran, küçük deniz canlısı"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-014",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "KÖPEKBALIĞI",
+     "clue": "Dişli, avcı deniz balığı"
+    },
+    {
+     "answer": "PİRE",
+     "clue": "Kedi ve köpeklerde yaşayan zıplayan parazit"
+    },
+    {
+     "answer": "SAMUR",
+     "clue": "Değerli kürkü için avlanan küçük memeli"
+    },
+    {
+     "answer": "DENİZYILDIZI",
+     "clue": "Beş kollu deniz canlısı"
+    },
+    {
+     "answer": "FOK",
+     "clue": "Kutup ve kıyı sularında yaşayan memeli"
+    },
+    {
+     "answer": "PİTON",
+     "clue": "Boğarak avlayan büyük yılan"
+    },
+    {
+     "answer": "BUKALEMUN",
+     "clue": "Rengini çevresine göre değiştirebilen sürüngen"
+    },
+    {
+     "answer": "TEKE",
+     "clue": "Erkek keçi"
+    },
+    {
+     "answer": "KELAYNAK",
+     "clue": "Otlaklarda yaşayan, iri yapılı nadir kuş"
+    },
+    {
+     "answer": "SİNCAP",
+     "clue": "Ağaçta yaşayan, kabarık kuyruklu kemirgen"
+    }
+   ]
+  },
+  {
+   "id": "tek-hayvanlar-015",
+   "topic": "Hayvanlar ve kuşlar",
+   "words": [
+    {
+     "answer": "MAYMUN",
+     "clue": "Ağaç dallarında yaşayan, insana benzeyen primat"
+    },
+    {
+     "answer": "PANDA",
+     "clue": "Bambu yapraklarıyla beslenen siyah beyaz ayı"
+    },
+    {
+     "answer": "BAYKUŞ",
+     "clue": "Geceleri avlanan, büyük gözlü kuş"
+    },
+    {
+     "answer": "KAPLAN",
+     "clue": "Çizgili, büyük yırtıcı kedi"
+    },
+    {
+     "answer": "SALYANGOZ",
+     "clue": "Kabuğunu sırtında taşıyan yavaş yumuşakça"
+    },
+    {
+     "answer": "BOĞA",
+     "clue": "Erkek sığır"
+    },
+    {
+     "answer": "EŞEK",
+     "clue": "Yük taşımada kullanılan hayvan"
+    },
+    {
+     "answer": "KERTENKELE",
+     "clue": "Güneşlenmeyi seven, kuyruğunu kopartabilen sürüngen"
+    },
+    {
+     "answer": "KURBAĞA",
+     "clue": "Hem karada hem suda yaşayan hayvan"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-001",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "TURŞU",
+     "clue": "Sirkeli sularda saklanan sebze"
+    },
+    {
+     "answer": "TULUMBA",
+     "clue": "Şerbetli, spiral biçimli tatlı"
+    },
+    {
+     "answer": "BULGUR",
+     "clue": "Haşlanıp kurutulmuş, kırılmış buğday"
+    },
+    {
+     "answer": "SÜT",
+     "clue": "Memelilerden elde edilen beyaz besin"
+    },
+    {
+     "answer": "MAYDANOZ",
+     "clue": "Yeşil, yapraklı baharat bitkisi"
+    },
+    {
+     "answer": "SÜZGEÇ",
+     "clue": "Makarnayı süzmeye yarayan delikli kap"
+    },
+    {
+     "answer": "KAKULE",
+     "clue": "Kahve ve tatlılara aroma veren tohum"
+    },
+    {
+     "answer": "TEREYAĞI",
+     "clue": "Sütten elde edilen, kıvamlı süt ürünü"
+    },
+    {
+     "answer": "PIRASA",
+     "clue": "Uzun, kalın yeşil saplı sebze"
+    },
+    {
+     "answer": "BÖREK",
+     "clue": "Yufka hamurundan yapılan hamur işi"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-002",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "PESTİL",
+     "clue": "Meyve püresinden yapılan kurutulmuş atıştırmalık"
+    },
+    {
+     "answer": "KADAYIF",
+     "clue": "İnce ipli, şerbetli hamur işi"
+    },
+    {
+     "answer": "KAVURMA",
+     "clue": "Yağda kavrulan et yemeği"
+    },
+    {
+     "answer": "FASULYE",
+     "clue": "Kuru ya da taze yenen bakliyat"
+    },
+    {
+     "answer": "PULBİBER",
+     "clue": "Pul halinde kurutulmuş, acı kırmızı baharat"
+    },
+    {
+     "answer": "BEĞENDİ",
+     "clue": "Közlenmiş patlıcanlı, sütlü püre"
+    },
+    {
+     "answer": "HAŞLAMA",
+     "clue": "Suda kaynatılarak yapılan pişirme"
+    },
+    {
+     "answer": "PİDE",
+     "clue": "Kayık biçimli, üstü açık hamur işi"
+    },
+    {
+     "answer": "PEKMEZ",
+     "clue": "Üzümden ya da incirden elde edilen koyu tatlı"
+    },
+    {
+     "answer": "CEZVE",
+     "clue": "Kahvenin pişirildiği küçük kap"
+    },
+    {
+     "answer": "ÇÖREK",
+     "clue": "Susamlı ya da tereyağlı yuvarlak hamur işi"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-003",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "DOMATES",
+     "clue": "Kırmızı, sulu sebze"
+    },
+    {
+     "answer": "SALATALIK",
+     "clue": "Yazın bol yenen, çıtır sebze"
+    },
+    {
+     "answer": "ZERDEÇAL",
+     "clue": "Sarı renkli, köklü baharat"
+    },
+    {
+     "answer": "HAVAN",
+     "clue": "Baharat ezmeye yarayan kap"
+    },
+    {
+     "answer": "RENDE",
+     "clue": "Sebze ve peynir doğramaya yarayan alet"
+    },
+    {
+     "answer": "MURABBA",
+     "clue": "Şekerle kaynatılmış meyve"
+    },
+    {
+     "answer": "NOHUT",
+     "clue": "Sarı renkli, sert kabuklu bakliyat"
+    },
+    {
+     "answer": "POĞAÇA",
+     "clue": "Peynirli ya da zeytinli, küçük hamur işi"
+    },
+    {
+     "answer": "İBRİK",
+     "clue": "Türk kahvesi pişirmeye yarayan metal kap"
+    },
+    {
+     "answer": "BAKLAVA",
+     "clue": "Fıstıklı, şerbetli tatlı"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-004",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "ZENCEFİL",
+     "clue": "Kökü baharat olarak kullanılan bitki"
+    },
+    {
+     "answer": "PİRİNÇ",
+     "clue": "Pilavın ana malzemesi olan tahıl"
+    },
+    {
+     "answer": "SİMİT",
+     "clue": "Susamlı, halka şeklinde hamur işi"
+    },
+    {
+     "answer": "ZEYTİNYAĞI",
+     "clue": "Ege'nin temel yağı"
+    },
+    {
+     "answer": "EZOGELİN",
+     "clue": "Kırmızı mercimekli, bulgurlu çorba"
+    },
+    {
+     "answer": "AYVA",
+     "clue": "Reçeli yapılan, sarı meyve"
+    },
+    {
+     "answer": "BİBER",
+     "clue": "Acı ya da tatlı, sivri uçlu sebze"
+    },
+    {
+     "answer": "KUNEFE",
+     "clue": "Peynirli, şerbetli tatlı"
+    },
+    {
+     "answer": "TARÇIN",
+     "clue": "Kabuğu öğütülerek tatlılara serpilen baharat"
+    },
+    {
+     "answer": "İSKENDER",
+     "clue": "Döner üstüne domates sosu ve yoğurt eklenen yemek"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-005",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "KÖFTE",
+     "clue": "Baharatlı kıymadan yapılan, yuvarlak yemek"
+    },
+    {
+     "answer": "TANDIR",
+     "clue": "Toprağa gömülü, çukur şeklinde fırın"
+    },
+    {
+     "answer": "SARMA",
+     "clue": "Yaprağa sarılarak pişen iç harçlı yemek"
+    },
+    {
+     "answer": "YUMURTA",
+     "clue": "Tavuğun bıraktığı, kırılarak pişen besin"
+    },
+    {
+     "answer": "PASTA",
+     "clue": "Kremayla süslenen kek"
+    },
+    {
+     "answer": "LOKUM",
+     "clue": "Nişasta ve şekerden yapılan tatlı"
+    },
+    {
+     "answer": "CACIK",
+     "clue": "Yoğurtlu, salatalıklı soğuk meze"
+    },
+    {
+     "answer": "KIYMA",
+     "clue": "Öğütülmüş et"
+    },
+    {
+     "answer": "LİMON",
+     "clue": "Ekşi, sarı narenciye"
+    },
+    {
+     "answer": "KAYMAK",
+     "clue": "Sütün üstünde oluşan yağlı tabaka"
+    },
+    {
+     "answer": "ÇANAK",
+     "clue": "Çorba ya da yemek konulan derin kap"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-006",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "DOLMA",
+     "clue": "İçi doldurulmuş sebze yemeği"
+    },
+    {
+     "answer": "SÜTLAÇ",
+     "clue": "Pirinçli, sütlü tatlı"
+    },
+    {
+     "answer": "DONDURMA",
+     "clue": "Sütlü, sakızlı donmuş tatlı"
+    },
+    {
+     "answer": "KUŞKONMAZ",
+     "clue": "Yeşil, ince sapları yenen sebze"
+    },
+    {
+     "answer": "KURABİYE",
+     "clue": "Kahve ya da çayla yenen bisküvi"
+    },
+    {
+     "answer": "KATMER",
+     "clue": "Kaymaklı, ince katlı hamur işi"
+    },
+    {
+     "answer": "PASTIRMA",
+     "clue": "Kuru etle yapılan, baharatlı et ürünü"
+    },
+    {
+     "answer": "AÇMA",
+     "clue": "Ortası boş, yumuşak hamur işi"
+    },
+    {
+     "answer": "HELVA",
+     "clue": "Un ya da tahinle yapılan tatlı"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-007",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "İMAMBAYILDI",
+     "clue": "Zeytinyağlı, patlıcanlı bir yemek"
+    },
+    {
+     "answer": "TUZ",
+     "clue": "Yemeklere konan beyaz kristal"
+    },
+    {
+     "answer": "YAĞ",
+     "clue": "Zeytinden ya da ayçiçeğinden elde edilen sıvı"
+    },
+    {
+     "answer": "ENGİNAR",
+     "clue": "Dikenli, içi yenen yeşil sebze"
+    },
+    {
+     "answer": "SARIMSAK",
+     "clue": "Kokusu sert, dişlerden oluşan baharat"
+    },
+    {
+     "answer": "IZGARA",
+     "clue": "Ateşin üzerinde pişirme yöntemi"
+    },
+    {
+     "answer": "BARBUNYA",
+     "clue": "Kırmızı benekli, taze yenen fasulye"
+    },
+    {
+     "answer": "ALİNAZİK",
+     "clue": "Patlıcanlı, yoğurtlu meze"
+    },
+    {
+     "answer": "İNCİR",
+     "clue": "Kurusu da yenen, sütlü meyve"
+    },
+    {
+     "answer": "KİMYON",
+     "clue": "Köftelerde kullanılan kokulu tohum"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-008",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "TARHANA",
+     "clue": "Yoğurt ve undan yapılıp kurutulan karışım"
+    },
+    {
+     "answer": "HAYDARİ",
+     "clue": "Süzme yoğurtlu, sarımsaklı ezme"
+    },
+    {
+     "answer": "ÇORBA",
+     "clue": "Sıvı yemek, genellikle başlangıçta içilir"
+    },
+    {
+     "answer": "PİLAV",
+     "clue": "Pirinçten yapılan, yemeklerin yanında servis edilen"
+    },
+    {
+     "answer": "PEYNİR",
+     "clue": "Sütten yapılan, kahvaltının vazgeçilmezi"
+    },
+    {
+     "answer": "YOĞURT",
+     "clue": "Sütten mayalanarak yapılan süt ürünü"
+    },
+    {
+     "answer": "ŞAKŞUKA",
+     "clue": "Domatesli, yumurtalı sebze yemeği"
+    },
+    {
+     "answer": "KEREVİZ",
+     "clue": "Kökü yenen, kokulu sebze"
+    },
+    {
+     "answer": "SALÇA",
+     "clue": "Domates ya da biberden yapılan koyu macun"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-009",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "ÇİĞKÖFTE",
+     "clue": "Çiğ bulgur ve baharatla yoğrulan yemek"
+    },
+    {
+     "answer": "MANTAR",
+     "clue": "Şapka biçimli, yenilebilen türleri olan bitki"
+    },
+    {
+     "answer": "SİRKE",
+     "clue": "Turşuda kullanılan ekşi sıvı"
+    },
+    {
+     "answer": "ÇILBIR",
+     "clue": "Yoğurtlu, yumurtalı kahvaltılık"
+    },
+    {
+     "answer": "ÇİBÖREK",
+     "clue": "Kıymalı, kızartılmış yassı hamur işi"
+    },
+    {
+     "answer": "KURUFASULYE",
+     "clue": "Pilavla birlikte sık yenen fasulye yemeği"
+    },
+    {
+     "answer": "GÖZLEME",
+     "clue": "Yufkaya sarılarak sacda pişirilen yemek"
+    },
+    {
+     "answer": "BIÇAK",
+     "clue": "Mutfakta kesmeye yarayan keskin alet"
+    },
+    {
+     "answer": "MAYA",
+     "clue": "Hamurun kabarmasını sağlayan mikroorganizma"
+    },
+    {
+     "answer": "MAŞA",
+     "clue": "Sıcak yiyecekleri tutmaya yarayan alet"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-010",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "KAŞIK",
+     "clue": "Çorba ve pilav yemeye yarayan alet"
+    },
+    {
+     "answer": "HAVUÇ",
+     "clue": "Turuncu renkli, köklü sebze"
+    },
+    {
+     "answer": "MÜCVER",
+     "clue": "Kabaklı ya da ıspanaklı, yumurtalı köfte"
+    },
+    {
+     "answer": "LAVAŞ",
+     "clue": "İnce, yuvarlak yassı ekmek"
+    },
+    {
+     "answer": "ŞEKER",
+     "clue": "Pastaların ana tatlandırıcısı"
+    },
+    {
+     "answer": "ÇIRPICI",
+     "clue": "Yumurta çırpmaya yarayan alet"
+    },
+    {
+     "answer": "HOŞAF",
+     "clue": "Kuru meyvelerle yapılan tatlı içecek"
+    },
+    {
+     "answer": "KIZARTMA",
+     "clue": "Bolca yağda pişirilen yemek"
+    },
+    {
+     "answer": "EKMEK",
+     "clue": "Un, su ve mayayla yoğrulup pişirilen besin"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-011",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "OKLAVA",
+     "clue": "Hamuru açmaya yarayan uzun silindir"
+    },
+    {
+     "answer": "ŞİŞKEBAP",
+     "clue": "Şişe dizilip pişirilen et yemeği"
+    },
+    {
+     "answer": "MANTI",
+     "clue": "Küçük hamur parçalarının yoğurtla servis edildiği yemek"
+    },
+    {
+     "answer": "DÖNER",
+     "clue": "Dikey şişte pişen, ince dilimlenen et"
+    },
+    {
+     "answer": "REÇEL",
+     "clue": "Meyveden şekerle yapılan kahvaltılık"
+    },
+    {
+     "answer": "MENEMEN",
+     "clue": "Domatesli, biberli yumurtalı kahvaltılık"
+    },
+    {
+     "answer": "YUFKA",
+     "clue": "İnce, katlanarak kullanılan hamur tabakası"
+    },
+    {
+     "answer": "LAHMACUN",
+     "clue": "İnce hamurun üstünde kıymalı, ince yemek"
+    },
+    {
+     "answer": "REVANİ",
+     "clue": "İrmikli, şerbetli tatlı"
+    },
+    {
+     "answer": "ŞALGAM",
+     "clue": "Acı, tuzlu ve morumsu içecek"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-012",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "BAZLAMA",
+     "clue": "Sacda pişen, yassı ekmek"
+    },
+    {
+     "answer": "FIRIN",
+     "clue": "Ekmek ve börek pişirilen kapalı yer"
+    },
+    {
+     "answer": "TAHİN",
+     "clue": "Susamdan yapılan macun"
+    },
+    {
+     "answer": "MEZE",
+     "clue": "Rakının yanında sunulan küçük tabaklar"
+    },
+    {
+     "answer": "AYRAN",
+     "clue": "Yoğurttan yapılan soğuk içecek"
+    },
+    {
+     "answer": "KEŞKEK",
+     "clue": "Dövülmüş buğdayla et ile pişen yemek"
+    },
+    {
+     "answer": "TENCERE",
+     "clue": "Yemeğin içinde pişirildiği derin kap"
+    },
+    {
+     "answer": "PATATES",
+     "clue": "Püresi ve kızartması yapılan yumru sebze"
+    },
+    {
+     "answer": "MERCİMEK",
+     "clue": "Kırmızı ya da yeşil bir bakliyat"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-013",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "MUHALLEBİ",
+     "clue": "Sütlü, nişastalı tatlı"
+    },
+    {
+     "answer": "BAMYA",
+     "clue": "Zeytinyağlı yemeklerde kullanılan, kenarları tüylü sebze"
+    },
+    {
+     "answer": "AŞURE",
+     "clue": "Muharrem ayında yapılan, çeşitli tahıllı tatlı"
+    },
+    {
+     "answer": "ÇATAL",
+     "clue": "Yiyeceği saplamaya yarayan alet"
+    },
+    {
+     "answer": "SUCUK",
+     "clue": "Baharatlı kurutulmuş sosis"
+    },
+    {
+     "answer": "SALATA",
+     "clue": "Taze sebzelerle hazırlanan yemek"
+    },
+    {
+     "answer": "KURUTMA",
+     "clue": "Gıdayı kurutarak uzun süre saklama"
+    },
+    {
+     "answer": "SUSAM",
+     "clue": "Simitin üstüne serpilen tohum"
+    },
+    {
+     "answer": "KEPÇE",
+     "clue": "Çorba almaya yarayan, derin kaşık"
+    }
+   ]
+  },
+  {
+   "id": "tek-mutfak-014",
+   "topic": "Türk mutfağı",
+   "words": [
+    {
+     "answer": "BOZA",
+     "clue": "Buğdaydan ya da darıdan yapılan, kıvamlı içecek"
+    },
+    {
+     "answer": "SALAMURA",
+     "clue": "Tuzlu suda uzun süre saklama"
+    },
+    {
+     "answer": "KABAK",
+     "clue": "Çekirdeği kavrularak yenen sebze"
+    },
+    {
+     "answer": "SUMAK",
+     "clue": "Ekşi tadıyla kebabın üstüne serpilen baharat"
+    },
+    {
+     "answer": "ŞEKERPARE",
+     "clue": "Şerbetli, un ve şekerle yapılan tatlı"
+    },
+    {
+     "answer": "LAHANA",
+     "clue": "Yaprakları sarılarak yenen sebze"
+    },
+    {
+     "answer": "KAZANDİBİ",
+     "clue": "Dibi karamelize, sütlü tatlı"
+    },
+    {
+     "answer": "KAVUN",
+     "clue": "Yazın yenen, tatlı kokulu meyve"
+    },
+    {
+     "answer": "KARPUZ",
+     "clue": "Yazın yenen, sulu ve iri meyve"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-001",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "TÜKENMEZ",
+     "clue": "Bilyalı uçlu kalem"
+    },
+    {
+     "answer": "BOYAKALEMİ",
+     "clue": "Renkli çizim için kullanılan kalem"
+    },
+    {
+     "answer": "DİL",
+     "clue": "İletişimde kullanılan sözcük ve kurallar sistemi"
+    },
+    {
+     "answer": "DOKTORA",
+     "clue": "Lisansüstü eğitimin en üst basamağı"
+    },
+    {
+     "answer": "VELİ",
+     "clue": "Öğrencinin yasal sorumlusu"
+    },
+    {
+     "answer": "FİZİK",
+     "clue": "Madde ve enerjiyi inceleyen bilim dalı"
+    },
+    {
+     "answer": "DEFTER",
+     "clue": "Yazı yazmak için kullanılan sayfalı kitapçık"
+    },
+    {
+     "answer": "OYUN",
+     "clue": "Teneffüste oynanan eğlence"
+    },
+    {
+     "answer": "BİYOLOJİ",
+     "clue": "Canlıları konu alan bilim dalı"
+    },
+    {
+     "answer": "PROFESÖR",
+     "clue": "Üniversitedeki en üst akademik unvan"
+    },
+    {
+     "answer": "SİNONİM",
+     "clue": "Anlamdaş sözcük"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-002",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "ÇANTA",
+     "clue": "Okul gereçlerini taşımaya yarayan kap"
+    },
+    {
+     "answer": "LİSANS",
+     "clue": "Üniversitenin ilk derecesi"
+    },
+    {
+     "answer": "KAYIT",
+     "clue": "Okula öğrenci olarak yazılma işlemi"
+    },
+    {
+     "answer": "MANTIK",
+     "clue": "Doğru düşünmenin kurallarını inceleyen bilim"
+    },
+    {
+     "answer": "SEMİNER",
+     "clue": "Bir konu üzerine yapılan toplu tartışma"
+    },
+    {
+     "answer": "ÖNLÜK",
+     "clue": "Okul kıyafetinin üstüne giyilen giysi"
+    },
+    {
+     "answer": "ENSTİTÜ",
+     "clue": "Üniversitede ihtisas birimi"
+    },
+    {
+     "answer": "MEZUN",
+     "clue": "Okulunu bitirmiş kişi"
+    },
+    {
+     "answer": "DEKAN",
+     "clue": "Fakülteyi yöneten kişi"
+    },
+    {
+     "answer": "DERSLİK",
+     "clue": "Derslerin yapıldığı oda"
+    },
+    {
+     "answer": "ZAMİR",
+     "clue": "Ad yerine kullanılan sözcük"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-003",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "PANO",
+     "clue": "Duvara asılan bilgi tahtası"
+    },
+    {
+     "answer": "COĞRAFYA",
+     "clue": "Yeryüzünü ve iklimleri inceleyen bilim"
+    },
+    {
+     "answer": "ÜNSÜZ",
+     "clue": "Ağızda hava engeliyle çıkan ses"
+    },
+    {
+     "answer": "EĞİTİM",
+     "clue": "Bilgi ve beceri kazandırma süreci"
+    },
+    {
+     "answer": "GLOBUS",
+     "clue": "Dünyanın küresel maketi"
+    },
+    {
+     "answer": "RESİM",
+     "clue": "Boyayla yapılan görsel sanat dersi"
+    },
+    {
+     "answer": "ÖĞRENİM",
+     "clue": "Okulda ders görerek bilgi edinme"
+    },
+    {
+     "answer": "DERS",
+     "clue": "Belirli bir konunun öğretildiği saat"
+    },
+    {
+     "answer": "KALEM",
+     "clue": "Yazı yazmaya yarayan araç"
+    },
+    {
+     "answer": "DERSANE",
+     "clue": "Sınava hazırlık veren özel kurum"
+    },
+    {
+     "answer": "ÖNEK",
+     "clue": "Sözcüğün başına gelen ek"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-004",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "OKURYAZAR",
+     "clue": "Okuyup yazabilen kişi"
+    },
+    {
+     "answer": "BECERİ",
+     "clue": "Bir işi yapabilme yeteneği"
+    },
+    {
+     "answer": "PROJE",
+     "clue": "Belli bir hedef için yapılan çalışma"
+    },
+    {
+     "answer": "TEST",
+     "clue": "Çoktan seçmeli sınav"
+    },
+    {
+     "answer": "NÖBETÇİ",
+     "clue": "Gün boyunca sınıfı gözetleyen görevli"
+    },
+    {
+     "answer": "YAZILI",
+     "clue": "Kağıt üzerinde yapılan sınav"
+    },
+    {
+     "answer": "KARALAMA",
+     "clue": "Taslak niteliğinde hızlı çizim"
+    },
+    {
+     "answer": "NESNE",
+     "clue": "Eylemden etkilenen cümle öğesi"
+    },
+    {
+     "answer": "GEOMETRİ",
+     "clue": "Şekillerin özelliklerini inceleyen matematik dalı"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-005",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "ANTONİM",
+     "clue": "Anlamca karşıt sözcük"
+    },
+    {
+     "answer": "SÖZLÜK",
+     "clue": "Kelimelerin anlamlarının verildiği kitap"
+    },
+    {
+     "answer": "TAHTA",
+     "clue": "Derslikte yazı yazılan yüzey"
+    },
+    {
+     "answer": "SINIF",
+     "clue": "Öğrencilerin birlikte ders gördüğü topluluk"
+    },
+    {
+     "answer": "ZİL",
+     "clue": "Ders başladığını bildiren ses"
+    },
+    {
+     "answer": "SONEK",
+     "clue": "Sözcüğün sonuna gelen ek"
+    },
+    {
+     "answer": "NOKTALAMA",
+     "clue": "Yazıya anlam veren işaretlerin kullanımı"
+    },
+    {
+     "answer": "ÖDEV",
+     "clue": "Evde yapılması istenen çalışma"
+    },
+    {
+     "answer": "DOÇENT",
+     "clue": "Profesörün altındaki akademik unvan"
+    },
+    {
+     "answer": "EDAT",
+     "clue": "Sözcükler arasında ilgi kuran söz türü"
+    },
+    {
+     "answer": "ANSİKLOPEDİ",
+     "clue": "Bilgileri alfabetik sıralayan başvuru kitabı"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-006",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "YAZIM",
+     "clue": "Kelimelerin doğru yazılış kuralları"
+    },
+    {
+     "answer": "CETVEL",
+     "clue": "Düz çizgi çizmeye yarayan araç"
+    },
+    {
+     "answer": "YURT",
+     "clue": "Öğrencilerin kaldığı konaklama yeri"
+    },
+    {
+     "answer": "KÜTÜPHANE",
+     "clue": "Kitapların düzenli tutulduğu yer"
+    },
+    {
+     "answer": "DİKSİYON",
+     "clue": "Sesi doğru ve güzel söyleme sanatı"
+    },
+    {
+     "answer": "HARÇ",
+     "clue": "Kayıt sırasında ödenen eğitim ücreti"
+    },
+    {
+     "answer": "DÖNEM",
+     "clue": "Eğitim yılının bölümlerinden biri"
+    },
+    {
+     "answer": "KİTAP",
+     "clue": "Sayfalardan oluşan basılı yapıt"
+    },
+    {
+     "answer": "DİKTE",
+     "clue": "Öğrencilere yazdırılan metin"
+    },
+    {
+     "answer": "ÖZET",
+     "clue": "Metnin kısa anlatımı"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-007",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "DİPLOMA",
+     "clue": "Okulu bitirenlere verilen belge"
+    },
+    {
+     "answer": "ZARF",
+     "clue": "Fiilin durumunu belirten sözcük"
+    },
+    {
+     "answer": "SESBİLGİSİ",
+     "clue": "Seslerin yapısını inceleyen dilbilim dalı"
+    },
+    {
+     "answer": "KOMPOZİSYON",
+     "clue": "Okulda yazılan uzun yazılı anlatım"
+    },
+    {
+     "answer": "KANTİN",
+     "clue": "Okulda yiyecek içecek satılan yer"
+    },
+    {
+     "answer": "SUNUM",
+     "clue": "Konunun sınıfa anlatılması"
+    },
+    {
+     "answer": "EKONOMİ",
+     "clue": "Kaynakların kullanımını inceleyen bilim"
+    },
+    {
+     "answer": "FAKÜLTE",
+     "clue": "Üniversitenin ana bölümlerinden biri"
+    },
+    {
+     "answer": "ÖĞRETİM",
+     "clue": "Bilgi aktarma süreci"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-008",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "FRANSIZCA",
+     "clue": "Fransa'da konuşulan yabancı dil"
+    },
+    {
+     "answer": "GÖRÜŞME",
+     "clue": "Veli ile öğretmenin yaptığı konuşma"
+    },
+    {
+     "answer": "KARNE",
+     "clue": "Yıl sonunda verilen not belgesi"
+    },
+    {
+     "answer": "JEOLOJİ",
+     "clue": "Yerkürenin yapısını inceleyen bilim"
+    },
+    {
+     "answer": "TÜRKÇE",
+     "clue": "Ana dil dersi"
+    },
+    {
+     "answer": "İNGİLİZCE",
+     "clue": "Ana dili İngiltere ve ABD olan dil"
+    },
+    {
+     "answer": "FİİL",
+     "clue": "Cümlede iş ya da oluş bildiren sözcük"
+    },
+    {
+     "answer": "PUAN",
+     "clue": "Başarıyı sayıyla gösteren değer"
+    },
+    {
+     "answer": "HARİTA",
+     "clue": "Yeryüzünün çizim ile gösterimi"
+    },
+    {
+     "answer": "HECE",
+     "clue": "Tek bir ünlü sesle oluşan ses birimi"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-009",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "ÜNLEM",
+     "clue": "Sevinç, şaşkınlık gibi duyguları anlatan söz türü"
+    },
+    {
+     "answer": "DİLBİLGİSİ",
+     "clue": "Dilin kurallarını inceleyen bilim"
+    },
+    {
+     "answer": "TENEFFÜS",
+     "clue": "Dersler arasındaki kısa mola"
+    },
+    {
+     "answer": "BURS",
+     "clue": "Başarılı öğrencilere verilen mali destek"
+    },
+    {
+     "answer": "DOLMAKALEM",
+     "clue": "Mürekkepli, içi doldurulan kalem"
+    },
+    {
+     "answer": "PEDAGOJİ",
+     "clue": "Eğitimin kuram ve yöntemlerini inceleyen bilim"
+    },
+    {
+     "answer": "KİMYA",
+     "clue": "Maddelerin yapısını ve tepkimelerini inceler"
+    },
+    {
+     "answer": "ÜNLÜ",
+     "clue": "Ağızda hava engeline uğramadan çıkan ses"
+    },
+    {
+     "answer": "FELSEFE",
+     "clue": "Varlık ve bilgi üzerine düşünen bilim"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-010",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "TEBEŞİR",
+     "clue": "Tahtaya yazı yazmakta kullanılan çubuk"
+    },
+    {
+     "answer": "MÜFREDAT",
+     "clue": "Derslerin içeriğini belirleyen program"
+    },
+    {
+     "answer": "ÖĞRENCİ",
+     "clue": "Öğrenim gören kişi"
+    },
+    {
+     "answer": "ÜNİVERSİTE",
+     "clue": "Lisans ve lisansüstü eğitim veren kurum"
+    },
+    {
+     "answer": "SÖZCÜK",
+     "clue": "Anlamı olan harf dizisi"
+    },
+    {
+     "answer": "AKADEMİ",
+     "clue": "Yüksek bilim ve sanat kurumu"
+    },
+    {
+     "answer": "ÇOĞUL",
+     "clue": "Birden çok varlığı gösteren sayı"
+    },
+    {
+     "answer": "ASİSTAN",
+     "clue": "Öğretim üyesine yardımcı olan akademik görevli"
+    },
+    {
+     "answer": "KAZANIM",
+     "clue": "Öğrencinin edinmesi beklenen bilgi ya da beceri"
+    },
+    {
+     "answer": "ÜNİTE",
+     "clue": "Kitapta bölümlere ayrılmış ana kısım"
+    },
+    {
+     "answer": "ATLAS",
+     "clue": "Haritaların toplandığı kitap"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-011",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "CÜMLE",
+     "clue": "Yüklem içeren anlam birimi"
+    },
+    {
+     "answer": "PSİKOLOJİ",
+     "clue": "İnsan davranışını inceleyen bilim dalı"
+    },
+    {
+     "answer": "BİLGİSAYAR",
+     "clue": "Veri işleyen elektronik cihaz"
+    },
+    {
+     "answer": "EŞSESLİ",
+     "clue": "Sesleri aynı, anlamları farklı sözcük"
+    },
+    {
+     "answer": "MAKAS",
+     "clue": "Kağıt kesmeye yarayan alet"
+    },
+    {
+     "answer": "HARF",
+     "clue": "Sesi gösteren yazı işareti"
+    },
+    {
+     "answer": "ÖĞRETMEN",
+     "clue": "Dersi anlatan kişi"
+    },
+    {
+     "answer": "KURS",
+     "clue": "Belli bir konuda verilen kısa eğitim"
+    },
+    {
+     "answer": "YÜKSEKOKUL",
+     "clue": "Önlisans düzeyinde eğitim veren kurum"
+    },
+    {
+     "answer": "OKUL",
+     "clue": "Eğitim ve öğretim yapılan kurum"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-012",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "AYDINLANMA",
+     "clue": "Akıl ve bilimi öne çıkaran 18. yüzyıl düşünce akımı"
+    },
+    {
+     "answer": "ARŞİV",
+     "clue": "Belgelerin saklandığı yer"
+    },
+    {
+     "answer": "MUALLİM",
+     "clue": "Eski dilde öğretmen"
+    },
+    {
+     "answer": "BAĞLAÇ",
+     "clue": "Sözcük ya da cümleleri bağlayan sözcük"
+    },
+    {
+     "answer": "ÇİZELGE",
+     "clue": "Satır ve sütunlardan oluşan tablo"
+    },
+    {
+     "answer": "KÜRSÜ",
+     "clue": "Öğretmenin durduğu yüksek yer"
+    },
+    {
+     "answer": "MEKTEP",
+     "clue": "Eski dilde okul"
+    },
+    {
+     "answer": "TEKİL",
+     "clue": "Sayı bakımından tek olanı anlatan"
+    },
+    {
+     "answer": "MARKÖR",
+     "clue": "Beyaz tahtaya yazılan keçeli kalem"
+    },
+    {
+     "answer": "SIRA",
+     "clue": "Sınıfta öğrencinin oturduğu masa"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-013",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "KALEMTIRAŞ",
+     "clue": "Kalemin ucunu açmaya yarayan araç"
+    },
+    {
+     "answer": "ETKİNLİK",
+     "clue": "Ders dışı yapılan uygulamalı çalışma"
+    },
+    {
+     "answer": "DOSYA",
+     "clue": "Belgelerin konulduğu klasör"
+    },
+    {
+     "answer": "SOSYOLOJİ",
+     "clue": "Toplumu ve toplumsal ilişkileri inceleyen bilim"
+    },
+    {
+     "answer": "TRANSPORTÖR",
+     "clue": "Açı ölçmeye yarayan yarım daire biçimli cetvel"
+    },
+    {
+     "answer": "SÖZLÜ",
+     "clue": "Soruların sözle yanıtlandığı sınav"
+    },
+    {
+     "answer": "PERGEL",
+     "clue": "Daire çizmeye yarayan araç"
+    },
+    {
+     "answer": "TARİH",
+     "clue": "Geçmişi konu alan ders"
+    },
+    {
+     "answer": "SİLGİ",
+     "clue": "Yanlış yazılanı silmeye yarayan araç"
+    },
+    {
+     "answer": "BİLGİ",
+     "clue": "Öğrenmeyle edinilen şey"
+    }
+   ]
+  },
+  {
+   "id": "tek-okul-014",
+   "topic": "Dil ve okul bilgisi",
+   "words": [
+    {
+     "answer": "KÖK",
+     "clue": "Sözcüğün anlamını taşıyan temel kısım"
+    },
+    {
+     "answer": "ÖZNE",
+     "clue": "Cümlede işi yapan ya da hakkında konuşulan"
+    },
+    {
+     "answer": "KAĞIT",
+     "clue": "Üzerine yazı yazılan ince malzeme"
+    },
+    {
+     "answer": "YOKLAMA",
+     "clue": "Derste öğrencilerin tek tek sayıldığı işlem"
+    },
+    {
+     "answer": "YÜKLEM",
+     "clue": "Cümlenin fiil içeren kısmı"
+    },
+    {
+     "answer": "LATİNCE",
+     "clue": "Eski Roma'nın dili"
+    },
+    {
+     "answer": "SIFAT",
+     "clue": "Varlığın niteliğini bildiren sözcük"
+    },
+    {
+     "answer": "ALMANCA",
+     "clue": "Almanya'da konuşulan yabancı dil"
+    },
+    {
+     "answer": "MATEMATİK",
+     "clue": "Sayılar ve işlemlerin öğretildiği ders"
+    },
+    {
+     "answer": "NOT",
+     "clue": "Öğrencinin başarısını gösteren değer"
+    },
+    {
+     "answer": "AKADEMİSYEN",
+     "clue": "Üniversitede bilimsel çalışma yapan kişi"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-001",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "GÜZ",
+     "clue": "Yaz ile kış arasındaki mevsim"
+    },
+    {
+     "answer": "ARALIK",
+     "clue": "Yılın son ayı"
+    },
+    {
+     "answer": "SİS",
+     "clue": "Havada asılı kalan ince bulut"
+    },
+    {
+     "answer": "YAĞMURLU",
+     "clue": "Yağmur yağan hava"
+    },
+    {
+     "answer": "BAŞAK",
+     "clue": "Olgunlaşınca hasat edilen tahıl başı"
+    },
+    {
+     "answer": "YILDIRIM",
+     "clue": "Yere inen gök elektriği"
+    },
+    {
+     "answer": "ŞAFAK",
+     "clue": "Güneş doğmadan önceki gökyüzü ışığı"
+    },
+    {
+     "answer": "EKİNOKS",
+     "clue": "Gece ile gündüzün eşit olduğu gün"
+    },
+    {
+     "answer": "KARLI",
+     "clue": "Üzeri kar ile örtülü"
+    },
+    {
+     "answer": "GÜN",
+     "clue": "Yirmi dört saatlik zaman"
+    },
+    {
+     "answer": "ZENİT",
+     "clue": "Başın tam üzerindeki gök noktası"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-002",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "FİDAN",
+     "clue": "Dikilmek üzere yetiştirilen genç ağaç"
+    },
+    {
+     "answer": "SEZON",
+     "clue": "Bir etkinliğin yıl içindeki dönemi"
+    },
+    {
+     "answer": "RAMAZAN",
+     "clue": "Oruç tutulan ay"
+    },
+    {
+     "answer": "AKŞAM",
+     "clue": "Gün batımıyla gece arasındaki vakit"
+    },
+    {
+     "answer": "MEVSİM",
+     "clue": "Yılın dört bölümünden biri"
+    },
+    {
+     "answer": "ÇEYREK",
+     "clue": "Üç aylık dönem"
+    },
+    {
+     "answer": "ÇİMEN",
+     "clue": "Çimlerle kaplı alan"
+    },
+    {
+     "answer": "GÜNEŞ",
+     "clue": "Dünyaya ışık ve ısı veren yıldız"
+    },
+    {
+     "answer": "TUTULMA",
+     "clue": "Bir gök cisminin diğerini gölgelemesi"
+    },
+    {
+     "answer": "SAAT",
+     "clue": "Altmış dakikalık zaman birimi"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-003",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "GÖKTAŞI",
+     "clue": "Uzaydan yeryüzüne düşen taş"
+    },
+    {
+     "answer": "RÜZGAR",
+     "clue": "Havanın hareket etmesiyle oluşan akım"
+    },
+    {
+     "answer": "YAĞIŞ",
+     "clue": "Gökten inen su ve kar"
+    },
+    {
+     "answer": "TEMMUZ",
+     "clue": "Yılın en sıcak aylarından biri"
+    },
+    {
+     "answer": "ZAMAN",
+     "clue": "Olayların geçtiği süreklilik"
+    },
+    {
+     "answer": "DEPREM",
+     "clue": "Yer kabuğunun ani sarsılması"
+    },
+    {
+     "answer": "PİKNİK",
+     "clue": "Açık havada yenilen öğün"
+    },
+    {
+     "answer": "TİPİ",
+     "clue": "Kar ile birlikte esen şiddetli rüzgar"
+    },
+    {
+     "answer": "SALI",
+     "clue": "Pazartesiden sonra gelen gün"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-004",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "ESİNTİ",
+     "clue": "Hafif rüzgar"
+    },
+    {
+     "answer": "HASAT",
+     "clue": "Ürünlerin toplandığı dönem"
+    },
+    {
+     "answer": "ŞİMŞEK",
+     "clue": "Gökte çakan elektrik"
+    },
+    {
+     "answer": "CUMA",
+     "clue": "Haftanın son iş günü"
+    },
+    {
+     "answer": "KUTUP",
+     "clue": "Dünyanın dönme ekseninin uç noktası"
+    },
+    {
+     "answer": "NİSAN",
+     "clue": "Mart'ın ardından gelen ay"
+    },
+    {
+     "answer": "OCAK",
+     "clue": "Yılın ilk ayı"
+    },
+    {
+     "answer": "HAZİRAN",
+     "clue": "Yaz mevsiminin ilk ayı"
+    },
+    {
+     "answer": "POYRAZ",
+     "clue": "Kuzeydoğudan esen soğuk rüzgar"
+    },
+    {
+     "answer": "YAĞMUR",
+     "clue": "Gökten düşen su damlaları"
+    },
+    {
+     "answer": "HAVA",
+     "clue": "Atmosferin o anki durumu"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-005",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "ÇARŞAMBA",
+     "clue": "Haftanın ortasındaki gün"
+    },
+    {
+     "answer": "RECEP",
+     "clue": "Hicri takvimde yedinci ay"
+    },
+    {
+     "answer": "HAFTA",
+     "clue": "Yedi günlük süre"
+    },
+    {
+     "answer": "İKİNDİ",
+     "clue": "Öğle ile akşam arasındaki vakit"
+    },
+    {
+     "answer": "YAPRAK",
+     "clue": "Sonbaharda dökülen ağaç organı"
+    },
+    {
+     "answer": "ŞEVVAL",
+     "clue": "Ramazan'dan sonra gelen ay"
+    },
+    {
+     "answer": "FIRTINA",
+     "clue": "Şiddetli rüzgar ve yağış"
+    },
+    {
+     "answer": "EVREN",
+     "clue": "Tüm gök cisimlerini kapsayan boşluk"
+    },
+    {
+     "answer": "YARIYIL",
+     "clue": "Akademik takvimde altı aylık dönem"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-006",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "GECE",
+     "clue": "Güneşin batışıyla başlayan karanlık zaman"
+    },
+    {
+     "answer": "SABAH",
+     "clue": "Gün doğumuyla öğle arasındaki vakit"
+    },
+    {
+     "answer": "MART",
+     "clue": "Şubat'tan sonra gelen ay"
+    },
+    {
+     "answer": "MİLADİ",
+     "clue": "Hz. İsa'nın doğumuna dayanan takvim"
+    },
+    {
+     "answer": "EKİM",
+     "clue": "Eylül'ün ardından gelen ay"
+    },
+    {
+     "answer": "BUHAR",
+     "clue": "Suyun gaz hâli"
+    },
+    {
+     "answer": "GÜNBATIMI",
+     "clue": "Güneşin ufukta kaybolduğu an"
+    },
+    {
+     "answer": "PAZAR",
+     "clue": "Haftanın son günü"
+    },
+    {
+     "answer": "TAKVİM",
+     "clue": "Günleri ve ayları gösteren liste"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-007",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "MAYIS",
+     "clue": "Nisan'dan sonra gelen ay"
+    },
+    {
+     "answer": "NEVRUZ",
+     "clue": "Baharın gelişini kutlayan bayram"
+    },
+    {
+     "answer": "BULUT",
+     "clue": "Gökyüzünde yüzen su kümesi"
+    },
+    {
+     "answer": "MUHARREM",
+     "clue": "Hicri takvimin ilk ayı"
+    },
+    {
+     "answer": "BUZ",
+     "clue": "Suyun donmuş hâli"
+    },
+    {
+     "answer": "YILDÖNÜMÜ",
+     "clue": "Bir olayın yılda bir kutlandığı gün"
+    },
+    {
+     "answer": "BAHAR",
+     "clue": "Çiçeklerin açtığı mevsim"
+    },
+    {
+     "answer": "YAZ",
+     "clue": "Tatil aylarının mevsimi"
+    },
+    {
+     "answer": "KIŞ",
+     "clue": "Kar yağan soğuk mevsim"
+    },
+    {
+     "answer": "ÖĞLE",
+     "clue": "Günün ortasındaki vakit"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-008",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "DAKİKA",
+     "clue": "Saatin altmışta biri"
+    },
+    {
+     "answer": "SENE",
+     "clue": "Eski dilde yıl"
+    },
+    {
+     "answer": "MEVSİMLİK",
+     "clue": "Yalnızca bir mevsimde kullanılan"
+    },
+    {
+     "answer": "YÜZYIL",
+     "clue": "Yüz yıllık süre"
+    },
+    {
+     "answer": "SICAKLIK",
+     "clue": "Havanın ısısını gösteren değer"
+    },
+    {
+     "answer": "HİLAL",
+     "clue": "İncecik ay parçası"
+    },
+    {
+     "answer": "ŞABAN",
+     "clue": "Ramazan'dan önceki ay"
+    },
+    {
+     "answer": "EYLÜL",
+     "clue": "Yaz bitiminde gelen ay"
+    },
+    {
+     "answer": "YIL",
+     "clue": "On iki ayı kapsayan süre"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-009",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "DON",
+     "clue": "Bitkileri sıfır altı sıcaklıkta zarara uğratan soğuk"
+    },
+    {
+     "answer": "ZİLHİCCE",
+     "clue": "Hicri takvimin son ayı"
+    },
+    {
+     "answer": "BAYRAM",
+     "clue": "Dini ya da ulusal kutlama günü"
+    },
+    {
+     "answer": "SERİN",
+     "clue": "Hafifçe soğuk, ferah hava"
+    },
+    {
+     "answer": "TOZ",
+     "clue": "Rüzgarla uçuşan ince parçacıklar"
+    },
+    {
+     "answer": "KURAK",
+     "clue": "Yağışın az olduğu dönem"
+    },
+    {
+     "answer": "SONBAHAR",
+     "clue": "Yaprakların döküldüğü mevsim"
+    },
+    {
+     "answer": "GÖKBİLİM",
+     "clue": "Gök cisimlerini inceleyen bilim"
+    },
+    {
+     "answer": "GÖKADA",
+     "clue": "Güneş sistemimizin bulunduğu yıldız topluluğu"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-010",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "SİSLİ",
+     "clue": "Sis kaplı, görüşü az olan hava"
+    },
+    {
+     "answer": "TAN",
+     "clue": "Güneş doğarken oluşan aydınlık"
+    },
+    {
+     "answer": "KARANLIK",
+     "clue": "Işığın olmadığı durum"
+    },
+    {
+     "answer": "GÜNDÜZ",
+     "clue": "Güneşin doğuşu ile batışı arası"
+    },
+    {
+     "answer": "KAMP",
+     "clue": "Açık havada çadırda konaklama"
+    },
+    {
+     "answer": "SAĞANAK",
+     "clue": "Kısa süreli şiddetli yağış"
+    },
+    {
+     "answer": "SOĞUK",
+     "clue": "Isısı düşük, sıcak olmayan"
+    },
+    {
+     "answer": "HİCRET",
+     "clue": "Hz. Muhammed'in Mekke'den Medine'ye göçü"
+    },
+    {
+     "answer": "NEM",
+     "clue": "Havadaki su buharı miktarı"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-011",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "HORTUM",
+     "clue": "Dönerek ilerleyen hava akımı"
+    },
+    {
+     "answer": "METEOR",
+     "clue": "Atmosfere girince ışık saçan gök cismi"
+    },
+    {
+     "answer": "KAR",
+     "clue": "Soğukta gökten düşen beyaz taneler"
+    },
+    {
+     "answer": "CUMARTESİ",
+     "clue": "Hafta sonunun ilk günü"
+    },
+    {
+     "answer": "SANİYE",
+     "clue": "Dakikanın altmışta biri"
+    },
+    {
+     "answer": "TOZDUMAN",
+     "clue": "Rüzgarla savrulan toz bulutu"
+    },
+    {
+     "answer": "YILBAŞI",
+     "clue": "Takvim yılının ilk günü"
+    },
+    {
+     "answer": "SEL",
+     "clue": "Aşırı yağıştan taşan su"
+    },
+    {
+     "answer": "GÜNEŞLİ",
+     "clue": "Güneşin parladığı açık hava"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-012",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "SAMYEL",
+     "clue": "Çöl kökenli sıcak, kuru rüzgar"
+    },
+    {
+     "answer": "KANDİL",
+     "clue": "Dini anlamı olan mübarek gece"
+    },
+    {
+     "answer": "PAZARTESİ",
+     "clue": "Haftanın ilk günü"
+    },
+    {
+     "answer": "HİCRİ",
+     "clue": "Ay takvimine dayanan takvim"
+    },
+    {
+     "answer": "DOLUNAY",
+     "clue": "Tam daire görünen ay"
+    },
+    {
+     "answer": "BORAN",
+     "clue": "Şiddetli kar fırtınası"
+    },
+    {
+     "answer": "İLKBAHAR",
+     "clue": "Kışın ardından gelen mevsim"
+    },
+    {
+     "answer": "BORA",
+     "clue": "Sert ve soğuk esen rüzgar"
+    },
+    {
+     "answer": "GÜNDÖNÜMÜ",
+     "clue": "Gündüzün en uzun ya da en kısa olduğu gün"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-013",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "BULUTLU",
+     "clue": "Gökyüzü bulutlarla kaplı olan hava"
+    },
+    {
+     "answer": "PUS",
+     "clue": "Görüşü azaltan hafif sis"
+    },
+    {
+     "answer": "GÖKYÜZÜ",
+     "clue": "Dünyanın üstünde uzanan boşluk"
+    },
+    {
+     "answer": "KASIM",
+     "clue": "Ekim'den sonra gelen ay"
+    },
+    {
+     "answer": "ŞUBAT",
+     "clue": "Kısa ve soğuk ay"
+    },
+    {
+     "answer": "HAZAN",
+     "clue": "Eski dilde sonbahar"
+    },
+    {
+     "answer": "AĞUSTOS",
+     "clue": "Yazın son ayı"
+    },
+    {
+     "answer": "YENİAY",
+     "clue": "Ayın görünmez olduğu evre"
+    },
+    {
+     "answer": "SICAK",
+     "clue": "Isısı yüksek olan"
+    },
+    {
+     "answer": "ARTIYIL",
+     "clue": "Şubat'a bir gün eklenen yıl"
+    }
+   ]
+  },
+  {
+   "id": "tek-mevsim-014",
+   "topic": "Gökyüzü, zaman ve takvim",
+   "words": [
+    {
+     "answer": "DOLU",
+     "clue": "Gökten düşen buz parçaları"
+    },
+    {
+     "answer": "TATİL",
+     "clue": "Çalışılmayan dinlenme dönemi"
+    },
+    {
+     "answer": "ILIK",
+     "clue": "Ne sıcak ne soğuk olan hava"
+    },
+    {
+     "answer": "GÖK",
+     "clue": "Yeryüzünün üstündeki boşluk"
+    },
+    {
+     "answer": "PERŞEMBE",
+     "clue": "Cumadan önceki gün"
+    },
+    {
+     "answer": "UFUK",
+     "clue": "Gökyüzü ile yerin birleştiği çizgi"
+    },
+    {
+     "answer": "GECEYARISI",
+     "clue": "Gece on ikiyi gösteren an"
+    },
+    {
+     "answer": "GÖKGÜRÜLTÜ",
+     "clue": "Şimşekle birlikte duyulan ses"
+    },
+    {
+     "answer": "GÖKKUŞAĞI",
+     "clue": "Yağmurdan sonra çıkan renkli kavis"
+    },
+    {
+     "answer": "KOMET",
+     "clue": "Kuyruklu yıldız"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-001",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "TÜL",
+     "clue": "İnce, şeffaf perde kumaşı"
+    },
+    {
+     "answer": "HAN",
+     "clue": "Kervanların konakladığı avlulu yapı"
+    },
+    {
+     "answer": "KERVANSARAY",
+     "clue": "Yolcuların konakladığı yol üstü yapı"
+    },
+    {
+     "answer": "ÇATI",
+     "clue": "Yapının en üst kısmını oluşturan bölüm"
+    },
+    {
+     "answer": "TEZGAH",
+     "clue": "Dokuma yapılan alet"
+    },
+    {
+     "answer": "MAKAM",
+     "clue": "Türk müziğinde kullanılan ses dizisi"
+    },
+    {
+     "answer": "PİGMENT",
+     "clue": "Boyaya rengini veren toz madde"
+    },
+    {
+     "answer": "İMARET",
+     "clue": "Yoksullara yemek dağıtılan Osmanlı yapısı"
+    },
+    {
+     "answer": "ÇARK",
+     "clue": "Çömlekçinin döndürdüğü tezgah"
+    },
+    {
+     "answer": "KULE",
+     "clue": "Yüksek ve dar yapı"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-002",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "PERSPEKTİF",
+     "clue": "Derinlik yanılsaması veren çizim tekniği"
+    },
+    {
+     "answer": "KÖŞK",
+     "clue": "Bahçe içinde küçük, süslü yapı"
+    },
+    {
+     "answer": "PORTİK",
+     "clue": "Sütunlu, açık geçit"
+    },
+    {
+     "answer": "ALÇI",
+     "clue": "Heykel kalıbında kullanılan beyaz macun"
+    },
+    {
+     "answer": "SARAY",
+     "clue": "Hükümdarın yaşadığı büyük yapı"
+    },
+    {
+     "answer": "MELODİ",
+     "clue": "Ezgiyi oluşturan sesler dizisi"
+    },
+    {
+     "answer": "AHŞAP",
+     "clue": "Oymacılıkta kullanılan ağaç malzeme"
+    },
+    {
+     "answer": "FİGÜR",
+     "clue": "Heykel ya da resimdeki insan biçimi"
+    },
+    {
+     "answer": "MAKRAME",
+     "clue": "Düğümlerle yapılan süs örgüsü"
+    },
+    {
+     "answer": "DİYEZ",
+     "clue": "Sesi yarım ses yükselten işaret"
+    },
+    {
+     "answer": "ÖRGÜ",
+     "clue": "Şişle ilmek ilmek yapılan giysi ya da örtü"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-003",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "ARMONİ",
+     "clue": "Seslerin birlikte oluşturduğu uyum"
+    },
+    {
+     "answer": "KUYUMCULUK",
+     "clue": "Altın ve gümüşten süs yapma işi"
+    },
+    {
+     "answer": "HASIR",
+     "clue": "Kamıştan örülen dayanıklı mat"
+    },
+    {
+     "answer": "KÖMÜR",
+     "clue": "Yanmış ağaçtan elde edilen çizim malzemesi"
+    },
+    {
+     "answer": "İĞNE",
+     "clue": "Dikiş yapmaya yarayan ince metal"
+    },
+    {
+     "answer": "ÇİNİ",
+     "clue": "Fırınlanmış, renkli, süslü seramik"
+    },
+    {
+     "answer": "KEMER",
+     "clue": "Yük taşıyan eğri yapı elemanı"
+    },
+    {
+     "answer": "FİLİGRAN",
+     "clue": "İnce tellerle yapılan kuyumculuk süsü"
+    },
+    {
+     "answer": "KEÇE",
+     "clue": "Yünün sıkıştırılmasıyla yapılan kumaş"
+    },
+    {
+     "answer": "TEZHİP",
+     "clue": "Kitap süslemesinde altın kullanma sanatı"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-004",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "FLÜT",
+     "clue": "Ağızdan üflenen, boru biçimli çalgı"
+    },
+    {
+     "answer": "BEDESTEN",
+     "clue": "Kapalı çarşıda değerli eşya satılan bölüm"
+    },
+    {
+     "answer": "PALET",
+     "clue": "Boyaları karıştırmak için kullanılan tepsi"
+    },
+    {
+     "answer": "YAĞLIBOYA",
+     "clue": "Yağla karıştırılarak kullanılan boya"
+    },
+    {
+     "answer": "KARİKATÜR",
+     "clue": "Kişileri abartarak çizilen mizah resmi"
+    },
+    {
+     "answer": "ANIT",
+     "clue": "Bir olayı ya da kişiyi anmak için yapılan yapı"
+    },
+    {
+     "answer": "SAZ",
+     "clue": "Aşıkların çaldığı telli çalgı"
+    },
+    {
+     "answer": "MİNYATÜR",
+     "clue": "Küçük boyutlu, ayrıntılı resim sanatı"
+    },
+    {
+     "answer": "SANATÇI",
+     "clue": "Sanat eseri üreten kişi"
+    },
+    {
+     "answer": "SÜTUN",
+     "clue": "Tavanı taşıyan dikey destek"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-005",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "KİLİM",
+     "clue": "Yüzeyi düz dokunan yer halısı"
+    },
+    {
+     "answer": "KÜLLİYE",
+     "clue": "Cami, medrese ve imaret gibi yapılar bütünü"
+    },
+    {
+     "answer": "SÜRREALİZM",
+     "clue": "Bilinçaltını konu alan 20. yüzyıl akımı"
+    },
+    {
+     "answer": "VİYOLONSEL",
+     "clue": "Viyolden büyük, dizde tutulan yaylı çalgı"
+    },
+    {
+     "answer": "MÜREKKEP",
+     "clue": "Yazı ve hat sanatında kullanılan sıvı"
+    },
+    {
+     "answer": "MANZARA",
+     "clue": "Doğa görünümünü konu alan resim türü"
+    },
+    {
+     "answer": "PÜSKÜL",
+     "clue": "Ucuna takılan iplik demeti süs"
+    },
+    {
+     "answer": "GİTAR",
+     "clue": "Altı telli çalgı"
+    },
+    {
+     "answer": "RİTİM",
+     "clue": "Seslerin zaman içindeki düzeni"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-006",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "HAT",
+     "clue": "Güzel yazı sanatına verilen ad"
+    },
+    {
+     "answer": "FİLDİŞİ",
+     "clue": "Oymacılıkta kullanılan sert, beyaz madde"
+    },
+    {
+     "answer": "FRESK",
+     "clue": "Islak sıvaya boyayla yapılan duvar resmi"
+    },
+    {
+     "answer": "MOZAİK",
+     "clue": "Renkli taş parçalarıyla yapılan resim"
+    },
+    {
+     "answer": "ŞABLON",
+     "clue": "Kopyalama için delikli kalıp"
+    },
+    {
+     "answer": "ANAHTAR",
+     "clue": "Notanın perdesini gösteren işaret"
+    },
+    {
+     "answer": "DÖKÜM",
+     "clue": "Erimiş metalin kalıba akıtılmasıyla yapılan parça"
+    },
+    {
+     "answer": "KARTON",
+     "clue": "Ön çalışma için kullanılan kalın kağıt"
+    },
+    {
+     "answer": "KAMIŞ",
+     "clue": "Eski kalemlerin yapıldığı su bitkisi"
+    },
+    {
+     "answer": "LİTOGRAFİ",
+     "clue": "Taş ya da metal yüzeyden basılan baskı tekniği"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-007",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "MERMER",
+     "clue": "Heykelde sıkça kullanılan parlak taş"
+    },
+    {
+     "answer": "DADA",
+     "clue": "Mantığa karşı çıkan 1916 Zürih akımı"
+    },
+    {
+     "answer": "CİLTÇİLİK",
+     "clue": "Kitap kapağı ve cilt işleri sanatı"
+    },
+    {
+     "answer": "NAKARAT",
+     "clue": "Şarkıda her kıtadan sonra tekrarlanan bölüm"
+    },
+    {
+     "answer": "VERNİK",
+     "clue": "Ahşap yüzeyi parlatan koruyucu sıvı"
+    },
+    {
+     "answer": "KADİFE",
+     "clue": "Tüylü yüzeyli, parlak dokuma"
+    },
+    {
+     "answer": "TENOR",
+     "clue": "Erkek seslerin yüksek türü"
+    },
+    {
+     "answer": "KAKMA",
+     "clue": "Sedef ve kemik parçalarıyla yapılan süsleme"
+    },
+    {
+     "answer": "GAMA",
+     "clue": "Sesleri sıralı dizen dizi"
+    },
+    {
+     "answer": "SERAMİK",
+     "clue": "Pişmiş topraktan yapılan eşya sanatı"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-008",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "PASTEL",
+     "clue": "Tozlu ve yumuşak boya çubuğu"
+    },
+    {
+     "answer": "MARŞ",
+     "clue": "Yürüyüşe uygun, ritmik müzik"
+    },
+    {
+     "answer": "SULUBOYA",
+     "clue": "Suyla inceltilerek kullanılan boya"
+    },
+    {
+     "answer": "RÖNESANS",
+     "clue": "Antik sanatın yeniden canlandığı Avrupa dönemi"
+    },
+    {
+     "answer": "GRAVÜR",
+     "clue": "Metal plakadan basılan baskı sanatı"
+    },
+    {
+     "answer": "KAVAL",
+     "clue": "Uzunca çalınan, delikli kamış çalgı"
+    },
+    {
+     "answer": "KÜBİZM",
+     "clue": "Nesneleri geometrik parçalara ayıran 20. yüzyıl akımı"
+    },
+    {
+     "answer": "SOPRANO",
+     "clue": "En ince kadın ses türü"
+    },
+    {
+     "answer": "AVLU",
+     "clue": "Yapının ortasındaki açık alan"
+    },
+    {
+     "answer": "YALI",
+     "clue": "Boğaz kıyısındaki ahşap konut"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-009",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "DANTEL",
+     "clue": "Delikli, süslü örgü kumaş"
+    },
+    {
+     "answer": "GÜMÜŞ",
+     "clue": "Takı yapımında kullanılan değerli metal"
+    },
+    {
+     "answer": "KONAK",
+     "clue": "Eski büyük şehir evi"
+    },
+    {
+     "answer": "PİYANO",
+     "clue": "Tuşlu, tokmaklı büyük çalgı"
+    },
+    {
+     "answer": "KEMENÇE",
+     "clue": "Karadeniz'in yaylı halk çalgısı"
+    },
+    {
+     "answer": "KUBBE",
+     "clue": "Yarım küre biçiminde üst örtü"
+    },
+    {
+     "answer": "FIRÇA",
+     "clue": "Boyayı tuvale süren kıllı araç"
+    },
+    {
+     "answer": "TUVAL",
+     "clue": "Yağlıboya resmin yapıldığı gergin bez"
+    },
+    {
+     "answer": "GUAŞ",
+     "clue": "Mat, su bazlı kalın boya"
+    },
+    {
+     "answer": "BEMOL",
+     "clue": "Sesi yarım ses alçaltan işaret"
+    },
+    {
+     "answer": "TANBUR",
+     "clue": "Uzun saplı Türk telli çalgısı"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-010",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "BAKIRCILIK",
+     "clue": "Bakır eşya yapımı ve işlenmesi"
+    },
+    {
+     "answer": "SEBİL",
+     "clue": "Halka ücretsiz su dağıtılan yapı"
+    },
+    {
+     "answer": "ŞARKI",
+     "clue": "Sözlü, ezgili müzik parçası"
+    },
+    {
+     "answer": "MİNE",
+     "clue": "Metal yüzeye fırınlanan renkli cam tabakası"
+    },
+    {
+     "answer": "TÜRBE",
+     "clue": "Mezar üzerine yapılan anıt yapı"
+    },
+    {
+     "answer": "SEDEF",
+     "clue": "Kakma işinde kullanılan parlak madde"
+    },
+    {
+     "answer": "BAROK",
+     "clue": "Gösterişli, kıvrımlı 17. yüzyıl sanat üslubu"
+    },
+    {
+     "answer": "SEPET",
+     "clue": "Hasır örgüden yapılan taşıma kabı"
+    },
+    {
+     "answer": "SANTUR",
+     "clue": "Trapez kasalı, tokmaklı telli çalgı"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-011",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "ÇEYİZ",
+     "clue": "Gelin hazırlığında hazırlanan eşyalar"
+    },
+    {
+     "answer": "CİLA",
+     "clue": "Yüzeye parlaklık vermek için sürülen madde"
+    },
+    {
+     "answer": "KLASİZM",
+     "clue": "Antik Yunan ve Roma'yı örnek alan üslup"
+    },
+    {
+     "answer": "PORTRE",
+     "clue": "Bir kişinin yüzünü resmeden tür"
+    },
+    {
+     "answer": "ÇİZGİ",
+     "clue": "Noktanın hareketiyle oluşan iz"
+    },
+    {
+     "answer": "DUVAR",
+     "clue": "Odaları ayıran dikey yapı elemanı"
+    },
+    {
+     "answer": "SOYUT",
+     "clue": "Gerçeğe benzemeyen, biçim ve renge dayalı sanat"
+    },
+    {
+     "answer": "DOKUMA",
+     "clue": "Tezgâhta iplikle kumaş yapma"
+    },
+    {
+     "answer": "TABLO",
+     "clue": "Boya ile yapılmış, çerçeveli resim"
+    },
+    {
+     "answer": "HATTAT",
+     "clue": "Güzel yazı sanatında usta kişi"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-012",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "MİNARE",
+     "clue": "Camilerin yanındaki yüksek kule"
+    },
+    {
+     "answer": "YAZMA",
+     "clue": "Bursa'da ünlü, desenli el işi kumaş"
+    },
+    {
+     "answer": "NATÜRMORT",
+     "clue": "Meyve ve vazo gibi cansız nesnelerin resmi"
+    },
+    {
+     "answer": "ÖLÇÜ",
+     "clue": "Müzikte iki bar çizgisi arasındaki bölüm"
+    },
+    {
+     "answer": "AKORD",
+     "clue": "Aynı anda çalınan sesler"
+    },
+    {
+     "answer": "KALIP",
+     "clue": "Döküm için şekil veren model"
+    },
+    {
+     "answer": "DAVUL",
+     "clue": "Tokmakla çalınan büyük vurmalı çalgı"
+    },
+    {
+     "answer": "VİTRAY",
+     "clue": "Renkli cam parçalarıyla yapılan pencere süsü"
+    },
+    {
+     "answer": "OYMA",
+     "clue": "Taş ya da ahşaba kazıyarak yapılan süsleme"
+    }
+   ]
+  },
+  {
+   "id": "tek-elsanatlari-013",
+   "topic": "El sanatları",
+   "words": [
+    {
+     "answer": "İPLİK",
+     "clue": "Dokumada kullanılan ince lif"
+    },
+    {
+     "answer": "HAMAM",
+     "clue": "Geleneksel Türk banyosu"
+    },
+    {
+     "answer": "AKRİLİK",
+     "clue": "Hızlı kuruyan, plastik esaslı boya"
+    },
+    {
+     "answer": "OYA",
+     "clue": "İğne ile ipten yapılan dantel"
+    },
+    {
+     "answer": "ZURNA",
+     "clue": "Sert sesli, nefesli halk çalgısı"
+    },
+    {
+     "answer": "EBRU",
+     "clue": "Suya boyayla desen oluşturma sanatı"
+    },
+    {
+     "answer": "NAKIŞ",
+     "clue": "İğne ile kumaşa işlenen süsleme"
+    },
+    {
+     "answer": "DARBUKA",
+     "clue": "Kadeh biçimli, elle çalınan vurmalı çalgı"
+    },
+    {
+     "answer": "ÖZAN",
+     "clue": "Telli sazla türkü söyleyen halk sanatçısı"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-001",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "PORTAKAL",
+     "clue": "Turuncu kabuklu narenciye"
+    },
+    {
+     "answer": "TEMPO",
+     "clue": "Müziğin hızı"
+    },
+    {
+     "answer": "YAZILIM",
+     "clue": "Bilgisayarı çalıştıran programlar"
+    },
+    {
+     "answer": "ATOM",
+     "clue": "Maddenin en küçük yapı taşı"
+    },
+    {
+     "answer": "DONMA",
+     "clue": "Sıvının katılaşması"
+    },
+    {
+     "answer": "YAZICI",
+     "clue": "Çıktı alan aygıt"
+    },
+    {
+     "answer": "ENERJİ",
+     "clue": "İş yapabilme kapasitesi"
+    },
+    {
+     "answer": "BİSİKLET",
+     "clue": "İki tekerlekli taşıt"
+    },
+    {
+     "answer": "TELEFON",
+     "clue": "Uzaktaki kişiyle konuşmayı sağlayan cihaz"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-002",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "KARBON",
+     "clue": "Elmas ve grafit yapısında bulunan element"
+    },
+    {
+     "answer": "ELEKTRİK",
+     "clue": "Yüklü parçacıkların hareketiyle oluşan enerji"
+    },
+    {
+     "answer": "KİLİT",
+     "clue": "Kapıyı kapatan, anahtarla açılan düzen"
+    },
+    {
+     "answer": "KOPERNİK",
+     "clue": "Güneş merkezli evreni öneren astronom"
+    },
+    {
+     "answer": "SENFONİ",
+     "clue": "Orkestra için büyük müzik eseri"
+    },
+    {
+     "answer": "ROBOT",
+     "clue": "Programlanabilen otomatik makine"
+    },
+    {
+     "answer": "BESTE",
+     "clue": "Yeni bir müzik eseri"
+    },
+    {
+     "answer": "KEŞİF",
+     "clue": "Yeni yer bulma işi"
+    },
+    {
+     "answer": "BOKS",
+     "clue": "Eldivenle yapılan dövüş sporu"
+    },
+    {
+     "answer": "LEONARDO",
+     "clue": "Mona Lisa'yı yapan ressam"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-003",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "ÇİVİ",
+     "clue": "Duvara çakılan sivri metal"
+    },
+    {
+     "answer": "BAKTERİ",
+     "clue": "Tek hücreli mikroskobik canlı"
+    },
+    {
+     "answer": "EKRAN",
+     "clue": "Görüntünün gösterildiği yüzey"
+    },
+    {
+     "answer": "BÖBREK",
+     "clue": "Kanı süzen organ"
+    },
+    {
+     "answer": "MİNERAL",
+     "clue": "Doğada doğal olarak bulunan katı madde"
+    },
+    {
+     "answer": "ORKESTRA",
+     "clue": "Birlikte çalan müzisyen topluluğu"
+    },
+    {
+     "answer": "POLİS",
+     "clue": "Güvenliği sağlayan görevli"
+    },
+    {
+     "answer": "MARANGOZ",
+     "clue": "Ahşap eşya yapan usta"
+    },
+    {
+     "answer": "DİŞÇİ",
+     "clue": "Diş tedavisi yapan hekim"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-004",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "SÜPÜRGE",
+     "clue": "Yerleri temizlemeye yarayan alet"
+    },
+    {
+     "answer": "KOMŞU",
+     "clue": "Yan evde oturan kişi"
+    },
+    {
+     "answer": "PENALTI",
+     "clue": "Ceza vuruşu"
+    },
+    {
+     "answer": "BUZDOLABI",
+     "clue": "Gıdaları soğuk tutan alet"
+    },
+    {
+     "answer": "KORNER",
+     "clue": "Köşe vuruşu"
+    },
+    {
+     "answer": "MOLEKÜL",
+     "clue": "Atomların bir araya gelmesiyle oluşan parçacık"
+    },
+    {
+     "answer": "AKCİĞER",
+     "clue": "Solunum organı"
+    },
+    {
+     "answer": "BASKETBOL",
+     "clue": "Potaya top atılan takım sporu"
+    },
+    {
+     "answer": "LAMBA",
+     "clue": "Işık veren aydınlatma aracı"
+    },
+    {
+     "answer": "TABAK",
+     "clue": "Yemek konan yassı kap"
+    },
+    {
+     "answer": "ANTRENÖR",
+     "clue": "Takımı çalıştıran kişi"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-005",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "ÇİLEK",
+     "clue": "Kırmızı, tohumlu yaz meyvesi"
+    },
+    {
+     "answer": "SABUN",
+     "clue": "Eli yıkamakta kullanılan köpüklü madde"
+    },
+    {
+     "answer": "ÇARŞAF",
+     "clue": "Yatağı örten kumaş"
+    },
+    {
+     "answer": "OTOBÜS",
+     "clue": "Çok yolcu taşıyan kara taşıtı"
+    },
+    {
+     "answer": "ELEKTRON",
+     "clue": "Negatif yüklü atom parçacığı"
+    },
+    {
+     "answer": "OKSİJEN",
+     "clue": "Solunum için gerekli gaz"
+    },
+    {
+     "answer": "MİSAFİR",
+     "clue": "Ağırlanan konuk"
+    },
+    {
+     "answer": "RADYO",
+     "clue": "Ses yayını yapan ve alan aygıt"
+    },
+    {
+     "answer": "BAĞLAMA",
+     "clue": "Telli, Anadolu'nun halk çalgısı"
+    },
+    {
+     "answer": "KAYAK",
+     "clue": "Karda, iki tahta üzerinde kayma sporu"
+    },
+    {
+     "answer": "ECZACI",
+     "clue": "İlaç hazırlayıp satan kişi"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-006",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "KUAFÖR",
+     "clue": "Güzellik hizmeti veren kişi"
+    },
+    {
+     "answer": "ORMAN",
+     "clue": "Ağaçlarla kaplı geniş alan"
+    },
+    {
+     "answer": "PENCERE",
+     "clue": "Odaya ışık alan açıklık"
+    },
+    {
+     "answer": "ŞOFÖR",
+     "clue": "Araç süren kişi"
+    },
+    {
+     "answer": "HAKİM",
+     "clue": "Davalara bakan yargıç"
+    },
+    {
+     "answer": "TENİS",
+     "clue": "Raketle oynanan bireysel ya da çiftler sporu"
+    },
+    {
+     "answer": "HENTBOL",
+     "clue": "Elle oynanan, kale atılan takım sporu"
+    },
+    {
+     "answer": "GALİLE",
+     "clue": "Teleskopla gözlem yapan İtalyan bilim insanı"
+    },
+    {
+     "answer": "GOL",
+     "clue": "Topun kaleye girmesiyle kazanılan sayı"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-007",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "HAKEM",
+     "clue": "Maçı yöneten kişi"
+    },
+    {
+     "answer": "BİZANS",
+     "clue": "Doğu Roma İmparatorluğu"
+    },
+    {
+     "answer": "TELESKOP",
+     "clue": "Uzak gök cisimlerini gözleyen alet"
+    },
+    {
+     "answer": "GENETİK",
+     "clue": "Kalıtımı inceleyen bilim dalı"
+    },
+    {
+     "answer": "KÖPRÜ",
+     "clue": "Nehri ya da yolu geçmeyi sağlayan yapı"
+    },
+    {
+     "answer": "OFSAYT",
+     "clue": "Hücum oyuncusunun geçersiz konumu"
+    },
+    {
+     "answer": "HEYKEL",
+     "clue": "Taştan ya da bronzdan yapılan üç boyutlu eser"
+    },
+    {
+     "answer": "KLAVYE",
+     "clue": "Yazı yazmaya yarayan tuş takımı"
+    },
+    {
+     "answer": "BERBER",
+     "clue": "Saç kesen kişi"
+    },
+    {
+     "answer": "İTFAİYECİ",
+     "clue": "Yangına müdahale eden kişi"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-008",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "MÜZE",
+     "clue": "Eserlerin sergilendiği yer"
+    },
+    {
+     "answer": "KALDIRAÇ",
+     "clue": "Destek noktası etrafında dönen çubuk"
+    },
+    {
+     "answer": "PROTON",
+     "clue": "Pozitif yüklü çekirdek parçacığı"
+    },
+    {
+     "answer": "MIKNATIS",
+     "clue": "Demiri çeken cisim"
+    },
+    {
+     "answer": "ÇEKİÇ",
+     "clue": "Çivi çakmaya yarayan alet"
+    },
+    {
+     "answer": "DOLAP",
+     "clue": "Giysi ve eşya konulan kapaklı mobilya"
+    },
+    {
+     "answer": "PİLOT",
+     "clue": "Uçağı kullanan kişi"
+    },
+    {
+     "answer": "FUTBOL",
+     "clue": "Ayakla oynanan takım sporu"
+    },
+    {
+     "answer": "BEETHOVEN",
+     "clue": "Dokuzuncu Senfoni'nin bestecisi"
+    },
+    {
+     "answer": "ÇİFTÇİ",
+     "clue": "Toprağı ekip biçen kişi"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-009",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "RESSAM",
+     "clue": "Tablo yapan sanatçı"
+    },
+    {
+     "answer": "MİMARSİNAN",
+     "clue": "Süleymaniye Camii'nin mimarı"
+    },
+    {
+     "answer": "KOLTUK",
+     "clue": "Oturmaya yarayan kişilik mobilya"
+    },
+    {
+     "answer": "ŞİFRE",
+     "clue": "Hesaba girmek için gizli kod"
+    },
+    {
+     "answer": "ORTAÇAĞ",
+     "clue": "Antik çağ ile Rönesans arasındaki dönem"
+    },
+    {
+     "answer": "ASİT",
+     "clue": "pH değeri düşük, aşındırıcı madde"
+    },
+    {
+     "answer": "YASTIK",
+     "clue": "Başın altına konan yumuşak dolgu"
+    },
+    {
+     "answer": "HEZARFEN",
+     "clue": "Galata Kulesi'nden uçtuğu rivayet edilen"
+    },
+    {
+     "answer": "SİNEMA",
+     "clue": "Filmlerin gösterildiği yer"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-010",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "ANTİBİYOTİK",
+     "clue": "Bakterilere karşı kullanılan ilaç"
+    },
+    {
+     "answer": "ATLETİZM",
+     "clue": "Koşu ve atlama branşlarını içeren spor"
+    },
+    {
+     "answer": "KEMAN",
+     "clue": "Yaylı çalgı"
+    },
+    {
+     "answer": "MAÇ",
+     "clue": "İki takımın karşılaştığı müsabaka"
+    },
+    {
+     "answer": "EINSTEIN",
+     "clue": "Görelilik kuramını ortaya atan fizikçi"
+    },
+    {
+     "answer": "DOKTOR",
+     "clue": "Hastalara tedavi uygulayan hekim"
+    },
+    {
+     "answer": "SELÇUKLU",
+     "clue": "Malazgirt ile Anadolu'ya giren Türk devleti"
+    },
+    {
+     "answer": "HİDROJEN",
+     "clue": "Suyun yapısında bulunan en hafif element"
+    },
+    {
+     "answer": "HEMŞİRE",
+     "clue": "Hastaya bakım veren sağlık personeli"
+    },
+    {
+     "answer": "GARSON",
+     "clue": "Müşteriye sipariş getiren kişi"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-011",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "MERCEK",
+     "clue": "Işığı kıran saydam cisim"
+    },
+    {
+     "answer": "OSMANLI",
+     "clue": "Altı yüzyıl süren imparatorluk"
+    },
+    {
+     "answer": "BİSKÜVİ",
+     "clue": "Çayla yenen kuru pasta"
+    },
+    {
+     "answer": "AŞÇI",
+     "clue": "Yemek hazırlayan kişi"
+    },
+    {
+     "answer": "OPERA",
+     "clue": "Müziğin ağırlıkta olduğu sahne sanatı"
+    },
+    {
+     "answer": "ATMOSFER",
+     "clue": "Dünyayı çevreleyen hava tabakası"
+    },
+    {
+     "answer": "ERİME",
+     "clue": "Katının sıvıya dönüşmesi"
+    },
+    {
+     "answer": "ARKADAŞ",
+     "clue": "Yakın dost"
+    },
+    {
+     "answer": "MERDİVEN",
+     "clue": "Yükseğe çıkmak için basamaklı araç"
+    },
+    {
+     "answer": "HÜCRE",
+     "clue": "Canlının en küçük yapı birimi"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-012",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "KALECİ",
+     "clue": "Kalede duran oyuncu"
+    },
+    {
+     "answer": "HAVLU",
+     "clue": "Yıkandıktan sonra kurulanmak için kullanılan bez"
+    },
+    {
+     "answer": "GÜREŞ",
+     "clue": "Rakibi yere yatırmaya çalışılan spor"
+    },
+    {
+     "answer": "NOTA",
+     "clue": "Müzikte sesleri gösteren işaret"
+    },
+    {
+     "answer": "DENİZ",
+     "clue": "Tuzlu sularla dolu geniş su kütlesi"
+    },
+    {
+     "answer": "İNTERNET",
+     "clue": "Dünya çapında bağlı ağlar"
+    },
+    {
+     "answer": "ŞAMPİYON",
+     "clue": "Yarışmanın birincisi"
+    },
+    {
+     "answer": "NEY",
+     "clue": "Kamışla çalınan üflemeli çalgı"
+    },
+    {
+     "answer": "TERZİ",
+     "clue": "Dikiş dikip giysi yapan kişi"
+    },
+    {
+     "answer": "BALIKÇI",
+     "clue": "Balık tutan kişi"
+    },
+    {
+     "answer": "HEYKELTIRAŞ",
+     "clue": "Heykel yapan sanatçı"
+    }
+   ]
+  },
+  {
+   "id": "tek-genel-013",
+   "topic": "Bilim, tarih ve sanat",
+   "words": [
+    {
+     "answer": "SÜRTÜNME",
+     "clue": "İki yüzeyin birbirine gösterdiği direnç"
+    },
+    {
+     "answer": "MİMARİ",
+     "clue": "Yapı sanatı"
+    },
+    {
+     "answer": "KANUN",
+     "clue": "Tellerine tokmakla vurulan çalgı"
+    },
+    {
+     "answer": "MADALYA",
+     "clue": "Derece alanlara verilen ödül"
+    },
+    {
+     "answer": "SAHNE",
+     "clue": "Tiyatro oyununun oynandığı yer"
+    },
+    {
+     "answer": "PUSULA",
+     "clue": "Yön gösteren manyetik alet"
+    },
+    {
+     "answer": "NEWTON",
+     "clue": "Yerçekimini açıklayan bilim insanı"
+    },
+    {
+     "answer": "AVUKAT",
+     "clue": "Hukuki danışmanlık yapan kişi"
+    },
+    {
+     "answer": "TARAYICI",
+     "clue": "İnternette gezinmeyi sağlayan yazılım"
+    },
+    {
+     "answer": "VİRÜS",
+     "clue": "Hücre dışında çoğalamayan mikroskobik etken"
+    },
+    {
+     "answer": "YÜZME",
+     "clue": "Suda yapılan spor"
+    }
+   ]
+  }
+ ]
+}

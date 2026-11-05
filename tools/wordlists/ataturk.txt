@@ -1,0 +1,78 @@
+AMASYA|Ulusal egemenliğin ilk kez ilan edildiği 1919 genelgesinin kenti
+TEKALİF|Milli Mücadele'de ordunun ihtiyaçları için çıkarılan emirler
+ANKARA|TBMM'nin toplandığı ve Cumhuriyet'in başkenti olan kent
+HİLAFET|1924'te kaldırılan dinî-siyasi makam
+SALTANAT|1922'de kaldırılan hükümdarlık düzeni
+ŞAPKA|Hat Kanunu ile yaygınlaştırılan başlık
+TEKKE|1925'te kapatılan dinî toplanma yeri
+İSVİÇRE|Yeni Medeni Kanun'un esas alındığı Avrupa ülkesi
+MEDENİKANUN|1926'da kabul edilen, aile hukukunu da düzenleyen kanun
+SOYADI|1934'te zorunlu hâle gelen ikinci ad
+KIYAFET|1934 tarihli, giyim tarzını düzenleyen kanunun adı
+ATATÜRK|Cumhuriyetin kurucusu ve ilk Cumhurbaşkanı
+MUSTAFA|Selanik'te doğan kurucunun doğumdaki adı
+KEMAL|Mustafa'nın yanında kullanılan ikinci adı
+SELANİK|Atatürk'ün doğduğu Rumeli şehri
+MANASTIR|Mustafa Kemal'in askerî eğitim gördüğü Rumeli kenti
+HARBİYE|Mustafa Kemal'in mezun olduğu askerî okul
+ANAFARTALAR|1915'te Gelibolu'da Mustafa Kemal'in kazandığı muharebe
+GELİBOLU|Çanakkale cephesinin ana sahnesi olan yarımada
+ARIBURNU|1915'te Anzakların çıkarma yaptığı Çanakkale sahili
+HALKFIRKASI|Cumhuriyet Halk Partisi'nin 1923'teki ilk adı
+SERBESTFIRKA|1930'da kurulup kısa sürede kapatılan muhalefet partisi
+MÜTAREKE|Ateşkes anlamına gelen, 1918 tarihli anlaşma türü
+İSTİKLAL|Milli marşın adındaki, bağımsızlık anlamına gelen kelime
+KOCATEPE|Afyon'da 1922'de kazanılan ünlü muharebenin adı
+AFYON|Kocatepe Muharebesi'nin yapıldığı il
+BÜYÜKTAARRUZ|Mustafa Kemal'in başkomutanlığında 1922'de başlayan saldırı
+BAŞKOMUTAN|1921'de Mustafa Kemal'e verilen komutanlık unvanı
+MAREŞAL|Sakarya'dan sonra Mustafa Kemal'e verilen rütbe
+FEVZİÇAKMAK|Kurtuluş Savaşı'nda Genelkurmay Başkanlığı yapan komutan
+KARABEKİR|Doğu cephesinde görev yapan Milli Mücadele komutanı
+İNÖNÜ|Lozan'da Türk heyetine başkanlık eden paşa
+CELALBAYAR|İnönü'den sonra Cumhurbaşkanlığına seçilen devlet adamı
+ZİYAGÖKALP|Türkçülük akımının önemli düşünürü
+NUTUK|Atatürk'ün 1927'de okuduğu büyük söylev
+ALTIOK|Cumhuriyet Halk Partisi'nin altı ilkesini simgeleyen amblem
+BOZKURT|Türkçülüğün efsanevi kurt simgesi
+ÇOCUKBAYRAMI|23 Nisan'da kutlanan, Atatürk'ün armağanı olan bayram
+CUMHURİYET|29 Ekim 1923'te ilan edilen devlet biçimi
+ŞEYHSAİD|1925'te doğuda çıkan isyanın lideri
+KARS|Sovyetlerle 1921'de antlaşma imzalanan doğu kenti
+MOSKOVA|1921'de Sovyetlerle imzalanan dostluk antlaşmasının adındaki kent
+GÜMRÜ|1920'de Ermenistan ile imzalanan antlaşmanın kenti
+MEBUSAN|Osmanlı'nın alt meclisinin eski adı
+KOÇGİRİ|1920'de Sivas yöresinde çıkan ayaklanma
+İNKILAPÇILIK|Atatürk ilkelerinden biri: sürekli yenileşmeyi savunan ilke
+TÜRKOCAĞI|1931'de kapatılan milliyetçi kültür derneği
+HALKEVLERİ|1932'de kurulan kültür ve eğitim merkezleri
+DİLKURUMU|1932'de kurulan, Türkçeyi inceleyen kuruluş
+TARİHKURUMU|1931'de kurulan, geçmişi araştıran kuruluş
+TEVHİD|1924'te eğitimi tek çatı altında toplayan kanunun adı
+MİSAKIMİLLİ|1920'de Son Osmanlı Meclisi'nin kabul ettiği sınır kararı
+DARÜLFÜNUN|1933'te reformla kapatılan Osmanlı üniversitesi
+ETİBANK|1935'te kurulan devlet bankası
+SÜMERBANK|1933'te kurulan ve tekstil sanayiini yöneten devlet kuruluşu
+KARDEMİR|1937'de Karabük'te açılan demir-çelik tesisi
+BANDIRMA|Atatürk'ü 1919'da Samsun'a götüren gemi
+RUMELİ|Balkanlardaki Osmanlı topraklarının eski adı
+YUNANİSTAN|Milli Mücadele'de karşı savaşılan devlet
+İTİLAF|Birinci Dünya Savaşı'nda Osmanlı'yı işgal eden devletler birliği
+İKTİSAT|1923'te İzmir'de toplanan kongrenin adındaki kelime
+DOLMABAHÇE|Atatürk'ün 1938'de vefat ettiği İstanbul sarayı
+AYASOFYA|1934'te müzeye çevrilme kararı alınan İstanbul'daki yapı
+SABİHAGÖKÇEN|Atatürk'ün manevi kızı, ilk Türk kadın savaş pilotu
+DİLDEVRİMİ|Alfabe değişikliğiyle birlikte yürütülen köklü reform
+TÜRKİYE|Cumhuriyetle birlikte kurulan devletin adı
+BAŞÖĞRETMEN|Atatürk'ün unvanlarından biri: milletin eğitim önderi
+SADABAT|1937'de dört ülkenin imzaladığı bölgesel güvenlik paktı
+BALKANPAKTI|1934'te Türkiye'nin de imzaladığı bölgesel pakt
+MONTRÖ|Boğazların statüsünün 1936'da yeniden düzenlendiği İsviçre kenti
+KAPİTÜLASYON|Lozan'da kaldırılan yabancı ayrıcalıklar
+MÜBADELE|Lozan'da kararlaştırılan Rum ve Türk nüfus değişimi
+SULH|Atatürk'ün 'yurtta ..., cihanda ...' sözündeki barış kelimesi
+GAZİANTEP|Fransız işgaline direnip 'Gazi' unvanını alan kent
+HİTABE|Atatürk'ün 1927'de gençlere seslendiği konuşmanın adı
+KURULTAY|1932'de Türk dili üzerine yapılan büyük toplantının adı
+MEDRESE|1924'te Tevhid-i Tedrisat ile kapatılan dinî okul
+TARİKAT|1925'te yasaklanan dinî birlik

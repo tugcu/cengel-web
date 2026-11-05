@@ -1,0 +1,120 @@
+AŞURE|Muharrem ayında yapılan, çeşitli tahıllı tatlı
+KÖFTE|Baharatlı kıymadan yapılan, yuvarlak yemek
+DÖNER|Dikey şişte pişen, ince dilimlenen et
+LAHMACUN|İnce hamurun üstünde kıymalı, ince yemek
+PİDE|Kayık biçimli, üstü açık hamur işi
+DOLMA|İçi doldurulmuş sebze yemeği
+SARMA|Yaprağa sarılarak pişen iç harçlı yemek
+CACIK|Yoğurtlu, salatalıklı soğuk meze
+HAYDARİ|Süzme yoğurtlu, sarımsaklı ezme
+MEZE|Rakının yanında sunulan küçük tabaklar
+ÇİĞKÖFTE|Çiğ bulgur ve baharatla yoğrulan yemek
+BULGUR|Haşlanıp kurutulmuş, kırılmış buğday
+PİRİNÇ|Pilavın ana malzemesi olan tahıl
+NOHUT|Sarı renkli, sert kabuklu bakliyat
+FASULYE|Kuru ya da taze yenen bakliyat
+BAMYA|Zeytinyağlı yemeklerde kullanılan, kenarları tüylü sebze
+KABAK|Çekirdeği kavrularak yenen sebze
+ENGİNAR|Dikenli, içi yenen yeşil sebze
+KEREVİZ|Kökü yenen, kokulu sebze
+PIRASA|Uzun, kalın yeşil saplı sebze
+MANTAR|Şapka biçimli, yenilebilen türleri olan bitki
+SOĞAN|Gözleri yaşartan kabuklu sebze
+SARIMSAK|Kokusu sert, dişlerden oluşan baharat
+TUZ|Yemeklere konan beyaz kristal
+BİBER|Acı ya da tatlı, sivri uçlu sebze
+NANE|Serinletici kokulu yeşil yaprak
+MAYDANOZ|Yeşil, yapraklı baharat bitkisi
+DEREOTU|Turşuya ve balığa eşlik eden yeşil bitki
+KİMYON|Köftelerde kullanılan kokulu tohum
+ZERDEÇAL|Sarı renkli, köklü baharat
+SUMAK|Ekşi tadıyla kebabın üstüne serpilen baharat
+ÇÖREK|Susamlı ya da tereyağlı yuvarlak hamur işi
+POĞAÇA|Peynirli ya da zeytinli, küçük hamur işi
+KURABİYE|Kahve ya da çayla yenen bisküvi
+AÇMA|Ortası boş, yumuşak hamur işi
+KEŞKEK|Dövülmüş buğdayla et ile pişen yemek
+KUŞKONMAZ|Yeşil, ince sapları yenen sebze
+BARBUNYA|Kırmızı benekli, taze yenen fasulye
+BAKLA|Kabuğu yenmeyen, iri tohumlu bakliyat
+ŞEKER|Pastaların ana tatlandırıcısı
+KIZARTMA|Bolca yağda pişirilen yemek
+HAŞLAMA|Suda kaynatılarak yapılan pişirme
+KURUTMA|Gıdayı kurutarak uzun süre saklama
+SALAMURA|Tuzlu suda uzun süre saklama
+TANDIR|Toprağa gömülü, çukur şeklinde fırın
+FIRIN|Ekmek ve börek pişirilen kapalı yer
+EKMEK|Un, su ve mayayla yoğrulup pişirilen besin
+YUFKA|İnce, katlanarak kullanılan hamur tabakası
+LAVAŞ|İnce, yuvarlak yassı ekmek
+BAZLAMA|Sacda pişen, yassı ekmek
+KATMER|Kaymaklı, ince katlı hamur işi
+MAYA|Hamurun kabarmasını sağlayan mikroorganizma
+KURUFASULYE|Pilavla birlikte sık yenen fasulye yemeği
+ALİNAZİK|Patlıcanlı, yoğurtlu meze
+MENEMEN|Domatesli, biberli yumurtalı kahvaltılık
+EZOGELİN|Kırmızı mercimekli, bulgurlu çorba
+İSKENDER|Döner üstüne domates sosu ve yoğurt eklenen yemek
+ÇİBÖREK|Kıymalı, kızartılmış yassı hamur işi
+YAYLA|Yoğurtlu, pirinçli, naneli çorba
+BEĞENDİ|Közlenmiş patlıcanlı, sütlü püre
+ŞAKŞUKA|Domatesli, yumurtalı sebze yemeği
+MÜCVER|Kabaklı ya da ıspanaklı, yumurtalı köfte
+KAZANDİBİ|Dibi karamelize, sütlü tatlı
+ŞEKERPARE|Şerbetli, un ve şekerle yapılan tatlı
+REVANİ|İrmikli, şerbetli tatlı
+SÜTLAÇ|Pirinçli, sütlü tatlı
+PEKMEZ|Üzümden ya da incirden elde edilen koyu tatlı
+TAHİN|Susamdan yapılan macun
+PASTA|Kremayla süslenen kek
+MURABBA|Şekerle kaynatılmış meyve
+HOŞAF|Kuru meyvelerle yapılan tatlı içecek
+AYVA|Reçeli yapılan, sarı meyve
+LOKUM|Nişasta ve şekerden yapılan tatlı
+DONDURMA|Sütlü, sakızlı donmuş tatlı
+AYRAN|Yoğurttan yapılan soğuk içecek
+BOZA|Buğdaydan ya da darıdan yapılan, kıvamlı içecek
+ŞALGAM|Acı, tuzlu ve morumsu içecek
+PESTİL|Meyve püresinden yapılan kurutulmuş atıştırmalık
+KISIR|Bulgur ve maydanozla yapılan soğuk salata
+SALATA|Taze sebzelerle hazırlanan yemek
+TAVA|Kızartmaya yarayan, saplı yassı kap
+TENCERE|Yemeğin içinde pişirildiği derin kap
+SÜZGEÇ|Makarnayı süzmeye yarayan delikli kap
+RENDE|Sebze ve peynir doğramaya yarayan alet
+BIÇAK|Mutfakta kesmeye yarayan keskin alet
+KAŞIK|Çorba ve pilav yemeye yarayan alet
+ÇATAL|Yiyeceği saplamaya yarayan alet
+MAŞA|Sıcak yiyecekleri tutmaya yarayan alet
+ÇAYDANLIK|Çayın demlendiği kap
+İBRİK|Türk kahvesi pişirmeye yarayan metal kap
+CEZVE|Kahvenin pişirildiği küçük kap
+HAVAN|Baharat ezmeye yarayan kap
+ÇÖMLEK|Su ya da yağ saklamaya yarayan toprak kap
+ÇANAK|Çorba ya da yemek konulan derin kap
+OKLAVA|Hamuru açmaya yarayan uzun silindir
+ÇIRPICI|Yumurta çırpmaya yarayan alet
+KEPÇE|Çorba almaya yarayan, derin kaşık
+IZGARA|Ateşin üzerinde pişirme yöntemi
+ZENCEFİL|Kökü baharat olarak kullanılan bitki
+KARANFİL|Kurutulmuş tomurcuğu baharat olan bitki
+TARÇIN|Kabuğu öğütülerek tatlılara serpilen baharat
+KAKULE|Kahve ve tatlılara aroma veren tohum
+PULBİBER|Pul halinde kurutulmuş, acı kırmızı baharat
+SUSAM|Simitin üstüne serpilen tohum
+CEVİZ|Sert kabuklu, iç kısmı yenen yemiş
+LİMON|Ekşi, sarı narenciye
+SİRKE|Turşuda kullanılan ekşi sıvı
+SÜT|Memelilerden elde edilen beyaz besin
+TEREYAĞI|Sütten elde edilen, kıvamlı süt ürünü
+YUMURTA|Tavuğun bıraktığı, kırılarak pişen besin
+SALÇA|Domates ya da biberden yapılan koyu macun
+YAĞ|Zeytinden ya da ayçiçeğinden elde edilen sıvı
+PATATES|Püresi ve kızartması yapılan yumru sebze
+HAVUÇ|Turuncu renkli, köklü sebze
+LAHANA|Yaprakları sarılarak yenen sebze
+SALATALIK|Yazın bol yenen, çıtır sebze
+DOMATES|Kırmızı, sulu sebze
+KAVUN|Yazın yenen, tatlı kokulu meyve
+KARPUZ|Yazın yenen, sulu ve iri meyve
+İNCİR|Kurusu da yenen, sütlü meyve

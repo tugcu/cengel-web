@@ -1,0 +1,117 @@
+MEVSİM|Yılın dört bölümünden biri
+BAHAR|Çiçeklerin açtığı mevsim
+KIŞ|Kar yağan soğuk mevsim
+GÜZ|Yaz ile kış arasındaki mevsim
+YAZ|Tatil aylarının mevsimi
+MART|Şubat'tan sonra gelen ay
+NİSAN|Mart'ın ardından gelen ay
+MAYIS|Nisan'dan sonra gelen ay
+HAZİRAN|Yaz mevsiminin ilk ayı
+AĞUSTOS|Yazın son ayı
+EKİM|Eylül'ün ardından gelen ay
+KASIM|Ekim'den sonra gelen ay
+ARALIK|Yılın son ayı
+PAZARTESİ|Haftanın ilk günü
+SALI|Pazartesiden sonra gelen gün
+ÇARŞAMBA|Haftanın ortasındaki gün
+PERŞEMBE|Cumadan önceki gün
+CUMA|Haftanın son iş günü
+CUMARTESİ|Hafta sonunun ilk günü
+PAZAR|Haftanın son günü
+HAFTA|Yedi günlük süre
+GÜN|Yirmi dört saatlik zaman
+YIL|On iki ayı kapsayan süre
+YILBAŞI|Takvim yılının ilk günü
+YÜZYIL|Yüz yıllık süre
+ÇEYREK|Üç aylık dönem
+SAAT|Altmış dakikalık zaman birimi
+DAKİKA|Saatin altmışta biri
+SANİYE|Dakikanın altmışta biri
+GÜNDÜZ|Güneşin doğuşu ile batışı arası
+GECE|Güneşin batışıyla başlayan karanlık zaman
+SABAH|Gün doğumuyla öğle arasındaki vakit
+ÖĞLE|Günün ortasındaki vakit
+İKİNDİ|Öğle ile akşam arasındaki vakit
+AKŞAM|Gün batımıyla gece arasındaki vakit
+TAN|Güneş doğarken oluşan aydınlık
+GÖKYÜZÜ|Dünyanın üstünde uzanan boşluk
+BULUT|Gökyüzünde yüzen su kümesi
+YILDIZ|Kendi ışığını yayan gök cismi
+UFUK|Gökyüzü ile yerin birleştiği çizgi
+ZENİT|Başın tam üzerindeki gök noktası
+KUTUP|Dünyanın dönme ekseninin uç noktası
+EVREN|Tüm gök cisimlerini kapsayan boşluk
+GÖKADA|Güneş sistemimizin bulunduğu yıldız topluluğu
+HİLAL|İncecik ay parçası
+YENİAY|Ayın görünmez olduğu evre
+GÜNDÖNÜMÜ|Gündüzün en uzun ya da en kısa olduğu gün
+METEOR|Atmosfere girince ışık saçan gök cismi
+KOMET|Kuyruklu yıldız
+TUTULMA|Bir gök cisminin diğerini gölgelemesi
+GÖKTAŞI|Uzaydan yeryüzüne düşen taş
+DOLU|Gökten düşen buz parçaları
+YAĞIŞ|Gökten inen su ve kar
+KAR|Soğukta gökten düşen beyaz taneler
+BUZ|Suyun donmuş hâli
+DON|Bitkileri sıfır altı sıcaklıkta zarara uğratan soğuk
+BORAN|Şiddetli kar fırtınası
+TİPİ|Kar ile birlikte esen şiddetli rüzgar
+BORA|Sert ve soğuk esen rüzgar
+POYRAZ|Kuzeydoğudan esen soğuk rüzgar
+LODOS|Güneyden esen nemli rüzgar
+SAMYEL|Çöl kökenli sıcak, kuru rüzgar
+ESİNTİ|Hafif rüzgar
+HORTUM|Dönerek ilerleyen hava akımı
+KASIRGA|Şiddetli, dönerek ilerleyen fırtına
+SAĞANAK|Kısa süreli şiddetli yağış
+PUS|Görüşü azaltan hafif sis
+TOZDUMAN|Rüzgarla savrulan toz bulutu
+DEPREM|Yer kabuğunun ani sarsılması
+VOLKAN|Lav püskürtebilen dağ
+YILDIRIM|Yere inen gök elektriği
+KURAKLIK|Yağışın uzun süre az olması
+SICAKLIK|Havanın ısısını gösteren değer
+SOĞUK|Isısı düşük, sıcak olmayan
+SERİN|Hafifçe soğuk, ferah hava
+NEM|Havadaki su buharı miktarı
+BUHAR|Suyun gaz hâli
+HASAT|Ürünlerin toplandığı dönem
+TOMURCUK|Henüz açmamış çiçek ya da yaprak
+FİDAN|Dikilmek üzere yetiştirilen genç ağaç
+PİKNİK|Açık havada yenilen öğün
+KAMP|Açık havada çadırda konaklama
+TATİL|Çalışılmayan dinlenme dönemi
+KANDİL|Dini anlamı olan mübarek gece
+NEVRUZ|Baharın gelişini kutlayan bayram
+BAYRAM|Dini ya da ulusal kutlama günü
+MUHARREM|Hicri takvimin ilk ayı
+ŞEVVAL|Ramazan'dan sonra gelen ay
+ŞABAN|Ramazan'dan önceki ay
+RECEP|Hicri takvimde yedinci ay
+ZİLHİCCE|Hicri takvimin son ayı
+YILDÖNÜMÜ|Bir olayın yılda bir kutlandığı gün
+KARANLIK|Işığın olmadığı durum
+SEZON|Bir etkinliğin yıl içindeki dönemi
+BULUTLU|Gökyüzü bulutlarla kaplı olan hava
+İKLİM|Bir yerin uzun süreli hava özellikleri
+HAVA|Atmosferin o anki durumu
+MENEKŞE|Mor renkli, kokulu küçük bahar çiçeği
+KARDELEN|Kar eriyince açan küçük bahar çiçeği
+SÜSEN|Mor renkli, zarif bahar çiçeği
+YAĞMURLU|Yağmur yağan hava
+SİSLİ|Sis kaplı, görüşü az olan hava
+GÜNEŞLİ|Güneşin parladığı açık hava
+ILIK|Ne sıcak ne soğuk olan hava
+SICAK|Isısı yüksek olan
+ÇİMEN|Çimlerle kaplı alan
+YAPRAK|Sonbaharda dökülen ağaç organı
+TOZ|Rüzgarla uçuşan ince parçacıklar
+GÖK|Yeryüzünün üstündeki boşluk
+KARLI|Üzeri kar ile örtülü
+BAŞAK|Olgunlaşınca hasat edilen tahıl başı
+HAZAN|Eski dilde sonbahar
+ZAMAN|Olayların geçtiği süreklilik
+SENE|Eski dilde yıl
+HİCRET|Hz. Muhammed'in Mekke'den Medine'ye göçü
+EKİNOKS|Gece ile gündüzün eşit olduğu gün
+MEVSİMLİK|Yalnızca bir mevsimde kullanılan
